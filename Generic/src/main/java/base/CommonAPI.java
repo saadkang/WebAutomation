@@ -26,7 +26,7 @@ import java.util.concurrent.TimeUnit;
  */
 public class CommonAPI {
 
-    public WebDriver driver = null;
+    public static WebDriver driver = null;
     private String saucelabs_username = "your user name";
     private String browserstack_username = "your user name";
     private String saucelabs_accesskey = "your access key";
