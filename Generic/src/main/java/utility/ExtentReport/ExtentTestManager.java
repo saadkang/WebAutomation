@@ -2,19 +2,20 @@ package utility.ExtentReport;
 
 import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.ExtentTest;
+
 import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by mrahman on 2/27/17.
+ * Created by mrahman on 05/13/17.
  */
 
 public class ExtentTestManager{
 
     static Map<Integer, ExtentTest> extentTestMap = new HashMap<Integer, ExtentTest>();
 
-    private static ExtentReports extent = utility.ExtentReport.ExtentReportManager.getInstance();
-    private static ExtentReports extentUpdate = utility.ExtentReport.ExtentReportManager.getInstance();
+    private static ExtentReports extent = ExtentManager.getInstance();
+    private static ExtentReports extentUpdate = ExtentManager.getInstance();
 
     public static synchronized ExtentTest getTest() {
         return extentTestMap.get((int) (long) (Thread.currentThread().getId()));

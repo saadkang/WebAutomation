@@ -7,7 +7,7 @@ import org.testng.Reporter;
 import org.apache.commons.lang.StringUtils;
 
 /**
- * Created by mrahman on 2/27/17.
+ * Created by mrahman on 05/13/17.
  */
 
 public class TestLogger {

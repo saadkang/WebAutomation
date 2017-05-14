@@ -1,16 +1,17 @@
 package utility.ExtentReport;
 
+
 import com.relevantcodes.extentreports.ExtentReports;
 import org.testng.ITestContext;
 import org.testng.Reporter;
 import java.io.File;
 
 /**
- * Created by mrahman on 2/27/17.
+ * Created by mrahman on 05/13/17.
  */
 
 
-public class ExtentReportManager {
+public class ExtentManager {
 
     private static ExtentReports extent;
     private static ITestContext context;
@@ -32,6 +33,6 @@ public class ExtentReportManager {
 
 
     public static void setOutputDirectory(ITestContext context) {
-        ExtentReportManager.context = context;
+        ExtentManager.context = context;
     }
 }

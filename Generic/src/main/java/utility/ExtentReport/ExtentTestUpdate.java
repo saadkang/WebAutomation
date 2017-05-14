@@ -6,7 +6,7 @@ import com.relevantcodes.extentreports.LogStatus;
 import com.relevantcodes.extentreports.model.Test;
 
 /**
- * Created by mrahman on 2/27/17.
+ * Created by mrahman on 05/13/17.
  */
 public class ExtentTestUpdate extends ExtentTest {
 
@@ -17,16 +17,6 @@ public class ExtentTestUpdate extends ExtentTest {
     public ExtentTestUpdate(String testName, String description) {
         super(testName,description);
     }
-
-    /*
-    public ExtentTestUpdate(String className, String testName, String description) {
-        this.runStatus = LogStatus.UNKNOWN;
-        this.test = new Test();
-        this.test.setName(testName == null?"":testName.trim());
-        this.test.setDescription(description.trim());
-    } */
-
-
 
     public void startTest(String className, String testName, String description) {
         extentReports.startTest(testName);
