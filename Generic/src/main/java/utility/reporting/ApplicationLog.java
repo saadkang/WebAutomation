@@ -1,14 +1,13 @@
-package log;
+package utility.reporting;
 
-import utility.ExtentReport.TestLogger;
+import utility.reporting.TestLogger;
 
 /**
  * Created by mrahman on 5/14/17.
  */
-public class NYPLog {
+public class ApplicationLog {
     public static void epicLogger(String epic){
         TestLogger.log(epic);
         TestLogger.log("Launch local browser Instance");
-
     }
 }

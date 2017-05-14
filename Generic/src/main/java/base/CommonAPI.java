@@ -17,8 +17,8 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.ITestContext;
 import org.testng.ITestResult;
 import org.testng.annotations.*;
-import utility.ExtentReport.ExtentManager;
-import utility.ExtentReport.ExtentTestManager;
+import utility.reporting.ExtentManager;
+import utility.reporting.ExtentTestManager;
 
 import java.io.File;
 import java.io.IOException;
@@ -41,7 +41,7 @@ public class CommonAPI {
 
     public static ExtentReports extent;
 
-       @BeforeSuite
+    @BeforeSuite
     public void extentSetup(ITestContext context) {
         ExtentManager.setOutputDirectory(context);
         extent = ExtentManager.getInstance();
@@ -61,7 +61,6 @@ public class CommonAPI {
         t.printStackTrace(pw);
         return sw.toString();
     }
-
     @AfterMethod
     public void afterEachTestMethod(ITestResult result) {
         ExtentTestManager.getTest().getTest().setStartedTime(getTime(result.getStartMillis()));

@@ -1,7 +1,7 @@
 package metro;
 
 import base.CommonAPI;
-import log.NYPLog;
+import utility.reporting.ApplicationLog;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.Test;
 
@@ -12,7 +12,7 @@ public class Metro extends CommonAPI {
 
     @Test
     public void metroNews(){
-        NYPLog.epicLogger("Epic: Metro EC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>");
+        ApplicationLog.epicLogger("Epic: Metro AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>");
         MetroPage metroPage = PageFactory.initElements(driver, MetroPage.class);
         metroPage.metroPageNews();
     }

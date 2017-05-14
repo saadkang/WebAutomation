@@ -1,4 +1,4 @@
-package utility.ExtentReport;
+package utility.reporting;
 
 
 import com.relevantcodes.extentreports.ExtentReports;
@@ -9,8 +9,6 @@ import java.io.File;
 /**
  * Created by mrahman on 05/13/17.
  */
-
-
 public class ExtentManager {
 
     private static ExtentReports extent;
