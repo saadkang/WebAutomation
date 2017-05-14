@@ -1,2 +1,4 @@
-utility/ExtentReport/ExtentReportManager.class
-utility/ExtentReport/LogFactory.class
+utility\ExtentReport\ExtentTestUpdate.class
+utility\ExtentReport\ExtentManager.class
+utility\ExtentReport\ExtentTestManager.class
+utility\ExtentReport\TestLogger.class

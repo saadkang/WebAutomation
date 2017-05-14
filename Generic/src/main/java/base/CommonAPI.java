@@ -41,7 +41,7 @@ public class CommonAPI {
 
     public static ExtentReports extent;
 
-    @BeforeSuite
+       @BeforeSuite
     public void extentSetup(ITestContext context) {
         ExtentManager.setOutputDirectory(context);
         extent = ExtentManager.getInstance();
