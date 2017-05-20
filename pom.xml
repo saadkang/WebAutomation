@@ -13,6 +13,11 @@
         <module>Amazon</module>
         <module>Upscalelearning</module>
         <module>NYP</module>
+        <module>AliBaba</module>
+        <module>eBay</module>
+        <module>Starbucks</module>
+        <module>greenturtle</module>
+        <module>BassPro</module>
     </modules>
 
     <dependencyManagement>

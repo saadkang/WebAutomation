@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 public class SearchItems extends CommonAPI {
 
     @Test
-    public void serach(){
+    public void search(){
         typeByCss("#twotabsearchtextbox", "iphone");
         clickByCss(".nav-input");
     }

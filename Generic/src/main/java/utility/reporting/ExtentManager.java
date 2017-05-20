@@ -22,7 +22,7 @@ public class ExtentManager {
             Reporter.log("Extent Report directory: " + resultDirectory, true);
             extent.addSystemInfo("Host Name" , "Pnt")
                     .addSystemInfo("Environment", "QA")
-                    .addSystemInfo("User Name", "Matiur Rahman");
+                    .addSystemInfo("User Name", "team5selenium@gmail.com");
             extent.loadConfig(new File(System.getProperty("user.dir") + "/report-config.xml"));
         }
 

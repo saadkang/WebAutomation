@@ -6,17 +6,26 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="AliBaba" />
         <module name="Amazon" />
+        <module name="eBay" />
         <module name="Generic" />
+        <module name="greenturtle" />
         <module name="NYP" />
+        <module name="Starbucks" />
         <module name="Upscalelearning" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="AliBaba" target="1.8" />
       <module name="Amazon" target="1.8" />
+      <module name="BassPro" target="1.8" />
+      <module name="eBay" target="1.8" />
       <module name="Generic" target="1.8" />
+      <module name="greenturtle" target="1.8" />
       <module name="NYP" target="1.8" />
       <module name="PntAutomation" target="1.8" />
+      <module name="Starbucks" target="1.8" />
       <module name="Upscalelearning" target="1.8" />
     </bytecodeTargetLevel>
   </component>

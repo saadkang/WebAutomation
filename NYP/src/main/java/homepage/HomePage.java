@@ -66,8 +66,9 @@ public class HomePage extends CommonAPI {
     }
 
     public void clickOnSportsSection(){
-
-        TestLogger.log(getClass().getSimpleName() + ": " + converToString(new Object(){}.getClass().getEnclosingMethod().getName()));getSectionsMenuSports().click();
+        TestLogger.log(getClass().getSimpleName() + ": " + converToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+        clickOnSectionsMenu();
+        getSectionsMenuSports().click();
     }
     public void goToNewsSection(){
         TestLogger.log(getClass().getSimpleName() + ": " + converToString(new Object(){}.getClass().getEnclosingMethod().getName()));
