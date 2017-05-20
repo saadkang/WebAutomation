@@ -9,6 +9,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/BassPro/pom.xml" />
+        <option value="$PROJECT_DIR$/Upscalelearning/pom.xml" />
       </set>
     </option>
   </component>

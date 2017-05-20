@@ -13,7 +13,6 @@
         <module name="greenturtle" />
         <module name="NYP" />
         <module name="Starbucks" />
-        <module name="Upscalelearning" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
