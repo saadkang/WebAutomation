@@ -17,7 +17,7 @@ public class OurCoffee extends CommonAPI {
     OurCoffeePage ourCoffeePage = PageFactory.initElements(driver, OurCoffeePage.class);
     ourCoffeePage.OurCoffeeLaunch();
  }
- @Test(priority = 1)
+ @Test
     public void CoffeeTest(){
         mouseHoverByCSS(".header_container .container .grid .column.size12of12 #header #nav .nav_menu li#nav_coffee a.tab strong:nth-child(1)");
  }

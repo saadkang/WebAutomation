@@ -17,7 +17,6 @@
         <module>eBay</module>
         <module>Starbucks</module>
         <module>greenturtle</module>
-        <module>BassPro</module>
     </modules>
 
     <dependencyManagement>
