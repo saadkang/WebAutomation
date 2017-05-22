@@ -3,7 +3,7 @@
 
 <suite name="Starbucks" parallel="tests">
 
-    <parameter name="useCloudEnv" value="true"/>
+    <parameter name="useCloudEnv" value="false"/>
     <parameter name="cloudEnvName" value="browserstack"/>
     <parameter name="os" value="Windows"/>
     <parameter name="os_version" value="10"/>
@@ -14,10 +14,10 @@
     <test name = "Starbucks Home">
         <classes>
             <class name="ourcoffee.OurCoffee"/>
-            <class name="groundcoffee.GroundCoffee"/>
-            <class name="kcuppod.KcupPod"/>
-            <class name="verismopod.VerismoPod"/>
-            <class name="wholebeancoffee.WholeBeanCoffee"/>
+            <!--<class name="groundcoffee.GroundCoffee"/>-->
+            <!--<class name="kcuppod.KcupPod"/>-->
+            <!--<class name="verismopod.VerismoPod"/>-->
+            <!--<class name="wholebeancoffee.WholeBeanCoffee"/>-->
         </classes>
     </test>
 </suite>

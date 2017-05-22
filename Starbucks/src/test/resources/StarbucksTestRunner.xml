@@ -14,10 +14,10 @@
     <test name = "Starbucks Home">
         <classes>
             <class name="ourcoffee.OurCoffee"/>
-            <class name="groundcoffee.GroundCoffee"/>
-            <class name="kcuppod.KcupPod"/>
-            <class name="verismopod.VerismoPod"/>
-            <class name="wholebeancoffee.WholeBeanCoffee"/>
+            <!--<class natabstestingfClickOnCoffeeTabffee"/>-->
+            <!--<class name="kcuppod.KcupPod"/>-->
+            <!--<class name="verismopod.VerismoPod"/>-->
+            <!--<class name="wholebeancoffee.WholeBeanCoffee"/>-->
         </classes>
     </test>
 </suite>

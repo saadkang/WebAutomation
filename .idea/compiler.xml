@@ -25,6 +25,7 @@
       <module name="NYP" target="1.8" />
       <module name="PntAutomation" target="1.8" />
       <module name="Starbucks" target="1.8" />
+      <module name="Starbucks10" target="1.8" />
       <module name="Upscalelearning" target="1.8" />
     </bytecodeTargetLevel>
   </component>

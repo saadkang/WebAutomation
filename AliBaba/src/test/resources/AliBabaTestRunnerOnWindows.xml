@@ -13,8 +13,8 @@
 
     <test name = "AliBaba Home">
         <classes>
-            <class name="machinery.Machinery"/>
-            <!--<class name="hardware.Hardware"/>-->
+            <!--<class name="machinery.Machinery"/>-->
+            <class name="hardware.Hardware"/>
             <!--<class name="mechanicalparts.MechanicalParts"/>-->
             <!--<class name="tools.Tools"/>-->
         </classes>

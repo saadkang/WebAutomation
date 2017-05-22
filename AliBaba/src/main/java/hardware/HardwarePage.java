@@ -1,7 +1,6 @@
 package hardware;
 
 import base.CommonAPI;
-import com.gargoylesoftware.htmlunit.Page;
 import homepage.HomePage;
 import org.openqa.selenium.support.PageFactory;
 import utility.reporting.TestLogger;
