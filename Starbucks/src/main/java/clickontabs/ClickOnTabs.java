@@ -14,25 +14,25 @@ public class ClickOnTabs extends CommonAPI{
     @FindBy(how = How.CSS, using = ".header_container .container .grid .column.size12of12 #header #nav .nav_menu li#nav_coffee a.tab strong:nth-child(1)")
     public static WebElement Coffee;
 
-    @FindBy(how = How.CSS, using = ".header_container .container .grid .column.size12of12 #header #nav .nav_menu li#nav_coffee a.tab strong:nth-child(2)")
+    @FindBy(how = How.CSS, using = ".header_container .container .grid .column.size12of12 #header #nav .nav_menu li#nav_menudrinkstea a.tab strong:nth-child(1)")
     public static WebElement Tea;
 
-    @FindBy(how = How.CSS, using = ".header_container .container .grid .column.size12of12 #header #nav .nav_menu li#nav_coffee a.tab strong:nth-child(3)")
+    @FindBy(how = How.CSS, using = ".header_container .container .grid .column.size12of12 #header #nav .nav_menu li#nav_menu a.tab strong:nth-child(1)")
     public static WebElement Menu;
 
-    @FindBy(how = How.CSS, using = ".header_container .container .grid .column.size12of12 #header #nav .nav_menu li#nav_coffee a.tab strong:nth-child(4)")
+    @FindBy(how = How.CSS, using = ".header_container .container .grid .column.size12of12 #header #nav .nav_menu li#nav_coffeehouse a.tab strong:nth-child(1)")
     public static WebElement CoffeeHouse;
 
-    @FindBy(how = How.CSS, using = ".header_container .container .grid .column.size12of12 #header #nav .nav_menu li#nav_coffee a.tab strong:nth-child(5)")
+    @FindBy(how = How.CSS, using = ".header_container .container .grid .column.size12of12 #header #nav .nav_menu li#nav_responsibility a.tab strong:nth-child(1)")
     public static WebElement SocialImpact;
 
-    @FindBy(how = How.CSS, using = ".header_container .container .grid .column.size12of12 #header #nav .nav_menu li#nav_coffee a.tab strong:nth-child(6)")
+    @FindBy(how = How.CSS, using = ".header_container .container .grid .column.size12of12 #header #nav .nav_menu li#nav_card a.tab strong:nth-child(1)")
     public static WebElement Card;
 
-    @FindBy(how = How.CSS, using = ".header_container .container .grid .column.size12of12 #header #nav .nav_menu li#nav_coffee a.tab strong:nth-child(7)")
+    @FindBy(how = How.CSS, using = ".header_container .container .grid .column.size12of12 #header #nav .nav_menu li#nav_blog a.tab strong:nth-child(1)")
     public static WebElement Blog;
 
-    @FindBy(how = How.CSS, using = ".header_container .container .grid .column.size12of12 #header #nav .nav_menu li#nav_coffee a.tab strong:nth-child(8)")
+    @FindBy(how = How.CSS, using = ".header_container .container .grid .column.size12of12 #header #nav .nav_menu li#nav_shop a.tab strong:nth-child(1)")
     public static WebElement Shop;
 
     public static WebElement getCoffee() {
