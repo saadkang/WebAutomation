@@ -13,6 +13,6 @@ public class HardwarePage extends CommonAPI{
     public void hardwarePageCategories(){
         TestLogger.log(getClass().getSimpleName() + ": " + converToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         HomePage homePage = PageFactory.initElements(driver, HomePage.class);
-        homePage.goToSectionsCategoriesHardware();
+        homePage.clickOnCategoriesHardwareTab();
     }
 }

@@ -13,6 +13,6 @@ public class MechanicalPartsPage extends CommonAPI{
     public void mechanicalPartsPageCategories(){
         TestLogger.log(getClass().getSimpleName() + ": " + converToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         HomePage homePage = PageFactory.initElements(driver, HomePage.class);
-        homePage.goToSectionsCategoriesMechanicalParts();
+        homePage.clickOnCategoriesMechanicalPartsTab();
     }
 }

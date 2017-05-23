@@ -11,5 +11,13 @@
 
     <artifactId>BassPro</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>PntAutomation</groupId>
+            <artifactId>Generic</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+
 
 </project>

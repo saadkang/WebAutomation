@@ -11,89 +11,79 @@ import utility.reporting.TestLogger;
  */
 public class HomePage extends CommonAPI{
 
-    @FindBy(how = How.CSS, using = ".header-category-wrapper .header-category .component-list li:nth-child(1)>a")
-    public static WebElement sectionsCategories;
+    @FindBy(how = How.CSS, using = ".sc-hd-prefix2-icon-xs")
+    public static WebElement Categories;
 
-    @FindBy(how = How.CSS, using = ".header-category .component-list li:nth-child(1)>a")
-    public static WebElement sectionsCategoriesMachinery;
+    @FindBy(how = How.CSS, using = "#J_SC_header > header > div.sc-hd-row.sc-hd-main > div.sc-hd-cell.sc-hd-category > div > div > div > ul > li:nth-child(1) > div.title > a:nth-child(1)")
+    public static WebElement CategoriesMachinery;
 
-    @FindBy(how = How.CSS, using = ".header-category .component-list li:nth-child(2)>a")
-    public static WebElement sectionsCategoriesMechanicalParts;
+    @FindBy(how = How.CSS, using = "#J_SC_header > header > div.sc-hd-row.sc-hd-main > div.sc-hd-cell.sc-hd-category > div > div > div > ul > li:nth-child(1) > div.title > a:nth-child(2)")
+    public static WebElement CategoriesMechanicalParts;
 
-    @FindBy(how = How.CSS, using = ".header-category li:nth-child(3)")
-    public static WebElement sectionsCategoriesTools;
+    @FindBy(how = How.CSS, using = "#J_SC_header > header > div.sc-hd-row.sc-hd-main > div.sc-hd-cell.sc-hd-category > div > div > div > ul > li:nth-child(1) > div.title > a:nth-child(3)")
+    public static WebElement CategoriesTools;
 
-    @FindBy(how = How.CSS, using = ".header-category li:nth-child(4)")
-    public static WebElement sectionsCategoriesHardware;
+    @FindBy(how = How.CSS, using = "#J_SC_header > header > div.sc-hd-row.sc-hd-main > div.sc-hd-cell.sc-hd-category > div > div > div > ul > li:nth-child(1) > div.title > a:nth-child(4)")
+    public static WebElement CategoriesHardware;
 
     public static WebElement getSectionsCategories() {
-        return sectionsCategories;
+        return Categories;
     }
 
-    public static WebElement getSectionsCategoriesMachinery() {
-        return sectionsCategoriesMachinery;
+    public static WebElement getCategoriesMachinery() {
+        return CategoriesMachinery;
     }
 
-    public static WebElement getSectionsCategoriesMechanicalParts() {
-        return sectionsCategoriesMechanicalParts;
+    public static WebElement getCategoriesMechanicalParts(){
+        return CategoriesMechanicalParts;
     }
 
-    public static WebElement getSectionsCategoriesTools() {
-        return sectionsCategoriesTools;
+    public static WebElement getCategoriesTools(){
+        return CategoriesTools;
     }
 
-    public static WebElement getSectionsCategoriesHardware() {
-        return sectionsCategoriesHardware;
+    public static WebElement getCategoriesHardware(){
+        return CategoriesHardware;
     }
 
-    public void categories(){
-        clickByCss(".sc-hd-prefix2-icon-xs");
-    }
-
-    public void clickOnSectionsCategories(){
+    public void seeCategoriesOptions(){
         TestLogger.log(getClass().getSimpleName() + ": " + converToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        mouseHoverByCSS(".header-category-wrapper  .header-category-trigger .sc-hd-prefix2-icon-xs");
-        clickByCss(".header-category-wrapper  .header-category-trigger .sc-hd-prefix2-icon-xs");
+        getSectionsCategories().click();
     }
-    public void clickOnSectionsCategoriesMachinery(){
+    public void seeCategoriesMachineryOptions(){
         TestLogger.log(getClass().getSimpleName() + ": " + converToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        clickOnSectionsCategories();
-        getSectionsCategoriesMachinery().click();
+        getCategoriesMachinery().click();
     }
-    public void clickOnSectionsCategoriesMechanicalParts(){
+    public void seeCategoriesMechanicalPartsOptions(){
         TestLogger.log(getClass().getSimpleName() + ": " + converToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        getSectionsCategoriesMechanicalParts().click();
+        getCategoriesMechanicalParts().click();
     }
-    public void clickOnSectionsCategoriesTools(){
+    public void seeCategoriesToolsOptions(){
         TestLogger.log(getClass().getSimpleName() + ": " + converToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        getSectionsCategoriesTools().click();
+        getCategoriesTools().click();
     }
-    public void clickOnSectionsCategoriesHardware(){
+    public void seeCategoriesHardwareOptions(){
         TestLogger.log(getClass().getSimpleName() + ": " + converToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        getSectionsCategoriesHardware().click();
+        getCategoriesHardware().click();
     }
-    public void goToSectionsCategories(){
+    public void clickOnCategoriesTab(){
         TestLogger.log(getClass().getSimpleName() + ": " + converToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        clickOnSectionsCategories();
+        seeCategoriesOptions();
     }
-    public void goToSectionsCategoriesMachinery(){
+    public void clickOnCategoriesMachineryTab(){
         TestLogger.log(getClass().getSimpleName() + ": " + converToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        goToSectionsCategories();
-        clickOnSectionsCategoriesMachinery();
+        seeCategoriesMachineryOptions();
     }
-    public void goToSectionsCategoriesMechanicalParts(){
+    public void clickOnCategoriesMechanicalPartsTab(){
         TestLogger.log(getClass().getSimpleName() + ": " + converToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        goToSectionsCategories();
-        clickOnSectionsCategoriesMechanicalParts();
+        seeCategoriesMechanicalPartsOptions();
     }
-    public void goToSectionsCategoriesTools(){
+    public void clickOnCategoriesToolsTab(){
         TestLogger.log(getClass().getSimpleName() + ": " + converToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        goToSectionsCategories();
-        clickOnSectionsCategoriesTools();
+        seeCategoriesToolsOptions();
     }
-    public void goToSectionsCategoriesHardware(){
+    public void clickOnCategoriesHardwareTab(){
         TestLogger.log(getClass().getSimpleName() + ": " + converToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        goToSectionsCategories();
-        clickOnSectionsCategoriesHardware();
+        seeCategoriesHardwareOptions();
     }
 }

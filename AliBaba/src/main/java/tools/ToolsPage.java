@@ -13,6 +13,6 @@ public class ToolsPage extends CommonAPI{
     public void toolsPageCategories(){
         TestLogger.log(getClass().getSimpleName() + ": " + converToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         HomePage homePage = PageFactory.initElements(driver, HomePage.class);
-        homePage.goToSectionsCategoriesTools();
+        homePage.clickOnCategoriesToolsTab();
     }
 }
