@@ -1,37 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88d8ee8a-8e16-4c3f-ab0c-1245ca465f2f" name="Default" comment="Kang">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Starbucks/src/test/clickontabs/BlogTab.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Starbucks/src/test/clickontabs/CardTab.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Starbucks/src/test/clickontabs/CoffeeHouseTab.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Starbucks/src/test/clickontabs/CoffeeTab.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Starbucks/src/test/clickontabs/MenuTab.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Starbucks/src/test/clickontabs/ShopTab.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Starbucks/src/test/clickontabs/SocialImpactTab.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Starbucks/src/test/clickontabs/TeaTab.java" />
+    <list default="true" id="88d8ee8a-8e16-4c3f-ab0c-1245ca465f2f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/test/java/Categories.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BassPro/BassPro.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BassPro/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BassPro/src/test/resources/BassProTestRunner.xml" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/NYP/screenshots/headlineNews (05.14.2017-06:08AM).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Starbucks/target/classes/coffeepage/OurCoffeePage$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Starbucks/target/classes/coffeepage/OurCoffeePage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Starbucks/target/classes/groundcoffeethingy/GroundCoffeePage$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Starbucks/target/classes/groundcoffeethingy/GroundCoffeePage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Starbucks/target/classes/kcuppod/KcupPodPage$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Starbucks/target/classes/kcuppod/KcupPodPage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Starbucks/target/classes/verismopod/VerismoPodPage$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Starbucks/target/classes/verismopod/VerismoPodPage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Starbucks/target/classes/wholebeancoffee/WholeBeanCoffeePage$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Starbucks/target/classes/wholebeancoffee/WholeBeanCoffeePage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Starbucks/target/test-classes/groundcoffee/GroundCoffee.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Starbucks/target/test-classes/kcuppod/KcupPod.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Starbucks/target/test-classes/ourcoffee/OurCoffee.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Starbucks/target/test-classes/verismopod/VerismoPod.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Starbucks/target/test-classes/wholebeancoffee/WholeBeanCoffee.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/target/classes/homepage/HomePage$1.class" afterPath="$PROJECT_DIR$/AliBaba/target/classes/homepage/HomePage$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/target/classes/homepage/HomePage$10.class" afterPath="$PROJECT_DIR$/AliBaba/target/classes/homepage/HomePage$10.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/target/classes/homepage/HomePage$2.class" afterPath="$PROJECT_DIR$/AliBaba/target/classes/homepage/HomePage$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/target/classes/homepage/HomePage$3.class" afterPath="$PROJECT_DIR$/AliBaba/target/classes/homepage/HomePage$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/target/classes/homepage/HomePage$4.class" afterPath="$PROJECT_DIR$/AliBaba/target/classes/homepage/HomePage$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/target/classes/homepage/HomePage$5.class" afterPath="$PROJECT_DIR$/AliBaba/target/classes/homepage/HomePage$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/target/classes/homepage/HomePage$6.class" afterPath="$PROJECT_DIR$/AliBaba/target/classes/homepage/HomePage$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/target/classes/homepage/HomePage$7.class" afterPath="$PROJECT_DIR$/AliBaba/target/classes/homepage/HomePage$7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/target/classes/homepage/HomePage$8.class" afterPath="$PROJECT_DIR$/AliBaba/target/classes/homepage/HomePage$8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/target/classes/homepage/HomePage$9.class" afterPath="$PROJECT_DIR$/AliBaba/target/classes/homepage/HomePage$9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/target/classes/homepage/HomePage.class" afterPath="$PROJECT_DIR$/AliBaba/target/classes/homepage/HomePage.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/Extent-Report/ExtentReport.html" afterPath="$PROJECT_DIR$/AliBaba/Extent-Report/ExtentReport.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/src/main/java/homepage/HomePage.java" afterPath="$PROJECT_DIR$/AliBaba/src/main/java/homepage/HomePage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/src/test/resources/AliBabaTestRunnerOnWindows.xml" afterPath="$PROJECT_DIR$/AliBaba/src/test/resources/AliBabaTestRunnerOnWindows.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/target/test-classes/AliBabaTestRunnerOnWindows.xml" afterPath="$PROJECT_DIR$/AliBaba/target/test-classes/AliBabaTestRunnerOnWindows.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Starbucks/Extent-Report/ExtentReport.html" afterPath="$PROJECT_DIR$/Starbucks/Extent-Report/ExtentReport.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Starbucks/Starbucks.iml" afterPath="$PROJECT_DIR$/Starbucks/Starbucks.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Starbucks/src/main/java/clickontabs/ClickOnTabs.java" afterPath="$PROJECT_DIR$/Starbucks/src/main/java/clickontabs/ClickOnTabs.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Starbucks/src/test/resources/StarbucksTestRunner.xml" afterPath="$PROJECT_DIR$/Starbucks/src/test/resources/StarbucksTestRunner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Starbucks/target/test-classes/StarbucksTestRunner.xml" afterPath="$PROJECT_DIR$/Starbucks/target/test-classes/StarbucksTestRunner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -59,109 +54,56 @@
     <favorites_list name="automation-march2017" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="SocialImpactTab.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Starbucks/src/test/clickontabs/SocialImpactTab.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="HomePage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/homepage/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="14" column="47" lean-forward="false" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+            <state relative-caret-position="578">
+              <caret line="49" column="42" lean-forward="false" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#1594#1595#0" expanded="true" />
+                <element signature="e#1646#1647#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CardTab.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Starbucks/src/test/clickontabs/CardTab.java">
+      <file leaf-file-name="BassProTestRunner.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BassPro/src/test/resources/BassProTestRunner.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="14" column="48" lean-forward="false" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BlogTab.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Starbucks/src/test/clickontabs/BlogTab.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="14" column="48" lean-forward="false" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StarbucksTestRunner.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Starbucks/src/test/resources/StarbucksTestRunner.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="22" column="47" lean-forward="false" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+            <state relative-caret-position="255">
+              <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ShopTab.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Starbucks/src/test/clickontabs/ShopTab.java">
+      <file leaf-file-name="ClickOnTabs.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Starbucks/src/main/java/clickontabs/ClickOnTabs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="14" column="48" lean-forward="false" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="306">
+              <caret line="22" column="92" lean-forward="false" selection-start-line="22" selection-start-column="92" selection-end-line="22" selection-end-column="92" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MenuTab.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Starbucks/src/test/clickontabs/MenuTab.java">
+      <file leaf-file-name="BlogTab.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Starbucks/src/test/clickontabs/BlogTab.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="14" column="48" lean-forward="false" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="255">
+              <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CoffeeTab.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Starbucks/src/test/clickontabs/CoffeeTab.java">
+      <file leaf-file-name="AliBabaTestRunnerOnWindows.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AliBaba/src/test/resources/AliBabaTestRunnerOnWindows.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="14" column="50" lean-forward="false" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CoffeeHouseTab.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Starbucks/src/test/clickontabs/CoffeeHouseTab.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="14" column="55" lean-forward="false" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TeaTab.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Starbucks/src/test/clickontabs/TeaTab.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="14" column="47" lean-forward="false" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="323">
+              <caret line="19" column="38" lean-forward="false" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -186,8 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Generic/src/main/java/utility/reporting/ExtentManager.java" />
-        <option value="$PROJECT_DIR$/Amazon/src/test/java/searchitems/DropDownMenuSearch.java" />
         <option value="$PROJECT_DIR$/Amazon/src/main/java/search/DropDownMenuPage.java" />
         <option value="$PROJECT_DIR$/NYP/src/test/java/metro/Metro.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/utility/reporting/ApplicationLog.java" />
@@ -224,10 +164,7 @@
         <option value="$PROJECT_DIR$/Starbucks/src/test/java/groundcoffee/GroundCoffee.java" />
         <option value="$PROJECT_DIR$/Starbucks/src/test/java/tabstesting/GroundCoffee.java" />
         <option value="$PROJECT_DIR$/Starbucks/src/test/java/tabstesting/ClickOnCoffeeTab.java" />
-        <option value="$PROJECT_DIR$/AliBaba/src/test/resources/AliBabaTestRunnerOnWindows.xml" />
-        <option value="$PROJECT_DIR$/AliBaba/src/main/java/homepage/HomePage.java" />
         <option value="$PROJECT_DIR$/Starbucks/src/test/coffeetab/CoffeeTab.java" />
-        <option value="$PROJECT_DIR$/Starbucks/src/main/java/clickontabs/ClickOnTabs.java" />
         <option value="$PROJECT_DIR$/Starbucks/src/test/clickontabs/SocialImpactTab.java" />
         <option value="$PROJECT_DIR$/Starbucks/src/test/clickontabs/CardTab.java" />
         <option value="$PROJECT_DIR$/Starbucks/src/test/clickontabs/ShopTab.java" />
@@ -237,6 +174,11 @@
         <option value="$PROJECT_DIR$/Starbucks/src/test/clickontabs/CoffeeHouseTab.java" />
         <option value="$PROJECT_DIR$/Starbucks/src/test/clickontabs/BlogTab.java" />
         <option value="$PROJECT_DIR$/Starbucks/src/test/resources/StarbucksTestRunner.xml" />
+        <option value="$PROJECT_DIR$/AliBaba/src/test/resources/AliBabaTestRunnerOnWindows.xml" />
+        <option value="$PROJECT_DIR$/BassPro/src/test/resources/BassProTestRunner.xml" />
+        <option value="$PROJECT_DIR$/AliBaba/src/test/java/Categories.java" />
+        <option value="$PROJECT_DIR$/AliBaba/src/main/java/homepage/HomePage.java" />
+        <option value="$PROJECT_DIR$/Starbucks/src/main/java/clickontabs/ClickOnTabs.java" />
       </list>
     </option>
   </component>
@@ -286,6 +228,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -298,26 +243,116 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutomation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutomation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Starbucks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutomation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutomation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Starbucks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutomation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutomation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Starbucks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clickontabs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutomation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutomation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Starbucks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clickontabs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Mobile/MobileAutomationMarch2017" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\saadi\workspace\FromGitHub\Automation\Starbucks10\src\test" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
@@ -327,6 +362,10 @@
       <recent name="C:\Users\PIIT_NYA\IdeaProjects\PntAutomation\Amazon\src\test\resources" />
       <recent name="C:\Users\PIIT_NYA\IdeaProjects\PntAutomation\Generic\driver" />
       <recent name="C:\Users\PIIT_NYA\IdeaProjects\PntAutomation\Generic" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\saadi\workspace\FromGitHub\Git-Saved-For-Later\WebAutomation\BassPro\src\test" />
+      <recent name="C:\Users\saadi\workspace\FromGitHub\Automation\Starbucks10\src\test" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -925,7 +964,8 @@
       <updated>1493581055381</updated>
       <workItem from="1493581059795" duration="1507000" />
       <workItem from="1494358144022" duration="201000" />
-      <workItem from="1495476422221" duration="4244000" />
+      <workItem from="1495476422221" duration="10550000" />
+      <workItem from="1495502713628" duration="1453000" />
     </task>
     <task id="LOCAL-00001" summary="adding all the test to my shit">
       <created>1495249718294</created>
@@ -983,43 +1023,50 @@
       <option name="project" value="LOCAL" />
       <updated>1495390944383</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Kang">
+      <created>1495488842990</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1495488842990</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__Users_saadi_workspace_FromGitHub_Automation_Starbucks10_src_test_resources_Startbucks1_0TestRunner_xml - 2017.05.21 at 17h 59m 03s.xml">
-      <configuration name="C:/Users/saadi/workspace/FromGitHub/Automation/Starbucks10/src/test/resources/Startbucks1.0TestRunner.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_saadi_workspace_FromGitHub_Automation_AliBaba_src_test_resources_AliBabaTestRunnerOnWindows_xml - 2017.05.22 at 19h 28m 16s.xml">
+      <configuration name="C:/Users/saadi/workspace/FromGitHub/Automation/AliBaba/src/test/resources/AliBabaTestRunnerOnWindows.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_saadi_workspace_FromGitHub_Automation_Starbucks_src_test_resources_StarbucksTestRunner_xml - 2017.05.21 at 19h 26m 47s.xml">
+    <history-entry file="C__Users_saadi_workspace_FromGitHub_Automation_AliBaba_src_test_resources_AliBabaTestRunnerOnWindows_xml - 2017.05.22 at 19h 28m 55s.xml">
+      <configuration name="C:/Users/saadi/workspace/FromGitHub/Automation/AliBaba/src/test/resources/AliBabaTestRunnerOnWindows.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_saadi_workspace_FromGitHub_Automation_AliBaba_src_test_resources_AliBabaTestRunnerOnWindows_xml - 2017.05.22 at 21h 11m 32s.xml">
+      <configuration name="C:/Users/saadi/workspace/FromGitHub/Automation/AliBaba/src/test/resources/AliBabaTestRunnerOnWindows.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_saadi_workspace_FromGitHub_Automation_AliBaba_src_test_resources_AliBabaTestRunnerOnWindows_xml - 2017.05.22 at 21h 12m 53s.xml">
+      <configuration name="C:/Users/saadi/workspace/FromGitHub/Automation/AliBaba/src/test/resources/AliBabaTestRunnerOnWindows.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_saadi_workspace_FromGitHub_Automation_Starbucks_src_test_resources_StarbucksTestRunner_xml - 2017.05.22 at 17h 45m 46s.xml">
       <configuration name="C:/Users/saadi/workspace/FromGitHub/Automation/Starbucks/src/test/resources/StarbucksTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_saadi_workspace_FromGitHub_Automation_Starbucks_src_test_resources_StarbucksTestRunner_xml - 2017.05.21 at 19h 34m 56s.xml">
+    <history-entry file="C__Users_saadi_workspace_FromGitHub_Automation_Starbucks_src_test_resources_StarbucksTestRunner_xml - 2017.05.22 at 21h 13m 10s.xml">
       <configuration name="C:/Users/saadi/workspace/FromGitHub/Automation/Starbucks/src/test/resources/StarbucksTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_saadi_workspace_FromGitHub_Automation_Starbucks_src_test_resources_StarbucksTestRunner_xml - 2017.05.21 at 19h 37m 16s.xml">
+    <history-entry file="C__Users_saadi_workspace_FromGitHub_Automation_Starbucks_src_test_resources_StarbucksTestRunner_xml - 2017.05.22 at 21h 13m 25s.xml">
       <configuration name="C:/Users/saadi/workspace/FromGitHub/Automation/Starbucks/src/test/resources/StarbucksTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_saadi_workspace_FromGitHub_Automation_Starbucks_src_test_resources_StarbucksTestRunner_xml - 2017.05.21 at 19h 41m 09s.xml">
+    <history-entry file="C__Users_saadi_workspace_FromGitHub_Automation_Starbucks_src_test_resources_StarbucksTestRunner_xml - 2017.05.22 at 21h 22m 11s.xml">
       <configuration name="C:/Users/saadi/workspace/FromGitHub/Automation/Starbucks/src/test/resources/StarbucksTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_saadi_workspace_FromGitHub_Automation_Starbucks_src_test_resources_StarbucksTestRunner_xml - 2017.05.22 at 14h 36m 22s.xml">
+    <history-entry file="C__Users_saadi_workspace_FromGitHub_Automation_Starbucks_src_test_resources_StarbucksTestRunner_xml - 2017.05.22 at 21h 48m 39s.xml">
       <configuration name="C:/Users/saadi/workspace/FromGitHub/Automation/Starbucks/src/test/resources/StarbucksTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_saadi_workspace_FromGitHub_Automation_Starbucks_src_test_resources_StarbucksTestRunner_xml - 2017.05.22 at 14h 52m 03s.xml">
-      <configuration name="C:/Users/saadi/workspace/FromGitHub/Automation/Starbucks/src/test/resources/StarbucksTestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_saadi_workspace_FromGitHub_Automation_Starbucks_src_test_resources_StarbucksTestRunner_xml - 2017.05.22 at 14h 58m 15s.xml">
-      <configuration name="C:/Users/saadi/workspace/FromGitHub/Automation/Starbucks/src/test/resources/StarbucksTestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_saadi_workspace_FromGitHub_Automation_Starbucks_src_test_resources_StarbucksTestRunner_xml - 2017.05.22 at 15h 18m 59s.xml">
-      <configuration name="C:/Users/saadi/workspace/FromGitHub/Automation/Starbucks/src/test/resources/StarbucksTestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_saadi_workspace_FromGitHub_Automation_Starbucks_src_test_resources_StarbucksTestRunner_xml - 2017.05.22 at 15h 22m 42s.xml">
+    <history-entry file="C__Users_saadi_workspace_FromGitHub_Automation_Starbucks_src_test_resources_StarbucksTestRunner_xml - 2017.05.22 at 21h 52m 19s.xml">
       <configuration name="C:/Users/saadi/workspace/FromGitHub/Automation/Starbucks/src/test/resources/StarbucksTestRunner.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34643000" />
+    <option name="totallyTimeSpent" value="42402000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1032,9 +1079,9 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07540263" sideWeight="0.49577168" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07467057" sideWeight="0.49577168" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30599368" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30441642" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32769555" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1086,7 +1133,8 @@
     <MESSAGE value="added all the test again" />
     <MESSAGE value="Sauce" />
     <MESSAGE value="maven" />
-    <option name="LAST_COMMIT_MESSAGE" value="maven" />
+    <MESSAGE value="Kang" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kang" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1125,30 +1173,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.4.0/selenium-support-3.4.0.jar!/org/openqa/selenium/support/PageFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.6/commons-lang-2.6.jar!/org/apache/commons/lang/StringUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="966" column="0" lean-forward="false" selection-start-line="966" selection-start-column="0" selection-end-line="966" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/reporting/TestLogger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/search/ItemsToBeSearched.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="268">
@@ -1291,13 +1315,6 @@
     <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/ourcoffee/OurCoffee.java" />
     <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/kcuppod/KcupPod.java" />
     <entry file="file://$PROJECT_DIR$/Starbucks10/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunnerOnWindows.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="8" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Starbucks10/src/test/resources/Startbucks1.0TestRunner.xml" />
     <entry file="file://$PROJECT_DIR$/Starbucks10/src/main/java/hoverovercoffee/HoverCoffee.java" />
     <entry file="file://$PROJECT_DIR$/Starbucks10/src/test/java/coffeepage/CoffeePage.java" />
@@ -1322,20 +1339,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/homepage/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="52" column="5" lean-forward="true" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AliBaba/src/test/resources/AliBabaTestRunnerOnWindows.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/hardware/HardwarePage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -1343,71 +1346,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Starbucks/src/main/java/clickontabs/ClickOnTabs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="34" column="150" lean-forward="false" selection-start-line="34" selection-start-column="150" selection-end-line="34" selection-end-column="150" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Starbucks/src/test/clickontabs/TeaTab.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="14" column="47" lean-forward="false" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Starbucks/src/test/clickontabs/SocialImpactTab.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="219">
           <caret line="14" column="47" lean-forward="false" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Starbucks/src/test/clickontabs/ShopTab.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="14" column="48" lean-forward="false" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Starbucks/src/test/clickontabs/MenuTab.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="14" column="48" lean-forward="false" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Starbucks/src/test/clickontabs/CoffeeTab.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="14" column="50" lean-forward="false" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Starbucks/src/test/clickontabs/CoffeeHouseTab.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="14" column="55" lean-forward="false" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1415,19 +1357,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="219">
           <caret line="14" column="48" lean-forward="false" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Starbucks/src/test/clickontabs/BlogTab.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="14" column="48" lean-forward="false" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1435,6 +1364,109 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="355">
           <caret line="22" column="47" lean-forward="false" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Starbucks/src/test/clickontabs/ShopTab.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="14" column="48" lean-forward="false" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Starbucks/src/test/clickontabs/MenuTab.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="14" column="48" lean-forward="false" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Starbucks/src/test/clickontabs/CoffeeTab.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="14" column="50" lean-forward="false" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Starbucks/src/test/clickontabs/CoffeeHouseTab.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="14" column="55" lean-forward="false" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Starbucks/src/test/clickontabs/TeaTab.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="14" column="47" lean-forward="false" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BassPro/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunnerOnWindows.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="8" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BassPro/src/test/resources/BassProTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/test/java/Categories.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/test/resources/AliBabaTestRunnerOnWindows.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="38" lean-forward="false" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/homepage/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="49" column="42" lean-forward="false" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
+          <folding>
+            <element signature="e#1594#1595#0" expanded="true" />
+            <element signature="e#1646#1647#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Starbucks/src/main/java/clickontabs/ClickOnTabs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="22" column="92" lean-forward="false" selection-start-line="22" selection-start-column="92" selection-end-line="22" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Starbucks/src/test/clickontabs/BlogTab.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
           <folding />
         </state>
       </provider>

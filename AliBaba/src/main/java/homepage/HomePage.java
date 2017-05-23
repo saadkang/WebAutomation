@@ -46,6 +46,10 @@ public class HomePage extends CommonAPI{
         return sectionsCategoriesHardware;
     }
 
+    public void categories(){
+        clickByCss(".sc-hd-prefix2-icon-xs");
+    }
+
     public void clickOnSectionsCategories(){
         TestLogger.log(getClass().getSimpleName() + ": " + converToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         mouseHoverByCSS(".header-category-wrapper  .header-category-trigger .sc-hd-prefix2-icon-xs");

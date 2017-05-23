@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="AliBaba" />
         <module name="Amazon" />
+        <module name="BassPro" />
         <module name="eBay" />
         <module name="Generic" />
         <module name="greenturtle" />
