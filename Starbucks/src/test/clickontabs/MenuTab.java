@@ -11,9 +11,10 @@ import utility.reporting.ApplicationLog;
 public class MenuTab extends CommonAPI{
 
     @Test
-    public void menu(){
+    public void menu() throws InterruptedException {
         ApplicationLog.epicLogger("Epic: MenuTab AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>");
         ClickOnTabs clickOnTabs = PageFactory.initElements(driver, ClickOnTabs.class);
-        clickOnTabs.goToMenu();
+        clickOnTabs.clickOnMenuTab();
+        Thread.sleep(2000);
     }
 }

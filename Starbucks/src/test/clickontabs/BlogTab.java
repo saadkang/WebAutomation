@@ -11,9 +11,10 @@ import utility.reporting.ApplicationLog;
 public class BlogTab extends CommonAPI{
 
     @Test
-    public void blog(){
+    public void blog() throws InterruptedException {
         ApplicationLog.epicLogger("Epic: BlogTab AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>");
         ClickOnTabs clickOnTabs = PageFactory.initElements(driver, ClickOnTabs.class);
-        clickOnTabs.goToBlog();
+        clickOnTabs.clickOnBlogTab();
+        Thread.sleep(2000);
     }
 }

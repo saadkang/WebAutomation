@@ -11,9 +11,10 @@ import utility.reporting.ApplicationLog;
 public class TeaTab extends CommonAPI{
 
     @Test
-    public void tea(){
+    public void tea() throws InterruptedException {
         ApplicationLog.epicLogger("Epic: TeaTab AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>");
         ClickOnTabs clickOnTabs = PageFactory.initElements(driver, ClickOnTabs.class);
-        clickOnTabs.goToTea();
+        clickOnTabs.clickOnTeaTab();
+        Thread.sleep(2000);
     }
 }

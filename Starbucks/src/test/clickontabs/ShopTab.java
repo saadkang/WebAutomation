@@ -11,9 +11,10 @@ import utility.reporting.ApplicationLog;
 public class ShopTab extends CommonAPI{
 
     @Test
-    public void shop(){
+    public void shop() throws InterruptedException {
         ApplicationLog.epicLogger("Epic: ShopTab AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>");
         ClickOnTabs clickOnTabs = PageFactory.initElements(driver, ClickOnTabs.class);
-        clickOnTabs.goToShop();
+        clickOnTabs.clickOnShopTab();
+        Thread.sleep(2000);
     }
 }

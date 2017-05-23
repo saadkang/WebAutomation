@@ -11,9 +11,10 @@ import utility.reporting.ApplicationLog;
 public class CardTab extends CommonAPI{
 
     @Test
-    public void card(){
+    public void card() throws InterruptedException {
         ApplicationLog.epicLogger("Epic: CardTab AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>");
         ClickOnTabs clickOnTabs = PageFactory.initElements(driver, ClickOnTabs.class);
-        clickOnTabs.goToCard();
+        clickOnTabs.clickOnCardTab();
+        Thread.sleep(2000);
     }
 }

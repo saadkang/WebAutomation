@@ -67,68 +67,68 @@ public class ClickOnTabs extends CommonAPI{
         return Shop;
     }
 
-    public void clickOnCoffee(){
+    public void seeCoffeeOptions(){
         TestLogger.log(getClass().getSimpleName() + ": " + converToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         getCoffee().click();
     }
-    public void clickOnTea(){
+    public void seeTeaOptions(){
         TestLogger.log(getClass().getSimpleName() + ": " + converToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         getTea().click();
     }
-    public void clickOnMenu(){
+    public void seeMenuOptions(){
         TestLogger.log(getClass().getSimpleName() + ": " + converToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         getMenu().click();
     }
-    public void clickOnCoffeHouse(){
+    public void seeCoffeHouseOptions(){
         TestLogger.log(getClass().getSimpleName() + ": " + converToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         getCoffeeHouse().click();
     }
-    public void clickOnSocialImpact(){
+    public void seeSocialImpactOptions(){
         TestLogger.log(getClass().getSimpleName() + ": " + converToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         getSocialImpact().click();
     }
-    public void clickOnCard(){
+    public void seeCardOptions(){
         TestLogger.log(getClass().getSimpleName() + ": " + converToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         getCard().click();
     }
-    public void clickOnBlog(){
+    public void seeBlogOptions(){
         TestLogger.log(getClass().getSimpleName() + ": " + converToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         getBlog().click();
     }
-    public void clickOnShop(){
+    public void seeShopOptions(){
         TestLogger.log(getClass().getSimpleName() + ": " + converToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         getShop().click();
     }
-    public void goToCoffee(){
+    public void clickOnCoffeeTab(){
         TestLogger.log(getClass().getSimpleName() + ": " + converToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        clickOnCoffee();
+        seeCoffeeOptions();
     }
-    public void goToTea(){
+    public void clickOnTeaTab(){
         TestLogger.log(getClass().getSimpleName() + ": " + converToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        clickOnTea();
+        seeTeaOptions();
     }
-    public void goToMenu(){
+    public void clickOnMenuTab(){
         TestLogger.log(getClass().getSimpleName() + ": " + converToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        clickOnMenu();
+        seeMenuOptions();
     }
-    public void goToCoffeeHouse(){
+    public void clickOnCoffeeHouseTab(){
         TestLogger.log(getClass().getSimpleName() + ": " + converToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        clickOnCoffeHouse();
+        seeCoffeHouseOptions();
     }
-    public void goToSocialImpact(){
+    public void clickOnSocialImpactTab(){
         TestLogger.log(getClass().getSimpleName() + ": " + converToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        clickOnSocialImpact();
+        seeSocialImpactOptions();
     }
-    public void goToCard(){
+    public void clickOnCardTab(){
         TestLogger.log(getClass().getSimpleName() + ": " + converToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        clickOnCard();
+        seeCardOptions();
     }
-    public void goToBlog(){
+    public void clickOnBlogTab(){
         TestLogger.log(getClass().getSimpleName() + ": " + converToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        clickOnBlog();
+        seeBlogOptions();
     }
-    public void goToShop(){
+    public void clickOnShopTab(){
         TestLogger.log(getClass().getSimpleName() + ": " + converToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        clickOnShop();
+        seeShopOptions();
     }
 }

@@ -11,9 +11,10 @@ import utility.reporting.ApplicationLog;
 public class SocialImpactTab extends CommonAPI{
 
     @Test
-    public void socialImpact(){
+    public void socialImpact() throws InterruptedException {
         ApplicationLog.epicLogger("Epic: SocialImpactTab AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>");
         ClickOnTabs clickOnTabs = PageFactory.initElements(driver, ClickOnTabs.class);
-        clickOnTabs.goToSocialImpact();
+        clickOnTabs.clickOnSocialImpactTab();
+        Thread.sleep(2000);
     }
 }
