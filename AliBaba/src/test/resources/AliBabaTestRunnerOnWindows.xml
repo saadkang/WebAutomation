@@ -18,6 +18,9 @@
             <!--<class name="mechanicalparts.MechanicalParts"/>-->
             <!--<class name="tools.Tools"/>-->
             <!--<class name="hardware.Hardware"/>-->
+            <!--<class name="consumerelectronics.ConsumerElectronics"/>-->
+            <!--<class name="homeappliance.HomeAppliance"/>-->
+            <!--<class name="security.Security"/>-->
         </classes>
     </test>
 </suite>
