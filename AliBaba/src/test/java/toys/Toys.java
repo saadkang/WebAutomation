@@ -1,4 +1,4 @@
-package bags;
+package toys;
 
 import base.CommonAPI;
 import categories.Categories;
@@ -9,15 +9,15 @@ import utility.reporting.ApplicationLog;
 /**
  * Created by saadi on 5/24/2017.
  */
-public class Bags extends CommonAPI{
+public class Toys extends CommonAPI{
 
     @Test
-    public void bagsCategories() throws InterruptedException {
-        ApplicationLog.epicLogger("Epic: Bags AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>");
+    public void toysCategories() throws InterruptedException {
+        ApplicationLog.epicLogger("Epic: Toys AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>");
         Categories categories = PageFactory.initElements(driver, Categories.class);
         categories.categories();
-        BagsPage bagsPage = PageFactory.initElements(driver, BagsPage.class);
-        bagsPage.bagsPageCategories();
+        ToysPage toysPage = PageFactory.initElements(driver, ToysPage.class);
+        toysPage.toysPageCategories();
         Thread.sleep(1000);
     }
 }

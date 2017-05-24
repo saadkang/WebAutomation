@@ -31,6 +31,24 @@
             <class name="construction.Constructions"/>
             <class name="lights.Lights"/>
             <class name="furniture.Furniture"/>
+            <class name="beautyandpersonalcare.BeautyAndPersonalCare"/>
+            <class name="health.Health"/>
+            <class name="packagingandprinting.PackagingAndPrinting"/>
+            <class name="serviceequipment.ServiceEquipment"/>
+            <class name="electricalequipment.ElectricalEquipment"/>
+            <class name="components.Components"/>
+            <class name="telecoms.Telecoms"/>
+            <class name="sports.Sports"/>
+            <class name="gifts.Gifts"/>
+            <class name="toys.Toys"/>
+            <class name="minerals.Minerals"/>
+            <class name="chemicals.Chemicals"/>
+            <class name="plastics.Plastics"/>
+            <class name="energy.Energy"/>
+            <class name="bags.Bags"/>
+            <class name="shoesandaccessories.ShoesAndAccessories"/>
+            <class name="foodandbeverages.FoodAndBeverages"/>
+            <class name="agriculture.Agriculture"/>
         </classes>
     </test>
 </suite>
