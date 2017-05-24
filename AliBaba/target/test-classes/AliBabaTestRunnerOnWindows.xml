@@ -13,14 +13,24 @@
 
     <test name = "AliBaba Home">
         <classes>
-            <!--<class name="categories.Categories"/>-->
-            <!--<class name="machinery.Machinery"/>-->
-            <!--<class name="mechanicalparts.MechanicalParts"/>-->
-            <!--<class name="tools.Tools"/>-->
-            <!--<class name="hardware.Hardware"/>-->
+            <class name="categories.Categories"/>
+            <class name="machinery.Machinery"/>
+            <class name="mechanicalparts.MechanicalParts"/>
+            <class name="tools.Tools"/>
+            <class name="hardware.Hardware"/>
             <class name="consumerelectronics.ConsumerElectronics"/>
             <class name="homeappliance.HomeAppliance"/>
             <class name="security.Security"/>
+            <class name="auto.Auto"/>
+            <class name="transportation.Transportation"/>
+            <class name="apparel.Apparel"/>
+            <class name="textile.Textile"/>
+            <class name="timepiece.Timepiece"/>
+            <class name="accessories.Accessories"/>
+            <class name="homeandgarden.HomeAndGarden"/>
+            <class name="construction.Constructions"/>
+            <class name="lights.Lights"/>
+            <class name="furniture.Furniture"/>
         </classes>
     </test>
 </suite>

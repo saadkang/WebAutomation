@@ -18,5 +18,6 @@ public class Tools extends CommonAPI{
         categories.categories();
         ToolsPage toolsPage = PageFactory.initElements(driver, ToolsPage.class);
         toolsPage.toolsPageCategories();
+        Thread.sleep(1000);
     }
 }

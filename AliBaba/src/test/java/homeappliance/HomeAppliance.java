@@ -13,10 +13,11 @@ public class HomeAppliance extends CommonAPI{
 
     @Test
     public void homeApplianceCategories() throws InterruptedException {
-        ApplicationLog.epicLogger("Epic: Metro AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>");
+        ApplicationLog.epicLogger("Epic: HomeAppliance AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>");
         Categories categories = PageFactory.initElements(driver, Categories.class);
         categories.categories();
         HomeAppliancesPage homeAppliancesPage = PageFactory.initElements(driver, HomeAppliancesPage.class);
         homeAppliancesPage.homeAppliancesPageCategories();
+        Thread.sleep(1000);
     }
 }

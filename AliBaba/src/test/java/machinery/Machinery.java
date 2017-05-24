@@ -19,5 +19,6 @@ public class Machinery extends CommonAPI{
         categories.categories();
         MachineryPage machineryPage = PageFactory.initElements(driver, MachineryPage.class);
         machineryPage.machineryPageCategories();
+        Thread.sleep(1000);
     }
 }

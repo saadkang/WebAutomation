@@ -18,5 +18,6 @@ public class ConsumerElectronics extends CommonAPI{
         categories.categories();
         ConsumerElectronicsPage consumerElectronicsPage = PageFactory.initElements(driver, ConsumerElectronicsPage.class);
         consumerElectronicsPage.consumerElectronicsPageCategories();
+        Thread.sleep(1000);
     }
 }

@@ -18,5 +18,6 @@ public class MechanicalParts extends CommonAPI{
         categories.categories();
         MechanicalPartsPage mechanicalPartsPage = PageFactory.initElements(driver, MechanicalPartsPage.class);
         mechanicalPartsPage.mechanicalPartsPageCategories();
+        Thread.sleep(1000);
     }
 }

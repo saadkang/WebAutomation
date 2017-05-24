@@ -18,5 +18,6 @@ public class Security extends CommonAPI{
         categories.categories();
         SecurityPage securityPage = PageFactory.initElements(driver, SecurityPage.class);
         securityPage.securityPageCategories();
+        Thread.sleep(1000);
     }
 }

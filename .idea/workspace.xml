@@ -2,22 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88d8ee8a-8e16-4c3f-ab0c-1245ca465f2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/main/java/accessories/AccessoriesPage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/main/java/apparel/ApparelPage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/main/java/auto/AutoPage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/main/java/construction/ConstructionPage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/main/java/consumerelectronics/ConsumerElectronicsPage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/main/java/furniture/FurniturePage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/main/java/homeandgarden/HomeAndGardenPage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/main/java/homeappliance/HomeAppliancesPage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/main/java/lights/LightsPage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/main/java/security/SecurityPage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/main/java/textile/TextilePage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/main/java/timepiece/TimepiecePage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/main/java/transportation/TransportationPage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/test/java/consumerelectronics/ConsumerElectronics.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/test/java/homeappliance/HomeAppliance.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/test/java/security/Security.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/main/java/agriculture/AgriculturePage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/main/java/bags/BagsPage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/main/java/beautyandpersonalcare/BeautyAndPersonalCarePage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/main/java/chemicals/ChemicalsPage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/main/java/components/ComponentsPage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/main/java/electricalequipment/ElectricalEquipmentPage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/main/java/energy/EnergyPage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/main/java/foodandbeverages/FoodAndBeveragesPage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/main/java/gifts/GiftsPage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/main/java/health/HealthPage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/main/java/minerals/MineralsPage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/main/java/packagingandprinting/PackagingAndPrintingPage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/main/java/plastics/PlasticsPage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/main/java/serviceequipment/ServiceEquipmentPage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/main/java/shoesandaccessories/ShoesAndAccessoriesPage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/main/java/sports/SportsPage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/main/java/telecoms/TelecomsPage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/main/java/toys/ToysPage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/test/java/accessories/Accessories.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/test/java/agriculture/Agriculture.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/test/java/apparel/Apparel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/test/java/auto/Auto.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/test/java/bags/Bags.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/test/java/beautyandpersonalcare/BeautyAndPersonalCare.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/test/java/construction/Constructions.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/test/java/furniture/Furniture.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/test/java/homeandgarden/HomeAndGarden.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/test/java/lights/Lights.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/test/java/textile/Textile.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/test/java/timepiece/Timepiece.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AliBaba/src/test/java/transportation/Transportation.java" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/NYP/screenshots/headlineNews (05.14.2017-06:08AM).png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/target/classes/homepage/HomePage$1.class" afterPath="$PROJECT_DIR$/AliBaba/target/classes/homepage/HomePage$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/target/classes/homepage/HomePage$10.class" afterPath="$PROJECT_DIR$/AliBaba/target/classes/homepage/HomePage$10.class" />
@@ -30,57 +45,18 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/target/classes/homepage/HomePage$8.class" afterPath="$PROJECT_DIR$/AliBaba/target/classes/homepage/HomePage$8.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/target/classes/homepage/HomePage$9.class" afterPath="$PROJECT_DIR$/AliBaba/target/classes/homepage/HomePage$9.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/target/classes/homepage/HomePage.class" afterPath="$PROJECT_DIR$/AliBaba/target/classes/homepage/HomePage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/Amazon-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/Amazon/target/Amazon-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NYP/target/NYP-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/NYP/target/NYP-1.0-SNAPSHOT.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/Extent-Report/ExtentReport.html" afterPath="$PROJECT_DIR$/AliBaba/Extent-Report/ExtentReport.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/src/main/java/homepage/HomePage.java" afterPath="$PROJECT_DIR$/AliBaba/src/main/java/homepage/HomePage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/src/test/java/consumerelectronics/ConsumerElectronics.java" afterPath="$PROJECT_DIR$/AliBaba/src/test/java/consumerelectronics/ConsumerElectronics.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/src/test/java/hardware/Hardware.java" afterPath="$PROJECT_DIR$/AliBaba/src/test/java/hardware/Hardware.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/src/test/java/homeappliance/HomeAppliance.java" afterPath="$PROJECT_DIR$/AliBaba/src/test/java/homeappliance/HomeAppliance.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/src/test/java/machinery/Machinery.java" afterPath="$PROJECT_DIR$/AliBaba/src/test/java/machinery/Machinery.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/src/test/java/mechanicalparts/MechanicalParts.java" afterPath="$PROJECT_DIR$/AliBaba/src/test/java/mechanicalparts/MechanicalParts.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/src/test/java/security/Security.java" afterPath="$PROJECT_DIR$/AliBaba/src/test/java/security/Security.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/src/test/java/tools/Tools.java" afterPath="$PROJECT_DIR$/AliBaba/src/test/java/tools/Tools.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/src/test/resources/AliBabaTestRunnerOnWindows.xml" afterPath="$PROJECT_DIR$/AliBaba/src/test/resources/AliBabaTestRunnerOnWindows.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/target/test-classes/AliBabaTestRunnerOnWindows.xml" afterPath="$PROJECT_DIR$/AliBaba/target/test-classes/AliBabaTestRunnerOnWindows.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/Extent-Report/ExtentReport.html" afterPath="$PROJECT_DIR$/Amazon/Extent-Report/ExtentReport.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon (0)/Amazon Home.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon (0)/Amazon Home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon (0)/Amazon Home.xml" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon (0)/Amazon Home.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon/Amazon Home.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon/Amazon Home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon/Amazon Home.xml" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon/Amazon Home.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/TEST-TestSuite.xml" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/TEST-TestSuite.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/TestSuite-output.txt" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/TestSuite-output.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/TestSuite.txt" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/TestSuite.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/emailable-report.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/emailable-report.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/index.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/jquery-1.7.1.min.js" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/jquery-1.7.1.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/junitreports/TEST-home.SearchItems.xml" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/junitreports/TEST-home.SearchItems.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon (0)/classes.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon (0)/classes.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon (0)/index.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon (0)/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon (0)/main.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon (0)/main.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon (0)/methods-alphabetical.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon (0)/methods-alphabetical.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon (0)/methods-not-run.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon (0)/methods-not-run.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon (0)/methods.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon (0)/methods.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon (0)/reporter-output.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon (0)/reporter-output.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon (0)/testng.xml.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon (0)/testng.xml.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon (0)/toc.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon (0)/toc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/classes.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/classes.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/index.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/main.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/main.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/methods-alphabetical.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/methods-alphabetical.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/methods-not-run.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/methods-not-run.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/methods.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/methods.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/reporter-output.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/reporter-output.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/testng.xml.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/testng.xml.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/toc.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/toc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/index.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-failed.xml" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-failed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-reports.css" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-reports.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-reports.js" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-reports.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-results.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BassPro/BassPro.iml" afterPath="$PROJECT_DIR$/BassPro/BassPro.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NYP/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/NYP/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NYP/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/NYP/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NYP/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/NYP/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/greenturtle/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/greenturtle/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -110,12 +86,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="HomePage.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/homepage/HomePage.java">
+      <file leaf-file-name="Agriculture.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AliBaba/src/test/java/agriculture/Agriculture.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="282" column="40" lean-forward="false" selection-start-line="282" selection-start-column="40" selection-end-line="282" selection-end-column="40" />
-              <folding />
+            <state relative-caret-position="309">
+              <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bags.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AliBaba/src/test/java/bags/Bags.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="326">
+              <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BeautyAndPersonalCare.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AliBaba/src/test/java/beautyandpersonalcare/BeautyAndPersonalCare.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="326">
+              <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -140,47 +142,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Starbucks/src/main/java/homepage/ClickOnTabs.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/Starbucks/src/main/java/coffeepage/OurCoffeePage.java" />
-        <option value="$PROJECT_DIR$/Starbucks/src/main/java/groundcoffeethingy/GroundCoffeePage.java" />
-        <option value="$PROJECT_DIR$/Starbucks/src/main/java/kcuppod/KcupPodPage.java" />
-        <option value="$PROJECT_DIR$/Starbucks/src/main/java/verismopod/VerismoPodPage.java" />
-        <option value="$PROJECT_DIR$/Starbucks/src/main/java/wholebeancoffee/WholeBeanCoffeePage.java" />
-        <option value="$PROJECT_DIR$/Starbucks/src/test/java/groundcoffee/GroundCoffee.java" />
-        <option value="$PROJECT_DIR$/Starbucks/src/test/java/tabstesting/GroundCoffee.java" />
-        <option value="$PROJECT_DIR$/Starbucks/src/test/java/tabstesting/ClickOnCoffeeTab.java" />
-        <option value="$PROJECT_DIR$/Starbucks/src/test/coffeetab/CoffeeTab.java" />
-        <option value="$PROJECT_DIR$/Starbucks/src/test/resources/StarbucksTestRunner.xml" />
-        <option value="$PROJECT_DIR$/BassPro/src/test/resources/BassProTestRunner.xml" />
-        <option value="$PROJECT_DIR$/AliBaba/src/test/java/Categories.java" />
-        <option value="$PROJECT_DIR$/Starbucks/src/main/java/clickontabs/ClickOnTabs.java" />
-        <option value="$PROJECT_DIR$/Starbucks/src/test/clickontabs/BlogTab.java" />
-        <option value="$PROJECT_DIR$/Starbucks/src/test/clickontabs/CardTab.java" />
-        <option value="$PROJECT_DIR$/Starbucks/src/test/clickontabs/CoffeeHouseTab.java" />
-        <option value="$PROJECT_DIR$/Starbucks/src/test/clickontabs/CoffeeTab.java" />
-        <option value="$PROJECT_DIR$/Starbucks/src/test/clickontabs/MenuTab.java" />
-        <option value="$PROJECT_DIR$/Starbucks/src/test/clickontabs/ShopTab.java" />
-        <option value="$PROJECT_DIR$/Starbucks/src/test/clickontabs/SocialImpactTab.java" />
-        <option value="$PROJECT_DIR$/Starbucks/src/test/clickontabs/TeaTab.java" />
-        <option value="$PROJECT_DIR$/BassPro/pom.xml" />
-        <option value="$PROJECT_DIR$/AliBaba/src/test/java/machinery/Machinery.java" />
-        <option value="$PROJECT_DIR$/AliBaba/src/test/java/hardware/Hardware.java" />
-        <option value="$PROJECT_DIR$/AliBaba/src/main/java/mechanicalparts/MechanicalPartsPage.java" />
-        <option value="$PROJECT_DIR$/AliBaba/src/main/java/machinery/MachineryPage.java" />
-        <option value="$PROJECT_DIR$/AliBaba/src/main/java/hardware/HardwarePage.java" />
-        <option value="$PROJECT_DIR$/AliBaba/src/main/java/tools/ToolsPage.java" />
-        <option value="$PROJECT_DIR$/AliBaba/src/test/java/categories/Categories.java" />
-        <option value="$PROJECT_DIR$/AliBaba/src/test/java/tools/Tools.java" />
-        <option value="$PROJECT_DIR$/AliBaba/src/test/java/mechanicalparts/MechanicalParts.java" />
-        <option value="$PROJECT_DIR$/AliBaba/src/main/java/consumerelectronics/ConsumerElectronicsPage.java" />
-        <option value="$PROJECT_DIR$/AliBaba/src/main/java/homeappliance/HomeAppliancesPage.java" />
         <option value="$PROJECT_DIR$/AliBaba/src/main/java/security/SecurityPage.java" />
-        <option value="$PROJECT_DIR$/AliBaba/src/test/java/consumerelectronics/ConsumerElectronics.java" />
-        <option value="$PROJECT_DIR$/AliBaba/src/test/java/homeappliance/HomeAppliance.java" />
-        <option value="$PROJECT_DIR$/AliBaba/src/test/java/security/Security.java" />
-        <option value="$PROJECT_DIR$/AliBaba/src/test/resources/AliBabaTestRunnerOnWindows.xml" />
-        <option value="$PROJECT_DIR$/AliBaba/src/main/java/homepage/HomePage.java" />
         <option value="$PROJECT_DIR$/AliBaba/src/main/java/accessories/AccessoriesPage.java" />
         <option value="$PROJECT_DIR$/AliBaba/src/main/java/apparel/ApparelPage.java" />
         <option value="$PROJECT_DIR$/AliBaba/src/main/java/auto/AutoPage.java" />
@@ -191,6 +153,46 @@
         <option value="$PROJECT_DIR$/AliBaba/src/main/java/textile/TextilePage.java" />
         <option value="$PROJECT_DIR$/AliBaba/src/main/java/timepiece/TimepiecePage.java" />
         <option value="$PROJECT_DIR$/AliBaba/src/main/java/transportation/TransportationPage.java" />
+        <option value="$PROJECT_DIR$/AliBaba/src/test/java/transportation/Transportation.java" />
+        <option value="$PROJECT_DIR$/AliBaba/src/test/java/tools/Tools.java" />
+        <option value="$PROJECT_DIR$/AliBaba/src/test/java/timepiece/Timepiece.java" />
+        <option value="$PROJECT_DIR$/AliBaba/src/test/java/textile/Textile.java" />
+        <option value="$PROJECT_DIR$/AliBaba/src/test/java/security/Security.java" />
+        <option value="$PROJECT_DIR$/AliBaba/src/test/java/mechanicalparts/MechanicalParts.java" />
+        <option value="$PROJECT_DIR$/AliBaba/src/test/java/machinery/Machinery.java" />
+        <option value="$PROJECT_DIR$/AliBaba/src/test/java/lights/Lights.java" />
+        <option value="$PROJECT_DIR$/AliBaba/src/test/java/hardware/Hardware.java" />
+        <option value="$PROJECT_DIR$/AliBaba/src/test/java/consumerelectronics/ConsumerElectronics.java" />
+        <option value="$PROJECT_DIR$/AliBaba/src/test/java/accessories/Accessories.java" />
+        <option value="$PROJECT_DIR$/AliBaba/src/test/java/apparel/Apparel.java" />
+        <option value="$PROJECT_DIR$/AliBaba/src/test/java/auto/Auto.java" />
+        <option value="$PROJECT_DIR$/AliBaba/src/test/java/construction/Constructions.java" />
+        <option value="$PROJECT_DIR$/AliBaba/src/test/java/furniture/Furniture.java" />
+        <option value="$PROJECT_DIR$/AliBaba/src/test/java/homeandgarden/HomeAndGarden.java" />
+        <option value="$PROJECT_DIR$/AliBaba/src/test/java/homeappliance/HomeAppliance.java" />
+        <option value="$PROJECT_DIR$/AliBaba/src/test/resources/AliBabaTestRunnerOnWindows.xml" />
+        <option value="$PROJECT_DIR$/AliBaba/src/main/java/homepage/HomePage.java" />
+        <option value="$PROJECT_DIR$/AliBaba/src/main/java/agriculture/AgriculturePage.java" />
+        <option value="$PROJECT_DIR$/AliBaba/src/main/java/bags/BagsPage.java" />
+        <option value="$PROJECT_DIR$/AliBaba/src/main/java/beautyandpersonalcare/BeautyAndPersonalCarePage.java" />
+        <option value="$PROJECT_DIR$/AliBaba/src/main/java/chemicals/ChemicalsPage.java" />
+        <option value="$PROJECT_DIR$/AliBaba/src/main/java/components/ComponentsPage.java" />
+        <option value="$PROJECT_DIR$/AliBaba/src/main/java/electricalequipment/ElectricalEquipmentPage.java" />
+        <option value="$PROJECT_DIR$/AliBaba/src/main/java/energy/EnergyPage.java" />
+        <option value="$PROJECT_DIR$/AliBaba/src/main/java/foodandbeverages/FoodAndBeveragesPage.java" />
+        <option value="$PROJECT_DIR$/AliBaba/src/main/java/gifts/GiftsPage.java" />
+        <option value="$PROJECT_DIR$/AliBaba/src/main/java/health/HealthPage.java" />
+        <option value="$PROJECT_DIR$/AliBaba/src/main/java/minerals/MineralsPage.java" />
+        <option value="$PROJECT_DIR$/AliBaba/src/main/java/packagingandprinting/PackagingAndPrintingPage.java" />
+        <option value="$PROJECT_DIR$/AliBaba/src/main/java/plastics/PlasticsPage.java" />
+        <option value="$PROJECT_DIR$/AliBaba/src/main/java/serviceequipment/ServiceEquipmentPage.java" />
+        <option value="$PROJECT_DIR$/AliBaba/src/main/java/shoesandaccessories/ShoesAndAccessoriesPage.java" />
+        <option value="$PROJECT_DIR$/AliBaba/src/main/java/sports/SportsPage.java" />
+        <option value="$PROJECT_DIR$/AliBaba/src/main/java/telecoms/TelecomsPage.java" />
+        <option value="$PROJECT_DIR$/AliBaba/src/main/java/toys/ToysPage.java" />
+        <option value="$PROJECT_DIR$/AliBaba/src/test/java/agriculture/Agriculture.java" />
+        <option value="$PROJECT_DIR$/AliBaba/src/test/java/bags/Bags.java" />
+        <option value="$PROJECT_DIR$/AliBaba/src/test/java/beautyandpersonalcare/BeautyAndPersonalCare.java" />
       </list>
     </option>
   </component>
@@ -264,7 +266,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Starbucks" />
+              <option name="myItemId" value="AliBaba" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -278,33 +280,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Starbucks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebAutomation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebAutomation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Starbucks" />
+              <option name="myItemId" value="AliBaba" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -326,25 +302,19 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Starbucks" />
+              <option name="myItemId" value="AliBaba" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="WebAutomation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebAutomation" />
+              <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="AliBaba" />
+              <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -363,6 +333,108 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="categories" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutomation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutomation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AliBaba" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="beautyandpersonalcare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutomation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutomation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AliBaba" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bags" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutomation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutomation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AliBaba" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="agriculture" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1021,7 +1093,7 @@
       <workItem from="1494358144022" duration="201000" />
       <workItem from="1495476422221" duration="10550000" />
       <workItem from="1495502713628" duration="15641000" />
-      <workItem from="1495562195883" duration="15616000" />
+      <workItem from="1495562195883" duration="24935000" />
     </task>
     <task id="LOCAL-00001" summary="adding all the test to my shit">
       <created>1495249718294</created>
@@ -1107,13 +1179,17 @@
       <option name="project" value="LOCAL" />
       <updated>1495526480537</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Kang">
+      <created>1495595680093</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1495595680093</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__Users_saadi_workspace_FromGitHub_Automation_AliBaba_src_test_resources_AliBabaTestRunnerOnWindows_xml - 2017.05.23 at 03h 06m 00s.xml">
-      <configuration name="C:/Users/saadi/workspace/FromGitHub/Automation/AliBaba/src/test/resources/AliBabaTestRunnerOnWindows.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="C__Users_saadi_workspace_FromGitHub_Automation_AliBaba_src_test_resources_AliBabaTestRunnerOnWindows_xml - 2017.05.23 at 03h 13m 09s.xml">
       <configuration name="C:/Users/saadi/workspace/FromGitHub/Automation/AliBaba/src/test/resources/AliBabaTestRunnerOnWindows.xml" configurationId="TestNG" />
     </history-entry>
@@ -1141,13 +1217,15 @@
     <history-entry file="C__Users_saadi_workspace_FromGitHub_Automation_AliBaba_src_test_resources_AliBabaTestRunnerOnWindows_xml - 2017.05.23 at 18h 33m 07s.xml">
       <configuration name="C:/Users/saadi/workspace/FromGitHub/Automation/AliBaba/src/test/resources/AliBabaTestRunnerOnWindows.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="C__Users_saadi_workspace_FromGitHub_Automation_AliBaba_src_test_resources_AliBabaTestRunnerOnWindows_xml - 2017.05.23 at 23h 53m 32s.xml">
+      <configuration name="C:/Users/saadi/workspace/FromGitHub/Automation/AliBaba/src/test/resources/AliBabaTestRunnerOnWindows.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72206000" />
+    <option name="totallyTimeSpent" value="81525000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1164,7 +1242,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32649842" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17715959" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17642753" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1251,95 +1329,18 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Starbucks/src/main/java/kcuppod/KcupPodPage.java" />
-    <entry file="file://$PROJECT_DIR$/Starbucks/src/main/java/verismopod/VerismoPodPage.java" />
-    <entry file="file://$PROJECT_DIR$/Starbucks/src/main/java/wholebeancoffee/WholeBeanCoffeePage.java" />
-    <entry file="file://$PROJECT_DIR$/Starbucks/src/main/java/coffeepage/OurCoffeePage.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/lights/LightsPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="17" column="36" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/tabstesting/ClickOnCoffeeTab.java" />
-    <entry file="file://$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunnerOnWindows.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="8" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BassPro/src/test/resources/BassProTestRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/clickontabs/CoffeeHouseTab.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" column="44" lean-forward="false" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/clickontabs/CoffeeTab.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" column="39" lean-forward="false" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/clickontabs/MenuTab.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" column="37" lean-forward="false" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/clickontabs/ShopTab.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" column="37" lean-forward="false" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/clickontabs/SocialImpactTab.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" column="45" lean-forward="false" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/clickontabs/TeaTab.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" column="36" lean-forward="false" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BassPro/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AliBaba/src/test/java/tools/Tools.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="204">
           <caret line="15" column="46" lean-forward="false" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AliBaba/src/test/java/mechanicalparts/MechanicalParts.java">
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/machinery/MachineryPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="15" column="57" lean-forward="false" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+        <state relative-caret-position="204">
+          <caret line="15" column="49" lean-forward="false" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
           <folding />
         </state>
       </provider>
@@ -1352,7 +1353,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/machinery/MachineryPage.java">
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/security/SecurityPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="49" lean-forward="false" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/textile/TextilePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="47" lean-forward="false" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/timepiece/TimepiecePage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="15" column="49" lean-forward="false" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
@@ -1368,49 +1387,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/reporting/ApplicationLog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/reporting/ExtentManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/reporting/ExtentTestManager.java">
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/transportation/TransportationPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/reporting/TestLogger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <caret line="15" column="54" lean-forward="false" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/security/SecurityPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="49" lean-forward="false" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1424,7 +1405,197 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/test/java/transportation/Transportation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/test/java/tools/Tools.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/test/java/timepiece/Timepiece.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/test/java/textile/Textile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/test/java/security/Security.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/test/java/mechanicalparts/MechanicalParts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/test/java/machinery/Machinery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="21" column="25" lean-forward="false" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/test/java/lights/Lights.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/test/java/apparel/Apparel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="15" column="48" lean-forward="false" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/test/java/auto/Auto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="15" column="45" lean-forward="false" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/test/java/construction/Constructions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="15" column="53" lean-forward="false" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/AliBaba/src/test/java/consumerelectronics/ConsumerElectronics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/test/java/furniture/Furniture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="15" column="50" lean-forward="false" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/test/java/hardware/Hardware.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/test/java/homeandgarden/HomeAndGarden.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="15" column="54" lean-forward="false" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/test/java/homeappliance/HomeAppliance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="54" lean-forward="false" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/test/resources/AliBabaTestRunnerOnWindows.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="32" column="54" lean-forward="true" selection-start-line="32" selection-start-column="54" selection-end-line="32" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/homepage/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="552" column="42" lean-forward="false" selection-start-line="552" selection-start-column="42" selection-end-line="552" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/accessories/AccessoriesPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="51" lean-forward="false" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/agriculture/AgriculturePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="51" lean-forward="false" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/bags/BagsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="44" lean-forward="false" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/beautyandpersonalcare/BeautyAndPersonalCarePage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="61" lean-forward="false" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
@@ -1434,63 +1605,153 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AliBaba/src/test/java/homeappliance/HomeAppliance.java">
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/chemicals/ChemicalsPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="58" lean-forward="false" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="58" />
+        <state relative-caret-position="255">
+          <caret line="15" column="49" lean-forward="false" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AliBaba/src/test/java/security/Security.java">
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/components/ComponentsPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="46" lean-forward="false" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+        <state relative-caret-position="255">
+          <caret line="15" column="50" lean-forward="false" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AliBaba/src/test/java/machinery/Machinery.java">
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/electricalequipment/ElectricalEquipmentPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="255">
+          <caret line="15" column="59" lean-forward="false" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/hardware/HardwarePage.java">
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/energy/EnergyPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" column="48" lean-forward="true" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
-          <folding />
+        <state relative-caret-position="255">
+          <caret line="15" column="46" lean-forward="false" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/clickontabs/BlogTab.java">
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/foodandbeverages/FoodAndBeveragesPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
-          <folding />
+        <state relative-caret-position="255">
+          <caret line="15" column="56" lean-forward="false" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Starbucks/src/main/java/clickontabs/ClickOnTabs.java">
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/gifts/GiftsPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
-          <caret line="131" column="25" lean-forward="false" selection-start-line="131" selection-start-column="25" selection-end-line="131" selection-end-column="25" />
-          <folding />
+        <state relative-caret-position="255">
+          <caret line="15" column="45" lean-forward="false" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/clickontabs/CardTab.java">
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/health/HealthPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" column="37" lean-forward="false" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-          <folding />
+        <state relative-caret-position="255">
+          <caret line="15" column="46" lean-forward="false" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/minerals/MineralsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="48" lean-forward="false" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/packagingandprinting/PackagingAndPrintingPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="60" lean-forward="false" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/plastics/PlasticsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="48" lean-forward="false" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/serviceequipment/ServiceEquipmentPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="56" lean-forward="false" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/shoesandaccessories/ShoesAndAccessoriesPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="59" lean-forward="false" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/sports/SportsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="46" lean-forward="false" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/telecoms/TelecomsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="48" lean-forward="false" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/toys/ToysPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="44" lean-forward="false" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1502,149 +1763,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AliBaba/src/test/resources/AliBabaTestRunnerOnWindows.xml">
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/test/java/accessories/Accessories.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="22" column="52" lean-forward="false" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
+        <state relative-caret-position="187">
+          <caret line="15" column="52" lean-forward="false" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AliBaba/src/test/java/hardware/Hardware.java">
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/test/java/agriculture/Agriculture.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="19" column="46" lean-forward="true" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="39" column="13" lean-forward="false" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Starbucks/src/test/resources/StarbucksTestRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="6" column="57" lean-forward="true" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/apparel/ApparelPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="47" lean-forward="false" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+        <state relative-caret-position="309">
+          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/accessories/AccessoriesPage.java">
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/test/java/bags/Bags.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="51" lean-forward="false" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/consumerelectronics/ConsumerElectronicsPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" column="59" lean-forward="false" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/auto/AutoPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="44" lean-forward="false" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+        <state relative-caret-position="326">
+          <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/construction/ConstructionPage.java">
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/test/java/beautyandpersonalcare/BeautyAndPersonalCare.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/furniture/FurniturePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="49" lean-forward="false" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+        <state relative-caret-position="326">
+          <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/homeandgarden/HomeAndGardenPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="53" lean-forward="false" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/lights/LightsPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="46" lean-forward="false" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/textile/TextilePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="47" lean-forward="false" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/timepiece/TimepiecePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="49" lean-forward="false" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/transportation/TransportationPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="54" lean-forward="false" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/homepage/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="282" column="40" lean-forward="false" selection-start-line="282" selection-start-column="40" selection-end-line="282" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>

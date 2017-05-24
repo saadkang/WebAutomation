@@ -18,5 +18,6 @@ public class Hardware extends CommonAPI{
         categories.categories();
         HardwarePage hardwarePage = PageFactory.initElements(driver, HardwarePage.class);
         hardwarePage.hardwarePageCategories();
+        Thread.sleep(1000);
     }
 }
