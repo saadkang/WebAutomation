@@ -100,9 +100,9 @@ public class CommonAPI {
     }
 
     public static WebDriver driver = null;
-    private String saucelabs_username = "your user name";
+    private String saucelabs_username = "saadkang";
     private String browserstack_username = "saadkang1";
-    private String saucelabs_accesskey = "your access key";
+    private String saucelabs_accesskey = "70e4e552-30b4-4a10-b787-154bfb6a1a7f";
     private String browserstack_accesskey = "iL7vARfLv3xHkxysP9Zy";
 
     @Parameters({"useCloudEnv","cloudEnvName","os","os_version","browserName","browserVersion","url"})
@@ -121,7 +121,7 @@ public class CommonAPI {
             getLocalDriver(os, browserName);
         }
         driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
-        //driver.manage().timeouts().pageLoadTimeout(35, TimeUnit.SECONDS);
+        driver.manage().timeouts().pageLoadTimeout(35, TimeUnit.SECONDS);
         driver.get(url);
         //driver.manage().window().maximize();
     }
