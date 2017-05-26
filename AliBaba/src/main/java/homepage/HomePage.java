@@ -14,109 +14,109 @@ public class HomePage extends CommonAPI{
     @FindBy(how = How.CSS, using = ".sc-hd-prefix2-icon-xs")
     public static WebElement Categories;
 
-    @FindBy(how = How.CSS, using = "#J_SC_header > header > div.sc-hd-row.sc-hd-main > div.sc-hd-cell.sc-hd-category > div > div > div > ul > li:nth-child(1) > div.title > a:nth-child(1)")
+    @FindBy(how = How.CSS, using = ".sc-hd-cell.sc-hd-category li:nth-child(1) .title a:nth-child(1)")
     public static WebElement CategoriesMachinery;
 
-    @FindBy(how = How.CSS, using = "#J_SC_header > header > div.sc-hd-row.sc-hd-main > div.sc-hd-cell.sc-hd-category > div > div > div > ul > li:nth-child(1) > div.title > a:nth-child(2)")
+    @FindBy(how = How.CSS, using = ".sc-hd-cell.sc-hd-category li:nth-child(1) .title a:nth-child(2)")
     public static WebElement CategoriesMechanicalParts;
 
-    @FindBy(how = How.CSS, using = "#J_SC_header > header > div.sc-hd-row.sc-hd-main > div.sc-hd-cell.sc-hd-category > div > div > div > ul > li:nth-child(1) > div.title > a:nth-child(3)")
+    @FindBy(how = How.CSS, using = ".sc-hd-cell.sc-hd-category li:nth-child(1) .title a:nth-child(3)")
     public static WebElement CategoriesTools;
 
-    @FindBy(how = How.CSS, using = "#J_SC_header > header > div.sc-hd-row.sc-hd-main > div.sc-hd-cell.sc-hd-category > div > div > div > ul > li:nth-child(1) > div.title > a:nth-child(4)")
+    @FindBy(how = How.CSS, using = ".sc-hd-cell.sc-hd-category li:nth-child(1) .title a:nth-child(4)")
     public static WebElement CategoriesHardware;
 
-    @FindBy(how = How.CSS, using = "#J_SC_header > header > div.sc-hd-row.sc-hd-main > div.sc-hd-cell.sc-hd-category > div > div > div > ul > li:nth-child(2) > div.title > a:nth-child(1)")
+    @FindBy(how = How.CSS, using = ".sc-hd-cell.sc-hd-category li:nth-child(2) .title a:nth-child(1)")
     public static WebElement CategoriesConsumerElectronics;
 
-    @FindBy(how = How.CSS, using = "#J_SC_header > header > div.sc-hd-row.sc-hd-main > div.sc-hd-cell.sc-hd-category > div > div > div > ul > li:nth-child(2) > div.title > a:nth-child(2)")
+    @FindBy(how = How.CSS, using = ".sc-hd-cell.sc-hd-category li:nth-child(2) .title a:nth-child(2)")
     public static WebElement CategoriesHomeAppliances;
 
-    @FindBy(how = How.CSS, using = "#J_SC_header > header > div.sc-hd-row.sc-hd-main > div.sc-hd-cell.sc-hd-category > div > div > div > ul > li:nth-child(2) > div.title > a:nth-child(3)")
+    @FindBy(how = How.CSS, using = ".sc-hd-cell.sc-hd-category li:nth-child(2) .title a:nth-child(3)")
     public static WebElement CategoriesSecurity;
 
-    @FindBy(how = How.CSS, using = "#J_SC_header > header > div.sc-hd-row.sc-hd-main > div.sc-hd-cell.sc-hd-category > div > div > div > ul > li:nth-child(3) > div.title > a:nth-child(1)")
+    @FindBy(how = How.CSS, using = ".sc-hd-cell.sc-hd-category li:nth-child(3) .title a:nth-child(1)")
     public static WebElement CategoriesAuto;
 
-    @FindBy(how = How.CSS, using = "#J_SC_header > header > div.sc-hd-row.sc-hd-main > div.sc-hd-cell.sc-hd-category > div > div > div > ul > li:nth-child(3) > div.title > a:nth-child(2)")
+    @FindBy(how = How.CSS, using = ".sc-hd-cell.sc-hd-category li:nth-child(3) .title a:nth-child(2)")
     public static WebElement CategoriesTransportation;
 
-    @FindBy(how = How.CSS, using = "#J_SC_header > header > div.sc-hd-row.sc-hd-main > div.sc-hd-cell.sc-hd-category > div > div > div > ul > li:nth-child(4) > div.title > a:nth-child(1)")
+    @FindBy(how = How.CSS, using = ".sc-hd-cell.sc-hd-category li:nth-child(4) .title a:nth-child(1)")
     public static WebElement CategoriesApparel;
 
-    @FindBy(how = How.CSS, using = "#J_SC_header > header > div.sc-hd-row.sc-hd-main > div.sc-hd-cell.sc-hd-category > div > div > div > ul > li:nth-child(4) > div.title > a:nth-child(2)")
+    @FindBy(how = How.CSS, using = ".sc-hd-cell.sc-hd-category li:nth-child(4) .title a:nth-child(2)")
     public static WebElement CategoriesTextiles;
 
-    @FindBy(how = How.CSS, using = "#J_SC_header > header > div.sc-hd-row.sc-hd-main > div.sc-hd-cell.sc-hd-category > div > div > div > ul > li:nth-child(4) > div.title > a:nth-child(3)")
+    @FindBy(how = How.CSS, using = ".sc-hd-cell.sc-hd-category li:nth-child(4) .title a:nth-child(3)")
     public static WebElement CategoriesTimepieces;
 
-    @FindBy(how = How.CSS, using = "#J_SC_header > header > div.sc-hd-row.sc-hd-main > div.sc-hd-cell.sc-hd-category > div > div > div > ul > li:nth-child(4) > div.title > a:nth-child(4)")
+    @FindBy(how = How.CSS, using = ".sc-hd-cell.sc-hd-category li:nth-child(4) .title a:nth-child(4)")
     public static WebElement CategoriesAccessories;
 
-    @FindBy(how = How.CSS, using = "#J_SC_header > header > div.sc-hd-row.sc-hd-main > div.sc-hd-cell.sc-hd-category > div > div > div > ul > li:nth-child(5) > div.title > a:nth-child(1)")
+    @FindBy(how = How.CSS, using = ".sc-hd-cell.sc-hd-category li:nth-child(5) .title a:nth-child(1)")
     public static WebElement CategoriesHomeAndGarden;
 
-    @FindBy(how = How.CSS, using = "#J_SC_header > header > div.sc-hd-row.sc-hd-main > div.sc-hd-cell.sc-hd-category > div > div > div > ul > li:nth-child(5) > div.title > a:nth-child(2)")
+    @FindBy(how = How.CSS, using = ".sc-hd-cell.sc-hd-category li:nth-child(5) .title a:nth-child(2)")
     public static WebElement CategoriesConstruction;
 
-    @FindBy(how = How.CSS, using = "#J_SC_header > header > div.sc-hd-row.sc-hd-main > div.sc-hd-cell.sc-hd-category > div > div > div > ul > li:nth-child(5) > div.title > a:nth-child(3)")
+    @FindBy(how = How.CSS, using = ".sc-hd-cell.sc-hd-category li:nth-child(5) .title a:nth-child(3)")
     public static WebElement CategoriesLights;
 
-    @FindBy(how = How.CSS, using = "#J_SC_header > header > div.sc-hd-row.sc-hd-main > div.sc-hd-cell.sc-hd-category > div > div > div > ul > li:nth-child(5) > div.title > a:nth-child(4)")
+    @FindBy(how = How.CSS, using = ".sc-hd-cell.sc-hd-category li:nth-child(5) .title a:nth-child(4)")
     public static WebElement CategoriesFurniture;
 
-    @FindBy(how = How.CSS, using = "#J_SC_header > header > div.sc-hd-row.sc-hd-main > div.sc-hd-cell.sc-hd-category > div > div > div > ul > li:nth-child(6) > div.title > a:nth-child(1)")
+    @FindBy(how = How.CSS, using = ".sc-hd-cell.sc-hd-category li:nth-child(6) .title a:nth-child(1)")
     public static WebElement CategoriesBeautyAndPersonalCare;
 
-    @FindBy(how = How.CSS, using = "#J_SC_header > header > div.sc-hd-row.sc-hd-main > div.sc-hd-cell.sc-hd-category > div > div > div > ul > li:nth-child(6) > div.title > a:nth-child(2)")
+    @FindBy(how = How.CSS, using = ".sc-hd-cell.sc-hd-category li:nth-child(6) .title a:nth-child(2)")
     public static WebElement CategoriesHealth;
 
-    @FindBy(how = How.CSS, using = "#J_SC_header > header > div.sc-hd-row.sc-hd-main > div.sc-hd-cell.sc-hd-category > div > div > div > ul > li:nth-child(7) > div.title > a:nth-child(1)")
+    @FindBy(how = How.CSS, using = ".sc-hd-cell.sc-hd-category li:nth-child(7) .title a:nth-child(1)")
     public static WebElement CategoriesPackagingAndPrinting;
 
-    @FindBy(how = How.CSS, using = "#J_SC_header > header > div.sc-hd-row.sc-hd-main > div.sc-hd-cell.sc-hd-category > div > div > div > ul > li:nth-child(7) > div.title > a:nth-child(2)")
+    @FindBy(how = How.CSS, using = ".sc-hd-cell.sc-hd-category li:nth-child(7) .title a:nth-child(2)")
     public static WebElement CategoriesServiceEquipment;
 
-    @FindBy(how = How.CSS, using = "#J_SC_header > header > div.sc-hd-row.sc-hd-main > div.sc-hd-cell.sc-hd-category > div > div > div > ul > li:nth-child(8) > div.title > a:nth-child(1)")
+    @FindBy(how = How.CSS, using = ".sc-hd-cell.sc-hd-category li:nth-child(8) .title a:nth-child(1)")
     public static WebElement CategoriesElecticalEquipment;
 
-    @FindBy(how = How.CSS, using = "#J_SC_header > header > div.sc-hd-row.sc-hd-main > div.sc-hd-cell.sc-hd-category > div > div > div > ul > li:nth-child(8) > div.title > a:nth-child(2)")
+    @FindBy(how = How.CSS, using = ".sc-hd-cell.sc-hd-category li:nth-child(8) .title a:nth-child(2)")
     public static WebElement CategoriesComponents;
 
-    @FindBy(how = How.CSS, using = "#J_SC_header > header > div.sc-hd-row.sc-hd-main > div.sc-hd-cell.sc-hd-category > div > div > div > ul > li:nth-child(8) > div.title > a:nth-child(3)")
+    @FindBy(how = How.CSS, using = ".sc-hd-cell.sc-hd-category li:nth-child(8) .title a:nth-child(3)")
     public static WebElement CategoriesTelecoms;
 
-    @FindBy(how = How.CSS, using = "#J_SC_header > header > div.sc-hd-row.sc-hd-main > div.sc-hd-cell.sc-hd-category > div > div > div > ul > li:nth-child(9) > div.title > a:nth-child(1)")
+    @FindBy(how = How.CSS, using = ".sc-hd-cell.sc-hd-category li:nth-child(9) .title a:nth-child(1)")
     public static WebElement CategoriesSports;
 
-    @FindBy(how = How.CSS, using = "#J_SC_header > header > div.sc-hd-row.sc-hd-main > div.sc-hd-cell.sc-hd-category > div > div > div > ul > li:nth-child(9) > div.title > a:nth-child(2)")
+    @FindBy(how = How.CSS, using = ".sc-hd-cell.sc-hd-category li:nth-child(9) .title a:nth-child(2)")
     public static WebElement CategoriesGifts;
 
-    @FindBy(how = How.CSS, using = "#J_SC_header > header > div.sc-hd-row.sc-hd-main > div.sc-hd-cell.sc-hd-category > div > div > div > ul > li:nth-child(9) > div.title > a:nth-child(3)")
+    @FindBy(how = How.CSS, using = ".sc-hd-cell.sc-hd-category li:nth-child(9) .title a:nth-child(3)")
     public static WebElement CategoriesToys;
 
-    @FindBy(how = How.CSS, using = "#J_SC_header > header > div.sc-hd-row.sc-hd-main > div.sc-hd-cell.sc-hd-category > div > div > div > ul > li:nth-child(10) > div.title > a:nth-child(1)")
+    @FindBy(how = How.CSS, using = ".sc-hd-cell.sc-hd-category li:nth-child(10) .title a:nth-child(1)")
     public static WebElement CategoriesMinerals;
 
-    @FindBy(how = How.CSS, using = "#J_SC_header > header > div.sc-hd-row.sc-hd-main > div.sc-hd-cell.sc-hd-category > div > div > div > ul > li:nth-child(10) > div.title > a:nth-child(2)")
+    @FindBy(how = How.CSS, using = ".sc-hd-cell.sc-hd-category li:nth-child(10) .title a:nth-child(2)")
     public static WebElement CategoriesChemicals;
 
-    @FindBy(how = How.CSS, using = "#J_SC_header > header > div.sc-hd-row.sc-hd-main > div.sc-hd-cell.sc-hd-category > div > div > div > ul > li:nth-child(10) > div.title > a:nth-child(3)")
+    @FindBy(how = How.CSS, using = ".sc-hd-cell.sc-hd-category li:nth-child(10) .title a:nth-child(3)")
     public static WebElement CategoriesPlastics;
 
-    @FindBy(how = How.CSS, using = "#J_SC_header > header > div.sc-hd-row.sc-hd-main > div.sc-hd-cell.sc-hd-category > div > div > div > ul > li:nth-child(10) > div.title > a:nth-child(4)")
+    @FindBy(how = How.CSS, using = ".sc-hd-cell.sc-hd-category li:nth-child(10) .title a:nth-child(4)")
     public static WebElement CategoriesEnergy;
 
-    @FindBy(how = How.CSS, using = "#J_SC_header > header > div.sc-hd-row.sc-hd-main > div.sc-hd-cell.sc-hd-category > div > div > div > ul > li:nth-child(11) > div.title > a:nth-child(1)")
+    @FindBy(how = How.CSS, using = ".sc-hd-cell.sc-hd-category li:nth-child(11) .title a:nth-child(1)")
     public static WebElement CategoriesBags;
 
-    @FindBy(how = How.CSS, using = "#J_SC_header > header > div.sc-hd-row.sc-hd-main > div.sc-hd-cell.sc-hd-category > div > div > div > ul > li:nth-child(11) > div.title > a:nth-child(2)")
+    @FindBy(how = How.CSS, using = ".sc-hd-cell.sc-hd-category li:nth-child(11) .title a:nth-child(2)")
     public static WebElement CategoriesShoesAndAccessories;
 
-    @FindBy(how = How.CSS, using = "#J_SC_header > header > div.sc-hd-row.sc-hd-main > div.sc-hd-cell.sc-hd-category > div > div > div > ul > li:nth-child(12) > div.title > a:nth-child(1)")
+    @FindBy(how = How.CSS, using = ".sc-hd-cell.sc-hd-category li:nth-child(12) .title a:nth-child(1)")
     public static WebElement CategoriesFoodAndBeverages;
 
-    @FindBy(how = How.CSS, using = "#J_SC_header > header > div.sc-hd-row.sc-hd-main > div.sc-hd-cell.sc-hd-category > div > div > div > ul > li:nth-child(12) > div.title > a:nth-child(2)")
+    @FindBy(how = How.CSS, using = ".sc-hd-cell.sc-hd-category li:nth-child(12) .title a:nth-child(2)")
     public static WebElement CategoriesAgriculture;
 
 
