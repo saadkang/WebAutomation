@@ -2,57 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88d8ee8a-8e16-4c3f-ab0c-1245ca465f2f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BassPro/BassPro.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BassPro/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BassPro/src/test/resources/BassProTestRunner.xml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Starbucks/src/main/java/findingstore/FindingStarbucks.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Starbucks/src/test/java/findastore/FindAStore.java" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/NYP/screenshots/headlineNews (05.14.2017-06:08AM).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eBay/eBay.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eBay/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eBay/src/test/resources/eBayTestRunnerOnWindows.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/greenturtle/Extent-Report/ExtentReport.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/greenturtle/greenturtle.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/greenturtle/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/greenturtle/screenshots/goToHotTrends (05.17.2017-13" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/greenturtle/src/main/java/homepage/HomePage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/greenturtle/src/test/java/worldcup/WorldCupPage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/greenturtle/src/test/resources/GreenTurtleTestRunner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/greenturtle/target/classes/homepage/HomePage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/greenturtle/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/greenturtle/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/greenturtle/target/test-classes/GreenTurtleTestRunner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/greenturtle/target/test-classes/worldcup/WorldCupPage.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" afterPath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/Extent-Report/ExtentReport.html" afterPath="$PROJECT_DIR$/AliBaba/Extent-Report/ExtentReport.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/pom.xml" afterPath="$PROJECT_DIR$/AliBaba/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/src/test/resources/AliBabaTestRunnerOnWindows.xml" afterPath="$PROJECT_DIR$/AliBaba/src/test/resources/AliBabaTestRunnerOnWindows.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/target/test-classes/AliBabaTestRunnerOnWindows.xml" afterPath="$PROJECT_DIR$/AliBaba/target/test-classes/AliBabaTestRunnerOnWindows.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/Extent-Report/ExtentReport.html" afterPath="$PROJECT_DIR$/Amazon/Extent-Report/ExtentReport.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/pom.xml" afterPath="$PROJECT_DIR$/Amazon/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon (0)/Amazon Home.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon (0)/Amazon Home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon (0)/Amazon Home.xml" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon (0)/Amazon Home.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon/Amazon Home.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon/Amazon Home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon/Amazon Home.xml" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon/Amazon Home.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/TEST-TestSuite.xml" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/TEST-TestSuite.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/TestSuite-output.txt" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/TestSuite-output.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/TestSuite.txt" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/TestSuite.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/emailable-report.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/emailable-report.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/index.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/junitreports/TEST-home.SearchItems.xml" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/junitreports/TEST-home.SearchItems.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon (0)/methods-alphabetical.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon (0)/methods-alphabetical.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon (0)/methods.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon (0)/methods.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/methods-alphabetical.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/methods-alphabetical.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/methods.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/methods.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/index.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-results.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Starbucks/Extent-Report/ExtentReport.html" afterPath="$PROJECT_DIR$/Starbucks/Extent-Report/ExtentReport.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Starbucks/pom.xml" afterPath="$PROJECT_DIR$/Starbucks/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Starbucks/src/test/resources/StarbucksTestRunner.xml" afterPath="$PROJECT_DIR$/Starbucks/src/test/resources/StarbucksTestRunner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Starbucks/target/test-classes/StarbucksTestRunner.xml" afterPath="$PROJECT_DIR$/Starbucks/target/test-classes/StarbucksTestRunner.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -81,73 +37,15 @@
     <favorites_list name="automation-march2017" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="CommonAPI.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="FindingStarbucks.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Starbucks/src/main/java/findingstore/FindingStarbucks.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="125" column="10" lean-forward="false" selection-start-line="125" selection-start-column="10" selection-end-line="125" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Starbucks/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="39" column="77" lean-forward="false" selection-start-line="39" selection-start-column="77" selection-end-line="39" selection-end-column="77" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-447">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="40" column="105" lean-forward="false" selection-start-line="40" selection-start-column="105" selection-end-line="40" selection-end-column="105" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AliBabaTestRunnerOnWindows.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AliBaba/src/test/resources/AliBabaTestRunnerOnWindows.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="734">
-              <caret line="50" column="58" lean-forward="false" selection-start-line="50" selection-start-column="58" selection-end-line="50" selection-end-column="58" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AliBaba/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="32" lean-forward="false" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-              <folding />
+            <state relative-caret-position="430">
+              <caret line="30" column="38" lean-forward="false" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -155,9 +53,21 @@
       <file leaf-file-name="StarbucksTestRunner.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Starbucks/src/test/resources/StarbucksTestRunner.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="9" column="48" lean-forward="false" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+            <state relative-caret-position="391">
+              <caret line="23" column="54" lean-forward="true" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FindAStore.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/findastore/FindAStore.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="51" lean-forward="false" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -182,8 +92,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/AliBaba/src/test/java/apparel/Apparel.java" />
-        <option value="$PROJECT_DIR$/AliBaba/src/test/java/auto/Auto.java" />
         <option value="$PROJECT_DIR$/AliBaba/src/test/java/construction/Constructions.java" />
         <option value="$PROJECT_DIR$/AliBaba/src/test/java/furniture/Furniture.java" />
         <option value="$PROJECT_DIR$/AliBaba/src/test/java/homeandgarden/HomeAndGarden.java" />
@@ -227,12 +135,14 @@
         <option value="$PROJECT_DIR$/AliBaba/src/test/java/health/Health.java" />
         <option value="$PROJECT_DIR$/BassPro/pom.xml" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
-        <option value="$PROJECT_DIR$/Starbucks/src/test/resources/StarbucksTestRunner.xml" />
         <option value="$PROJECT_DIR$/AliBaba/src/test/resources/AliBabaTestRunnerOnWindows.xml" />
         <option value="$PROJECT_DIR$/AliBaba/pom.xml" />
         <option value="$PROJECT_DIR$/Starbucks/pom.xml" />
         <option value="$PROJECT_DIR$/Amazon/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Starbucks/src/main/java/findingstore/FindingStarbucks.java" />
+        <option value="$PROJECT_DIR$/Starbucks/src/test/resources/StarbucksTestRunner.xml" />
+        <option value="$PROJECT_DIR$/Starbucks/src/test/java/findastore/FindAStore.java" />
       </list>
     </option>
   </component>
@@ -250,80 +160,7 @@
     </option>
   </component>
   <component name="MavenProjectNavigator">
-    <treeState>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Starbucks" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Starbucks" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Lifecycle" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Amazon" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Amazon" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Lifecycle" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="AliBaba" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="AliBaba" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Lifecycle" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
-        </PATH_ELEMENT>
-      </PATH>
-    </treeState>
+    <treeState />
   </component>
   <component name="MavenRunner">
     <option name="mavenProperties">
@@ -354,7 +191,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -368,9 +204,166 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutomation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutomation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Starbucks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutomation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutomation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Starbucks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutomation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutomation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Starbucks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="findastore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutomation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutomation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Starbucks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clickontabs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutomation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutomation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Starbucks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="findingstore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutomation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutomation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Starbucks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -997,7 +990,8 @@
       <workItem from="1494358144022" duration="201000" />
       <workItem from="1495476422221" duration="10550000" />
       <workItem from="1495502713628" duration="15641000" />
-      <workItem from="1495562195883" duration="34220000" />
+      <workItem from="1495562195883" duration="39133000" />
+      <workItem from="1495751363513" duration="2244000" />
     </task>
     <task id="LOCAL-00001" summary="adding all the test to my shit">
       <created>1495249718294</created>
@@ -1104,28 +1098,17 @@
       <option name="project" value="LOCAL" />
       <updated>1495608380412</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Kang">
+      <created>1495741979169</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1495741979169</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__Users_saadi_workspace_FromGitHub_Automation_AliBaba_src_test_resources_AliBabaTestRunnerOnWindows_xml - 2017.05.23 at 18h 33m 07s.xml">
-      <configuration name="C:/Users/saadi/workspace/FromGitHub/Automation/AliBaba/src/test/resources/AliBabaTestRunnerOnWindows.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_saadi_workspace_FromGitHub_Automation_AliBaba_src_test_resources_AliBabaTestRunnerOnWindows_xml - 2017.05.23 at 23h 53m 32s.xml">
-      <configuration name="C:/Users/saadi/workspace/FromGitHub/Automation/AliBaba/src/test/resources/AliBabaTestRunnerOnWindows.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_saadi_workspace_FromGitHub_Automation_AliBaba_src_test_resources_AliBabaTestRunnerOnWindows_xml - 2017.05.24 at 02h 30m 59s.xml">
-      <configuration name="C:/Users/saadi/workspace/FromGitHub/Automation/AliBaba/src/test/resources/AliBabaTestRunnerOnWindows.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_saadi_workspace_FromGitHub_Automation_AliBaba_src_test_resources_AliBabaTestRunnerOnWindows_xml - 2017.05.24 at 02h 35m 00s.xml">
-      <configuration name="C:/Users/saadi/workspace/FromGitHub/Automation/AliBaba/src/test/resources/AliBabaTestRunnerOnWindows.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_saadi_workspace_FromGitHub_Automation_AliBaba_src_test_resources_AliBabaTestRunnerOnWindows_xml - 2017.05.24 at 02h 45m 15s.xml">
-      <configuration name="C:/Users/saadi/workspace/FromGitHub/Automation/AliBaba/src/test/resources/AliBabaTestRunnerOnWindows.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_saadi_workspace_FromGitHub_Automation_Starbucks_src_test_resources_StarbucksTestRunner_xml - 2017.05.25 at 14h 54m 27s.xml">
-      <configuration name="C:/Users/saadi/workspace/FromGitHub/Automation/Starbucks/src/test/resources/StarbucksTestRunner.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="C__Users_saadi_workspace_FromGitHub_Automation_Starbucks_src_test_resources_StarbucksTestRunner_xml - 2017.05.25 at 14h 55m 08s.xml">
       <configuration name="C:/Users/saadi/workspace/FromGitHub/Automation/Starbucks/src/test/resources/StarbucksTestRunner.xml" configurationId="TestNG" />
     </history-entry>
@@ -1138,9 +1121,27 @@
     <history-entry file="C__Users_saadi_workspace_FromGitHub_Automation_Starbucks_src_test_resources_StarbucksTestRunner_xml - 2017.05.25 at 15h 20m 04s.xml">
       <configuration name="C:/Users/saadi/workspace/FromGitHub/Automation/Starbucks/src/test/resources/StarbucksTestRunner.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="C__Users_saadi_workspace_FromGitHub_Automation_Starbucks_src_test_resources_StarbucksTestRunner_xml - 2017.05.25 at 16h 53m 20s.xml">
+      <configuration name="C:/Users/saadi/workspace/FromGitHub/Automation/Starbucks/src/test/resources/StarbucksTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_saadi_workspace_FromGitHub_Automation_Starbucks_src_test_resources_StarbucksTestRunner_xml - 2017.05.25 at 17h 00m 57s.xml">
+      <configuration name="C:/Users/saadi/workspace/FromGitHub/Automation/Starbucks/src/test/resources/StarbucksTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_saadi_workspace_FromGitHub_Automation_Starbucks_src_test_resources_StarbucksTestRunner_xml - 2017.05.25 at 18h 42m 53s.xml">
+      <configuration name="C:/Users/saadi/workspace/FromGitHub/Automation/Starbucks/src/test/resources/StarbucksTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_saadi_workspace_FromGitHub_Automation_Starbucks_src_test_resources_StarbucksTestRunner_xml - 2017.05.25 at 22h 09m 18s.xml">
+      <configuration name="C:/Users/saadi/workspace/FromGitHub/Automation/Starbucks/src/test/resources/StarbucksTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_saadi_workspace_FromGitHub_Automation_Starbucks_src_test_resources_StarbucksTestRunner_xml - 2017.05.25 at 22h 10m 53s.xml">
+      <configuration name="C:/Users/saadi/workspace/FromGitHub/Automation/Starbucks/src/test/resources/StarbucksTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_saadi_workspace_FromGitHub_Automation_Starbucks_src_test_resources_StarbucksTestRunner_xml - 2017.05.25 at 22h 11m 52s.xml">
+      <configuration name="C:/Users/saadi/workspace/FromGitHub/Automation/Starbucks/src/test/resources/StarbucksTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90810000" />
+    <option name="totallyTimeSpent" value="97967000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1154,7 +1155,7 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20204978" sideWeight="0.49577168" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10248902" sideWeight="0.49577168" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35015774" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1248,86 +1249,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/bags/BagsPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="44" lean-forward="false" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/beautyandpersonalcare/BeautyAndPersonalCarePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="61" lean-forward="false" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/chemicals/ChemicalsPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="49" lean-forward="false" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/components/ComponentsPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="50" lean-forward="false" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/electricalequipment/ElectricalEquipmentPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="59" lean-forward="false" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/energy/EnergyPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="46" lean-forward="false" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/foodandbeverages/FoodAndBeveragesPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="56" lean-forward="false" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/gifts/GiftsPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="45" lean-forward="false" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/health/HealthPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -1418,19 +1339,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AliBaba/src/test/java/categories/Categories.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AliBaba/src/test/java/accessories/Accessories.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="15" column="52" lean-forward="false" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1438,9 +1350,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="309">
           <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1448,9 +1357,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="241">
           <caret line="15" column="45" lean-forward="false" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1458,9 +1364,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="62" lean-forward="false" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1468,9 +1371,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="326">
           <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1478,9 +1378,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="326">
           <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1488,7 +1385,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
           <caret line="3" column="29" lean-forward="false" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1496,9 +1392,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="326">
           <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1506,9 +1399,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="326">
           <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1516,9 +1406,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="326">
           <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1526,7 +1413,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="15" column="53" lean-forward="false" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1534,9 +1420,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="241">
           <caret line="15" column="45" lean-forward="false" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1544,9 +1427,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="241">
           <caret line="15" column="49" lean-forward="false" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1554,9 +1434,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="241">
           <caret line="15" column="47" lean-forward="false" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1564,9 +1441,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="241">
           <caret line="15" column="60" lean-forward="false" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1574,9 +1448,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="241">
           <caret line="15" column="57" lean-forward="false" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1584,9 +1455,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="241">
           <caret line="15" column="49" lean-forward="false" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1594,9 +1462,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="241">
           <caret line="15" column="61" lean-forward="false" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1604,9 +1469,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="241">
           <caret line="17" column="49" lean-forward="false" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1614,9 +1476,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="241">
           <caret line="15" column="47" lean-forward="false" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1624,7 +1483,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1632,7 +1490,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1640,18 +1497,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BassPro/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/BassPro/pom.xml" />
     <entry file="uml://MAVEN/PntAutomation:BassPro:1.0-SNAPSHOT">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -1740,22 +1589,15 @@
           <settings layout="Hierarchic Group" zoom="0.15965732087227413" x="1083.0" y="1274.0" />
           <SelectedNodes />
           <Categories />
+          <SCOPE>All</SCOPE>
           <VISIBILITY>All</VISIBILITY>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-447">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="125" column="10" lean-forward="false" selection-start-line="125" selection-start-column="10" selection-end-line="125" selection-end-column="10" />
+        <state relative-caret-position="238">
+          <caret line="14" column="32" lean-forward="false" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
           <folding />
         </state>
       </provider>
@@ -1764,14 +1606,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="734">
           <caret line="50" column="58" lean-forward="false" selection-start-line="50" selection-start-column="58" selection-end-line="50" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="105" lean-forward="false" selection-start-line="40" selection-start-column="105" selection-end-line="40" selection-end-column="105" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Starbucks/src/test/resources/StarbucksTestRunner.xml">
+    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="9" column="48" lean-forward="false" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+        <state relative-caret-position="-447">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1787,24 +1636,100 @@
     <entry file="file://$PROJECT_DIR$/AliBaba/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="298">
-          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
+    <entry file="file://$PROJECT_DIR$/NYP/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" column="105" lean-forward="false" selection-start-line="40" selection-start-column="105" selection-end-line="40" selection-end-column="105" />
+        <state relative-caret-position="255">
+          <caret line="15" column="44" lean-forward="true" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/agriculture/AgriculturePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/clickontabs/CoffeeTab.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/test/java/categories/Categories.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" column="32" lean-forward="false" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/test/java/auto/Auto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3672">
+          <caret line="268" column="41" lean-forward="true" selection-start-line="268" selection-start-column="41" selection-end-line="268" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/homepage/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7540">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Starbucks/src/main/java/clickontabs/ClickOnTabs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1338">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Starbucks/src/main/java/findingstore/FindingStarbucks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="30" column="38" lean-forward="false" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Starbucks/src/test/resources/StarbucksTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="54" lean-forward="true" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/findastore/FindAStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="51" lean-forward="false" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

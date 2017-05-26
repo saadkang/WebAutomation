@@ -13,14 +13,15 @@
 
     <test name = "Starbucks Home">
         <classes>
-            <class name="clickontabs.CoffeeTab"/>
-            <class name="clickontabs.TeaTab"/>
-            <class name="clickontabs.MenuTab"/>
-            <class name="clickontabs.CoffeeHouseTab"/>
-            <class name="clickontabs.SocialImpactTab"/>
-            <class name="clickontabs.CardTab"/>
-            <class name="clickontabs.BlogTab"/>
-            <class name="clickontabs.ShopTab"/>
+            <class name="findastore.FindAStore"/>
+            <!--<class name="clickontabs.CoffeeTab"/>-->
+            <!--<class name="clickontabs.TeaTab"/>-->
+            <!--<class name="clickontabs.MenuTab"/>-->
+            <!--<class name="clickontabs.CoffeeHouseTab"/>-->
+            <!--<class name="clickontabs.SocialImpactTab"/>-->
+            <!--<class name="clickontabs.CardTab"/>-->
+            <!--<class name="clickontabs.BlogTab"/>-->
+            <!--<class name="clickontabs.ShopTab"/>-->
         </classes>
     </test>
 </suite>
