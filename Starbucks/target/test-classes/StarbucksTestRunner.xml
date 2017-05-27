@@ -26,7 +26,7 @@
             <!--<class name="clickontabs.SocialImpactTab"/>-->
             <!--<class name="moreoptions.SocialImpact"/>-->
             <!--<class name="clickontabs.CardTab"/>-->
-            <class name="moreoptions.Card"/>
+            <!--<class name="moreoptions.Card"/>-->
             <!--<class name="clickontabs.BlogTab"/>-->
             <!--<class name="clickontabs.ShopTab"/>-->
         </classes>

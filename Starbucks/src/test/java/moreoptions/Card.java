@@ -6,14 +6,13 @@ import clickontabs.reloadcard.ReloadCard;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.Test;
 import password.Password;
-import signinbutton.SignInButton;
 import username.Username;
 import utility.reporting.ApplicationLog;
 
 /**
  * Created by saadi on 5/27/2017.
  */
-public class Card extends CommonAPI{
+public class Card extends CommonAPI {
 
     @Test
     public void card() throws InterruptedException {
@@ -26,8 +25,6 @@ public class Card extends CommonAPI{
         username.username();
         Password password = PageFactory.initElements(driver, Password.class);
         password.password();
-        SignInButton signInButton = PageFactory.initElements(driver, SignInButton.class);
-        signInButton.signIn();
-        Thread.sleep(2000);
+        clickByCss("button.sb-button");
     }
 }

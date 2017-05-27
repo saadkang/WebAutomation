@@ -14,7 +14,7 @@ import utility.reporting.ApplicationLog;
 public class SignIn extends CommonAPI{
 
     @Test
-    public void signingin() throws InterruptedException {
+    public void signingin(){
         ApplicationLog.epicLogger("Epic: SignIn AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>");
         SignInPage signInPage = PageFactory.initElements(driver, SignInPage.class);
         signInPage.clickOnSignIn();
@@ -23,6 +23,5 @@ public class SignIn extends CommonAPI{
         Password password = PageFactory.initElements(driver, Password.class);
         password.password();
         clickByCss("button.sb-button");
-        Thread.sleep(2000);
     }
 }

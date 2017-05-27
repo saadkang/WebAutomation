@@ -8,6 +8,6 @@ import base.CommonAPI;
 public class Password extends CommonAPI{
 
     public void password(){
-        typeByCss("#password", "Saad_1234");
+        typeByCss(".base___AjVr9 > form:nth-child(1) .mb3", "Saad_1234");
     }
 }

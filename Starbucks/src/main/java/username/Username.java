@@ -8,6 +8,6 @@ import base.CommonAPI;
 public class Username extends CommonAPI{
 
     public void username(){
-        typeByCss("#username", "saadi.kang4@gmail.com");
+        typeByCss(".base___AjVr9 > form:nth-child(1) .mb2", "saadi.kang4@gmail.com");
     }
 }
