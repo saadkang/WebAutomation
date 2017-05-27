@@ -11,19 +11,19 @@ import utility.reporting.TestLogger;
  */
 public class HomePage extends CommonAPI {
 
-    @FindBy(how = How.CSS, using = "#nav-wrapper .container #page-nav .nav-links .nav-links-wrapper .nav-left #sections .menu-icon svg:only-child")
+    @FindBy(how = How.CSS, using = "#nav-wrapper .container #page-nav .nav-links .nav-links-wrapper .nav-left #sections .frapp-icon svg:only-child")
     public static WebElement sectionsMenu;
 
-    @FindBy(how = How.CSS, using = "#menu-main-menu li:nth-child(1)")
+    @FindBy(how = How.CSS, using = "#frapp-main-frapp li:nth-child(1)")
     public static WebElement sectionsMenuNews;
 
-    @FindBy(how = How.CSS, using = "#menu-main-menu li:nth-child(2)")
+    @FindBy(how = How.CSS, using = "#frapp-main-frapp li:nth-child(2)")
     public static WebElement sectionsMenuMetro;
 
-    @FindBy(how = How.CSS, using = "#menu-main-menu li:nth-child(3)")
+    @FindBy(how = How.CSS, using = "#frapp-main-frapp li:nth-child(3)")
     public static WebElement sectionsMenuPageSix;
 
-    @FindBy(how = How.CSS, using = "#menu-main-menu li:nth-child(4)")
+    @FindBy(how = How.CSS, using = "#frapp-main-frapp li:nth-child(4)")
     public static WebElement sectionsMenuSports;
 
     public WebElement getSectionsMenuWebElement() {

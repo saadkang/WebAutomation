@@ -22,8 +22,7 @@ public class SignIn extends CommonAPI{
         username.username();
         Password password = PageFactory.initElements(driver, Password.class);
         password.password();
-        SignInButton signInButton = PageFactory.initElements(driver, SignInButton.class);
-        signInButton.signIn();
-        Thread.sleep(1500);
+        clickByCss("button.sb-button");
+        Thread.sleep(2000);
     }
 }
