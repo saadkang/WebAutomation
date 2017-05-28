@@ -18,8 +18,8 @@
             <class name="mechanicalparts.MechanicalParts"/>
             <class name="tools.Tools"/>
             <class name="hardware.Hardware"/>
-            <class name="consumerelectronics.ConsumerElectronics"/>
-            <class name="homeappliance.HomeAppliance"/>
+            <!--<class name="consumerelectronics.ConsumerElectronics"/>-->
+            <!--<class name="homeappliance.HomeAppliance"/>-->
             <class name="security.Security"/>
             <class name="auto.Auto"/>
             <class name="transportation.Transportation"/>
@@ -33,7 +33,6 @@
             <class name="furniture.Furniture"/>
             <class name="beautyandpersonalcare.BeautyAndPersonalCare"/>
             <class name="health.Health"/>
-            <class name="packagingandprinting.PackagingAndPrinting"/>
             <class name="serviceequipment.ServiceEquipment"/>
             <class name="electricalequipment.ElectricalEquipment"/>
             <class name="components.Components"/>
@@ -41,9 +40,9 @@
             <class name="sports.Sports"/>
             <class name="gifts.Gifts"/>
             <class name="toys.Toys"/>
-            <class name="minerals.Minerals"/>
+            <!--<class name="minerals.Minerals"/>-->
             <class name="chemicals.Chemicals"/>
-            <class name="plastics.Plastics"/>
+            <!--<class name="plastics.Plastics"/>-->
             <class name="energy.Energy"/>
             <class name="bags.Bags"/>
             <class name="shoesandaccessories.ShoesAndAccessories"/>
