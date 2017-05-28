@@ -16,8 +16,9 @@ public class FoodAndBeverages extends CommonAPI{
         ApplicationLog.epicLogger("Epic: Metro AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>");
         Categories categories = PageFactory.initElements(driver, Categories.class);
         categories.categories();
+        Thread.sleep(2000);
         FoodAndBeveragesPage foodAndBeveragesPage = PageFactory.initElements(driver, FoodAndBeveragesPage.class);
         foodAndBeveragesPage.foodAndBeveragesPageCategories();
-        Thread.sleep(1000);
+
     }
 }

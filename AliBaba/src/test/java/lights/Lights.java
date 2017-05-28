@@ -16,8 +16,8 @@ public class Lights extends CommonAPI{
         ApplicationLog.epicLogger("Epic: Metro AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>");
         Categories categories = PageFactory.initElements(driver, Categories.class);
         categories.categories();
+        Thread.sleep(2000);
         LightsPage lightsPage = PageFactory.initElements(driver, LightsPage.class);
         lightsPage.lightsPageCategories();
-        Thread.sleep(1000);
     }
 }

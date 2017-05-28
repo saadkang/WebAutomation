@@ -16,8 +16,9 @@ public class Agriculture extends CommonAPI{
         ApplicationLog.epicLogger("Epic: Agriculture AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>");
         Categories categories = PageFactory.initElements(driver, Categories.class);
         categories.categories();
+        Thread.sleep(2000);
         AgriculturePage agriculturePage = PageFactory.initElements(driver, AgriculturePage.class);
         agriculturePage.agriculturePageCategories();
-        Thread.sleep(1000);
+
     }
 }

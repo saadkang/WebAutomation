@@ -16,8 +16,8 @@ public class Telecoms extends CommonAPI{
         ApplicationLog.epicLogger("Epic: Telecoms AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>");
         Categories categories = PageFactory.initElements(driver, Categories.class);
         categories.categories();
+        Thread.sleep(2000);
         TelecomsPage telecomsPage = PageFactory.initElements(driver, TelecomsPage.class);
         telecomsPage.telecomsPageCategories();
-        Thread.sleep(1000);
     }
 }

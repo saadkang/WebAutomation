@@ -16,8 +16,8 @@ public class Toys extends CommonAPI{
         ApplicationLog.epicLogger("Epic: Toys AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>");
         Categories categories = PageFactory.initElements(driver, Categories.class);
         categories.categories();
+        Thread.sleep(2000);
         ToysPage toysPage = PageFactory.initElements(driver, ToysPage.class);
         toysPage.toysPageCategories();
-        Thread.sleep(1000);
     }
 }

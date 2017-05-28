@@ -16,8 +16,9 @@ public class Chemicals extends CommonAPI{
         ApplicationLog.epicLogger("Epic: Metro AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>");
         Categories categories = PageFactory.initElements(driver, Categories.class);
         categories.categories();
+        Thread.sleep(2000);
         ChemicalsPage chemicalsPage = PageFactory.initElements(driver, ChemicalsPage.class);
         chemicalsPage.chemicalsPageCategories();
-        Thread.sleep(1000);
+
     }
 }

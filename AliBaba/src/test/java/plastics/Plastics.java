@@ -16,8 +16,8 @@ public class Plastics extends CommonAPI{
         ApplicationLog.epicLogger("Epic: Plastics AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>");
         Categories categories = PageFactory.initElements(driver, Categories.class);
         categories.categories();
+        Thread.sleep(2000);
         PlasticsPage plasticsPage = PageFactory.initElements(driver, PlasticsPage.class);
         plasticsPage.plasticsPageCategories();
-        Thread.sleep(1000);
     }
 }

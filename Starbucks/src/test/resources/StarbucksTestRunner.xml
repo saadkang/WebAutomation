@@ -14,7 +14,6 @@
     <test name = "Starbucks Home">
         <classes>
             <class name="findastore.FindAStore"/>
-            <class name="signin.SignIn"/>
             <class name="clickontabs.CoffeeTab"/>
             <class name="moreoptions.Coffee"/>
             <class name="clickontabs.TeaTab"/>
@@ -26,7 +25,6 @@
             <class name="clickontabs.SocialImpactTab"/>
             <class name="moreoptions.SocialImpact"/>
             <class name="clickontabs.CardTab"/>
-            <class name="moreoptions.Card"/>
             <class name="clickontabs.BlogTab"/>
             <class name="clickontabs.ShopTab"/>
         </classes>

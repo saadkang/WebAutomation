@@ -16,8 +16,8 @@ public class Sports extends CommonAPI{
         ApplicationLog.epicLogger("Epic: Sports AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>");
         Categories categories = PageFactory.initElements(driver, Categories.class);
         categories.categories();
+        Thread.sleep(2000);
         SportsPage sportsPage = PageFactory.initElements(driver, SportsPage.class);
         sportsPage.sportsPageCategories();
-        Thread.sleep(1000);
     }
 }

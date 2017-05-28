@@ -16,8 +16,9 @@ public class Apparel extends CommonAPI{
         ApplicationLog.epicLogger("Epic: Apparel AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>");
         Categories categories = PageFactory.initElements(driver, Categories.class);
         categories.categories();
+        Thread.sleep(2000);
         ApparelPage apparelPage = PageFactory.initElements(driver, ApparelPage.class);
         apparelPage.apparelPageCategories();
-        Thread.sleep(1000);
+
     }
 }

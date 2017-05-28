@@ -16,8 +16,9 @@ public class Furniture extends CommonAPI{
         ApplicationLog.epicLogger("Epic: Furniture AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>");
         Categories categories = PageFactory.initElements(driver, Categories.class);
         categories.categories();
+        Thread.sleep(2000);
         FurniturePage furniturePage = PageFactory.initElements(driver, FurniturePage.class);
         furniturePage.furniturePageCategories();
-        Thread.sleep(1000);
+
     }
 }

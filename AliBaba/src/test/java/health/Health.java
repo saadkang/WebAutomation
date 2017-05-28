@@ -16,8 +16,8 @@ public class Health extends CommonAPI{
         ApplicationLog.epicLogger("Epic: Health AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>");
         Categories categories = PageFactory.initElements(driver, Categories.class);
         categories.categories();
+        Thread.sleep(2000);
         HealthPage healthPage = PageFactory.initElements(driver, HealthPage.class);
         healthPage.healthPageCategories();
-        Thread.sleep(1000);
     }
 }

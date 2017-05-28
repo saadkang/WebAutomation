@@ -16,8 +16,9 @@ public class Constructions extends CommonAPI{
         ApplicationLog.epicLogger("Epic: Construction AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>");
         Categories categories = PageFactory.initElements(driver, Categories.class);
         categories.categories();
+        Thread.sleep(2000);
         ConstructionPage constructionPage = PageFactory.initElements(driver, ConstructionPage.class);
         constructionPage.constructionPageCategories();
-        Thread.sleep(1000);
+
     }
 }

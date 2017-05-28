@@ -16,8 +16,8 @@ public class MechanicalParts extends CommonAPI{
         ApplicationLog.epicLogger("Epic: Mechanical Parts AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>");
         Categories categories = PageFactory.initElements(driver, Categories.class);
         categories.categories();
+        Thread.sleep(2000);
         MechanicalPartsPage mechanicalPartsPage = PageFactory.initElements(driver, MechanicalPartsPage.class);
         mechanicalPartsPage.mechanicalPartsPageCategories();
-        Thread.sleep(1000);
     }
 }
