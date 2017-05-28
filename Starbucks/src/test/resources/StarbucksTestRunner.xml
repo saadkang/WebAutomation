@@ -13,8 +13,8 @@
 
     <test name = "Starbucks Home">
         <classes>
-            <class name="findastore.FindAStore"/>
-            <class name="clickontabs.CoffeeTab"/>
+            <!--<class name="findastore.FindAStore"/>-->
+            <!--<class name="clickontabs.CoffeeTab"/>-->
             <!--<class name="moreoptions.Coffee"/>-->
             <!--<class name="clickontabs.TeaTab"/>-->
             <!--<class name="moreoptions.Tea"/>-->
