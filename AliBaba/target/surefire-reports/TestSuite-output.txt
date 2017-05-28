@@ -1,0 +1,668 @@
+Extent Report directory: C:\Users\saadi\workspace\FromGitHub\Git-Saved-For-Later\WebAutomation\AliBaba\target\surefire-reports\html
+May 27, 2017 11:25:58 PM com.relevantcodes.extentreports.ExtentReports loadConfig
+WARNING: Unable to perform report configuration. The file C:\Users\saadi\workspace\FromGitHub\Git-Saved-For-Later\WebAutomation\AliBaba\report-config.xml was not found.
+1495941959324	geckodriver	INFO	Listening on 127.0.0.1:35912
+1495941960200	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+149594196132J0a	vaScardidpotn se.rmanraor:g erre	sEoRRuOrRc	es:t/a/rgtruep/modules/ AfdadiolneMda:n a[gEexrc.ejpstmi,o nl.i.n.e 1657:  N"SC_oEmRpRoOnRe_nNtO Tr_eItNuIrTnIAeLdI ZfEaDi:l uArded ocnoMde:a n0axg8e0r0 7i0s0 5n7 o(tN S_iEnRiRtOiRa_lIiLzLeEdGA
+L_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+1495941965728	Marionette	INFO	Listening on port 53628
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+May 27, 2017 11:26:06 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Epic: Categories AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+HomePage: click On Categories Tab
+HomePage: see Categories Options
+1495941976551	Marionette	INFO	New connections will no longer be accepted
+It has been called
+1495941977601	geckodriver	INFO	Listening on 127.0.0.1:16967
+1495941978158	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1495941978601	addons.manager	ERROR	startupJavaScript error: resource failed: [E:xception... "Component ret/urned /gre/modules/Addfailure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresuonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+lt: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+1495941983315	Marionette	INFO	Listening on port 53726
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+May 27, 2017 11:26:23 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Epic: Machinery AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+Epic: Categories AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+HomePage: click On Categories Tab
+HomePage: see Categories Options
+MachineryPage: machinery Page Categories
+HomePage: click On Categories Machinery Tab
+HomePage: see Categories Machinery Options
+1495941994983	Marionette	INFO	New connections will no longer be accepted
+It has been called
+1495941997007	geckodriver	INFO	Listening on 127.0.0.1:22426
+1495941997584	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1495941998415	addons.manager	ERROR	startupJavaScript error: resource://gre/module sf/AddonManager.jsm, line 1ailed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [ns657: NS_ERROR_NOT_IFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack tIrNace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/adIdonManager.js:65
+TIALIZED: AddonManager is not initialized
+1495942002427	Marionette	INFO	Listening on port 53835
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+May 27, 2017 11:26:42 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Epic: Mechanical Parts AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+Epic: Categories AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+HomePage: click On Categories Tab
+HomePage: see Categories Options
+MechanicalPartsPage: mechanical Parts Page Categories
+HomePage: click On Categories Mechanical Parts Tab
+HomePage: see Categories Mechanical Parts Options
+1495942013571	Marionette	INFO	New connections will no longer be accepted
+It has been called
+1495942014549	geckodriver	INFO	Listening on 127.0.0.1:23041
+1495942015108	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1495942015599	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+1495942020172	Marionette	INFO	Listening on port 53932
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+May 27, 2017 11:27:00 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Epic: Tools AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+Epic: Categories AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+HomePage: click On Categories Tab
+HomePage: see Categories Options
+ToolsPage: tools Page Categories
+HomePage: click On Categories Tools Tab
+HomePage: see Categories Tools Options
+1495942031475	Marionette	INFO	New connections will no longer be accepted
+It has been called
+1495942032499	geckodriver	INFO	Listening on 127.0.0.1:45234
+1495942033042	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1495942034127	addons.manager	ERROR	startup failed: [Exception... "Component retJurned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+avaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1495942038587	Marionette	INFO	Listening on port 54037
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+May 27, 2017 11:27:19 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Epic: Hardware AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+Epic: Categories AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+HomePage: click On Categories Tab
+HomePage: see Categories Options
+HardwarePage: hardware Page Categories
+HomePage: click On Categories Hardware Tab
+HomePage: see Categories Hardware Options
+1495942049922	Marionette	INFO	New connections will no longer be accepted
+It has been called
+1495942051312	geckodriver	INFO	Listening on 127.0.0.1:22510
+1495942051867	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1495942052245	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLJavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+EGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+1495942057084	Marionette	INFO	Listening on port 54136
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+May 27, 2017 11:27:37 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Epic: Consumer Electronics AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+Epic: Categories AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+HomePage: click On Categories Tab
+HomePage: see Categories Options
+ConsumerElectronicsPage: consumer Electronics Page Categories
+HomePage: click On Categories Consumer Electronics Tab
+HomePage: see Categories Consumer Electronics Options
+1495942067627	Marionette	INFO	New connections will no longer be accepted
+It has been called
+1495942068539	geckodriver	INFO	Listening on 127.0.0.1:5805
+1495942069098	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1495942069497	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresultJavaScript error: resour: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUctils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+e://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1495942073880	Marionette	INFO	Listening on port 54230
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+May 27, 2017 11:27:54 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Epic: HomeAppliance AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+Epic: Categories AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+HomePage: click On Categories Tab
+HomePage: see Categories Options
+HomeAppliancesPage: home Appliances Page Categories
+HomePage: click On Categories Home Appliances Tab
+HomePage: see Categories Home Appliances Options
+Exception while taking screenshot The filename, directory name, or volume label syntax is incorrect
+1495942083282	Marionette	INFO	New connections will no longer be accepted
+It has been called
+1495942084176	geckodriver	INFO	Listening on 127.0.0.1:48894
+1495942084776	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1495942085179	addons.mJavaanagScript errer	ERROR	staror: tup resourcfailed: [Exception... "Component ree://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+turned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+1495942089517	Marionette	INFO	Listening on port 54329
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+May 27, 2017 11:28:10 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Epic: Metro AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+Epic: Categories AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+HomePage: click On Categories Tab
+HomePage: see Categories Options
+SecurityPage: security Page Categories
+HomePage: click On Catergories Secutity Tab
+HomePage: see Categories Security Options
+1495942100667	Marionette	INFO	New connections will no longer be accepted
+It has been called
+1495942101516	geckodriver	INFO	Listening on 127.0.0.1:24251
+1495942102082	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1495942102399	addons.manager	EJavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+RROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+1495942106495	Marionette	INFO	Listening on port 54422
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+May 27, 2017 11:28:27 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Epic: Auto AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+Epic: Categories AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+HomePage: click On Categories Tab
+HomePage: see Categories Options
+AutoPage: auto Page Categories
+HomePage: click On Categories Auto Tab
+HomePage: see Categories Auto Options
+1495942117829	Marionette	INFO	New connections will no longer be accepted
+It has been called
+1495942118742	geckodriver	INFO	Listening on 127.0.0.1:13805
+1495942119292	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1495942119743	addons.manager	ERROR	startuJavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+p failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+1495942125131	Marionette	INFO	Listening on port 54518
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+May 27, 2017 11:28:46 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Epic: Metro AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+Epic: Categories AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+HomePage: click On Categories Tab
+HomePage: see Categories Options
+TransportationPage: transportation Page Categories
+HomePage: click On Categories Transportation Tab
+HomePage: see Categories Transportation Options
+1495942136959	Marionette	INFO	New connections will no longer be accepted
+It has been called
+1495942138207	geckodriver	INFO	Listening on 127.0.0.1:44339
+1495942138782	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1495942139134	addons.manager	ERROR	startup failed: [ExceptioJavaScript error: rn... esou"Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+rce://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1495942144842	Marionette	INFO	Listening on port 54615
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+May 27, 2017 11:29:05 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Epic: Apparel AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+Epic: Categories AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+HomePage: click On Categories Tab
+HomePage: see Categories Options
+ApparelPage: apparel Page Categories
+HomePage: click On Categories Apparel Tab
+HomePage: see Categories Apparel Options
+1495942157946	Marionette	INFO	New connections will no longer be accepted
+It has been called
+1495942158943	geckodriver	INFO	Listening on 127.0.0.1:23122
+1495942159521	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1495942159905	addons.manager	ERROR	startup faJavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: Addoiled: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.createnManager is not initialized
+]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+1495942164116	Marionette	INFO	Listening on port 54711
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+May 27, 2017 11:29:24 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Epic: Metro AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+Epic: Categories AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+HomePage: click On Categories Tab
+HomePage: see Categories Options
+TextilePage: textile Page Categories
+HomePage: click On Categories Textile Tab
+HomePage: see Categories Textile Options
+1495942175751	Marionette	INFO	New connections will no longer be accepted
+It has been called
+1495942176761	geckodriver	INFO	Listening on 127.0.0.1:13246
+1495942177363	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1495942177964	addons.manager	ERRJavaScript error: resource://gre/modules/AddonManager.jsm, line 1657OR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsres: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+ult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+1495942182392	Marionette	INFO	Listening on port 54812
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+May 27, 2017 11:29:42 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Epic: Metro AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+Epic: Categories AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+HomePage: click On Categories Tab
+HomePage: see Categories Options
+TimepiecePage: timepiece Page Categories
+HomePage: click On Categories Timepiece Tab
+HomePage: see Categories Timepiece Options
+1495942194535	Marionette	INFO	New connections will no longer be accepted
+It has been called
+1495942195765	geckodriver	INFO	Listening on 127.0.0.1:2421
+1495942196318	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1495942196726	addons.managJavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED:er	ERROR	st AddonManager artup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getis not initialized
+Dir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+1495942200701	Marionette	INFO	Listening on port 54907
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+May 27, 2017 11:30:01 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Epic: Accessories AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+Epic: Categories AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+HomePage: click On Categories Tab
+HomePage: see Categories Options
+AccessoriesPage: Accessories Page Categories
+HomePage: click On Categories Accessories Tab
+HomePage: see Categories Accessories Options
+1495942211964	Marionette	INFO	New connections will no longer be accepted
+It has been called
+1495942213006	geckodriver	INFO	Listening on 127.0.0.1:20143
+1495942213712	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1495942214250	addons.manager	ERJavaROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtiScript error: resource://gre/modulels.js/AddonManasm:70 < Fger.jsm, line 1657ileUti: NS_ERROls_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklistR_NOT_INITIALIZED: AddonManager is not initialized
+()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+1495942218624	Marionette	INFO	Listening on port 55001
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+May 27, 2017 11:30:19 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Epic: HomeAndGarden AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+Epic: Categories AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+HomePage: click On Categories Tab
+HomePage: see Categories Options
+HomeAndGardenPage: home And Garden Page Categories
+HomePage: click On Categories Home And Garden Tab
+HomePage: see Categories Home And Garden Options
+1495942229343	Marionette	INFO	New connections will no longer be accepted
+It has been called
+1495942230171	geckodriver	INFO	Listening on 127.0.0.1:23444
+1495942230718	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1495942231051	addons.manager	ERRJavaScript error:OR	startup failed: [Exception... resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not init "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+ialized
+1495942234971	Marionette	INFO	Listening on port 55099
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+May 27, 2017 11:30:36 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Epic: Construction AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+Epic: Categories AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+HomePage: click On Categories Tab
+HomePage: see Categories Options
+ConstructionPage: construction Page Categories
+HomePage: click On Categories Construction Tab
+HomePage: see Categories Construction Options
+1495942246245	Marionette	INFO	New connections will no longer be accepted
+It has been called
+1495942247140	geckodriver	INFO	Listening on 127.0.0.1:14814
+1495942247685	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1495942248018	addonJavaScript error: resource://gre/modules/Adds.monManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+anager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+1495942251893	Marionette	INFO	Listening on port 55198
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+May 27, 2017 11:30:52 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Epic: Metro AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+Epic: Categories AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+HomePage: click On Categories Tab
+HomePage: see Categories Options
+LightsPage: lights Page Categories
+HomePage: click On Categories Lights Tab
+HomePage: see Categories Lights Options
+1495942263066	Marionette	INFO	New connections will no longer be accepted
+It has been called
+1495942263879	geckodriver	INFO	Listening on 127.0.0.1:48653
+1495942264445	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1495942264771	addons.manager	ERROR	startJup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+avaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1495942268975	Marionette	INFO	Listening on port 55308
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+May 27, 2017 11:31:09 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Epic: Furniture AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+Epic: Categories AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+HomePage: click On Categories Tab
+HomePage: see Categories Options
+FurniturePage: furniture Page Categories
+HomePage: click On Categories Furniture Tab
+HomePage: see Categories Furniture Options
+1495942279191	Marionette	INFO	New connections will no longer be accepted
+It has been called
+1495942279934	geckodriver	INFO	Listening on 127.0.0.1:5488
+1495942280476	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1495942280925	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtilsJavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+1495942285336	Marionette	INFO	Listening on port 55409
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+May 27, 2017 11:31:25 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Epic: BeautyAndPersonalCare AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+Epic: Categories AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+HomePage: click On Categories Tab
+HomePage: see Categories Options
+BeautyAndPersonalCarePage: beauty And Personal Care Page Categories
+HomePage: click On Categories Beauty And Personal Care Tab
+HomePage: see Categories Beauty And Personal Care Options
+1495942295825	Marionette	INFO	New connections will no longer be accepted
+It has been called
+1495942296710	geckodriver	INFO	Listening on 127.0.0.1:46976
+1495942297263	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1495942297631	addons.manager	ERROR	startup failed: [ExcJavaScript error: resource://gre/modules/AddonManager.jsm, leption... "Component ine 1657: NS_ERROR_NOretT_INITIALIZED: AddonManagurned failurer is not initialized
+e code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+1495942301817	Marionette	INFO	Listening on port 55505
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+May 27, 2017 11:31:42 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Epic: Health AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+Epic: Categories AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+HomePage: click On Categories Tab
+HomePage: see Categories Options
+HealthPage: health Page Categories
+HomePage: click On Categories Health Tab
+HomePage: see Categories Health Options
+1495942313758	Marionette	INFO	New connections will no longer be accepted
+It has been called
+1495942314653	geckodriver	INFO	Listening on 127.0.0.1:22446
+1495942315206	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1495942315586	addons.manager	ERROR	startup failedJavaSc: [Exceptripion... "Component returned t efailure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)rror: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+1495942319409	Marionette	INFO	Listening on port 55595
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+May 27, 2017 11:32:00 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Epic: ServiceEquipment AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+Epic: Categories AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+HomePage: click On Categories Tab
+HomePage: see Categories Options
+ServiceEquipmentPage: service Equipment Page Categories
+HomePage: click On Categories Service Equipment Tab
+HomePage: see Categories Service Equipment Options
+1495942331415	Marionette	INFO	New connections will no longer be accepted
+It has been called
+1495942333031	geckodriver	INFO	Listening on 127.0.0.1:11810
+1495942333590	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1495942333936	addons.mJavaScript anager	ERROR	startup failed: [Exception... "Compoerror: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+nent returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+1495942338299	Marionette	INFO	Listening on port 55696
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+May 27, 2017 11:32:18 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Epic: Metro AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+Epic: Categories AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+HomePage: click On Categories Tab
+HomePage: see Categories Options
+ElectricalEquipmentPage: electrical Equipment Page Categories
+HomePage: click On Categories Electrical Equipment Tab
+HomePage: see Categories Electrical Equipment Options
+1495942348472	Marionette	INFO	New connections will no longer be accepted
+It has been called
+1495942349627	geckodriver	INFO	Listening on 127.0.0.1:32181
+1495942350184	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1495942350556	addons.manager	ERROR	startup failed:JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+ [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+1495942354733	Marionette	INFO	Listening on port 55793
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+May 27, 2017 11:32:35 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Epic: Metro AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+Epic: Categories AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+HomePage: click On Categories Tab
+HomePage: see Categories Options
+ComponentsPage: components Page Categories
+HomePage: click On Categories Components Tab
+HomePage: see Categories Components Options
+1495942365868	Marionette	INFO	New connections will no longer be accepted
+It has been called
+1495942366854	geckodriver	INFO	Listening on 127.0.0.1:38511
+1495942367428	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1495942367778	addons.manager	ERJaROR	startup failed: [ExceptiovaScript error: resourcn... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0xe://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+1495942372027	Marionette	INFO	Listening on port 55892
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+May 27, 2017 11:32:52 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Epic: Telecoms AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+Epic: Categories AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+HomePage: click On Categories Tab
+HomePage: see Categories Options
+TelecomsPage: telecoms Page Categories
+HomePage: click On Categories Telecoms Tab
+HomePage: see Categories Telecoms Options
+1495942383419	Marionette	INFO	New connections will no longer be accepted
+It has been called
+1495942384414	geckodriver	INFO	Listening on 127.0.0.1:33465
+1495942384959	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1495942385298	addJavaScript erons.manageror: resor	ERRORurce://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+1495942389715	Marionette	INFO	Listening on port 55988
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+May 27, 2017 11:33:10 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Epic: Sports AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+Epic: Categories AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+HomePage: click On Categories Tab
+HomePage: see Categories Options
+SportsPage: sports Page Categories
+HomePage: click On Categories Sports Tab
+HomePage: see Categories Sports Options
+1495942401015	Marionette	INFO	New connections will no longer be accepted
+It has been called
+1495942402506	geckodriver	INFO	Listening on 127.0.0.1:26015
+1495942403067	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1495942403423	addons.manager	ERROR	staJavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+rtup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+1495942407645	Marionette	INFO	Listening on port 56094
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+May 27, 2017 11:33:28 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Epic: Metro AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+Epic: Categories AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+HomePage: click On Categories Tab
+HomePage: see Categories Options
+GiftsPage: gifts Page Categories
+HomePage: click On Categories Gifts Tab
+HomePage: see Categories Gifts Options
+1495942418077	Marionette	INFO	New connections will no longer be accepted
+It has been called
+1495942418923	geckodriver	INFO	Listening on 127.0.0.1:9765
+1495942419480	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1495942419924	addons.manager	ERROR	startup failed: [Exception... "ComponJavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: Addoent returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resourcne://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  dMata: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+anager is not initialized
+1495942424080	Marionette	INFO	Listening on port 56197
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+May 27, 2017 11:33:44 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Epic: Toys AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+Epic: Categories AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+HomePage: click On Categories Tab
+HomePage: see Categories Options
+ToysPage: toys Page Categories
+HomePage: click On Categories Toys Tab
+HomePage: see Categories Toys Options
+1495942434688	Marionette	INFO	New connections will no longer be accepted
+It has been called
+1495942435562	geckodriver	INFO	Listening on 127.0.0.1:25700
+1495942436131	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1495942436515	addons.manager	ERROR	startupJavaScript  failed: [Exception...error: re "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x800sou70057 (NS_ERROR_ILLrce://gre/modules/AddonManager.jsm, line 1657:EGA NS_ERROR_NOTL_VALUE)"  loca_INITIALIZED: Adtion: "JSdonManager is not initialized
+ frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+1495942441023	Marionette	INFO	Listening on port 56295
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+May 27, 2017 11:34:01 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Epic: Minerals AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+Epic: Categories AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+HomePage: click On Categories Tab
+HomePage: see Categories Options
+MineralsPage: minerals Page Categories
+HomePage: click On Categories Minerals Tab
+HomePage: see Categories Minerals Options
+1495942452338	Marionette	INFO	New connections will no longer be accepted
+It has been called
+1495942453201	geckodriver	INFO	Listening on 127.0.0.1:11119
+1495942453746	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1495942454160	addons.manager	ERROR	startJavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+up failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+1495942458363	Marionette	INFO	Listening on port 56393
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+May 27, 2017 11:34:19 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Epic: Metro AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+Epic: Categories AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+HomePage: click On Categories Tab
+HomePage: see Categories Options
+ChemicalsPage: chemicals Page Categories
+HomePage: click On Categories Chemicals Tab
+HomePage: see Categories Chemicals Options
+1495942469474	Marionette	INFO	New connections will no longer be accepted
+It has been called
+1495942470368	geckodriver	INFO	Listening on 127.0.0.1:23506
+1495942470913	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1495942471289	addons.manager	ERROR	startup failed: [Exception... "Component returned failurJavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+e code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+1495942475359	Marionette	INFO	Listening on port 56492
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+May 27, 2017 11:34:36 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Epic: Plastics AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+Epic: Categories AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+HomePage: click On Categories Tab
+HomePage: see Categories Options
+PlasticsPage: plastics Page Categories
+HomePage: click On Categories Plastics Tab
+HomePage: see Categories Plastics Options
+1495942486327	Marionette	INFO	New connections will no longer be accepted
+It has been called
+1495942487257	geckodriver	INFO	Listening on 127.0.0.1:19484
+1495942487826	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1495942488328	addons.manager	ERROR	startup faileJavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+d: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+1495942492744	Marionette	INFO	Listening on port 56600
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+May 27, 2017 11:34:53 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Epic: Metro AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+Epic: Categories AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+HomePage: click On Categories Tab
+HomePage: see Categories Options
+EnergyPage: energy Page Categories
+HomePage: click On Categories Energy Tab
+HomePage: see Categories Energy Options
+1495942504549	Marionette	INFO	New connections will no longer be accepted
+It has been called
+1495942505503	geckodriver	INFO	Listening on 127.0.0.1:34699
+1495942506055	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1495942506376	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS framJavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_Ne :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+OT_INITIALIZED: AddonManager is not initialized
+1495942510524	Marionette	INFO	Listening on port 56700
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+May 27, 2017 11:35:11 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+JavaScript error: https://messagebeach.alibaba.com/ajax/personTipsInfo.do?callback=jQuery183004375721993476478_1495942512999&_=1495942513313, line 3: TypeError: jQuery183004375721993476478_1495942512999 is not a function
+JavaScript error: https://messagebeach.alibaba.com/ajax/personRoleInfo.do?callback=jQuery183004375721993476478_1495942512997&_=1495942513293, line 3: TypeError: jQuery183004375721993476478_1495942512997 is not a function
+Epic: Bags AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+Epic: Categories AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+HomePage: click On Categories Tab
+HomePage: see Categories Options
+BagsPage: bags Page Categories
+HomePage: click On Categories Bags Tab
+HomePage: see Categories Bags Options
+Exception while taking screenshot The filename, directory name, or volume label syntax is incorrect
+1495942521913	Marionette	INFO	New connections will no longer be accepted
+It has been called
+1495942522709	geckodriver	INFO	Listening on 127.0.0.1:8155
+1495942523310	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1495942523775	addons.manager	ERROR	sJavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZEtartup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILD: AddonManager is not initialized
+LEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+1495942528081	Marionette	INFO	Listening on port 56798
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+May 27, 2017 11:35:28 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Epic: ShoesAndAccessories AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+Epic: Categories AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+HomePage: click On Categories Tab
+HomePage: see Categories Options
+ShoesAndAccessoriesPage: shoes And Accessories Page Categories
+HomePage: click On Categories Shoes And Accessories Tab
+HomePage: see Categories Shoes And Accessories Options
+1495942538319	Marionette	INFO	New connections will no longer be accepted
+It has been called
+1495942539204	geckodriver	INFO	Listening on 127.0.0.1:18020
+1495942539772	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1495942540121	addons.manager	ERROR	startup failed: [Exception... "CoJavmponent returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+tils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+1495942544204	Marionette	INFO	Listening on port 56891
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+May 27, 2017 11:35:45 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Epic: Metro AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+Epic: Categories AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+HomePage: click On Categories Tab
+HomePage: see Categories Options
+FoodAndBeveragesPage: food And Beverages Page Categories
+HomePage: click On Categories Food And Beverages Tab
+HomePage: see Categories Food And Beverages Options
+1495942555221	Marionette	INFO	New connections will no longer be accepted
+It has been called
+1495942556092	geckodriver	INFO	Listening on 127.0.0.1:43647
+1495942556665	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1495942557051	addons.manager	ERROR	staJavrtup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: aScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+"0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+1495942560885	Marionette	INFO	Listening on port 56991
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+May 27, 2017 11:36:01 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Epic: Agriculture AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+Epic: Categories AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+HomePage: click On Categories Tab
+HomePage: see Categories Options
+AgriculturePage: agriculture Page Categories
+HomePage: click On Categories Agriculture Tab
+HomePage: see Categories Agriculture Options
+Exception while taking screenshot The filename, directory name, or volume label syntax is incorrect
+1495942570465	Marionette	INFO	New connections will no longer be accepted
+It has been called

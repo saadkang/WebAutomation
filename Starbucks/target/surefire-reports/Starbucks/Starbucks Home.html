@@ -1,0 +1,477 @@
+<html>
+<head>
+<title>TestNG:  Starbucks Home</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Starbucks Home</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>14/2/0</td>
+</tr><tr>
+<td>Started on:</td><td>Sat May 27 15:14:53 EDT 2017</td>
+</tr>
+<tr><td>Total time:</td><td>252 seconds (252407 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-failed'>
+<tr><td colspan='4' align='center'><b>FAILED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='moreoptions.Card.card()'><b>card</b><br>Test class: moreoptions.Card<br/>
+<a href="#Output-711175534" onClick='toggleBox("Output-711175534", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-711175534" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-711175534">
+Epic: ReloadCard AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a><br/>
+Launch local browser Instance<br/>
+Epic: CardTab AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a><br/>
+Launch local browser Instance<br/>
+ClickOnTabs: click On Card Tab<br/>
+ClickOnTabs: see Card Options<br/>
+ReloadCard: go To Reload Card<br/>
+ReloadCard: click On Reload Card<br/>
+</div>
+</td>
+<td><div><pre>org.openqa.selenium.InvalidElementStateException: Element is not enabled
+Build info: version: &apos;3.4.0&apos;, revision: &apos;unknown&apos;, time: &apos;unknown&apos;
+System info: host: &apos;KANGSTA&apos;, ip: &apos;192.168.45.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_121&apos;
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\saadi\AppData\Local\Temp\rust_mozprofile.NOZBZD4H4Rwt, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.3, platformVersion=10.0, moz:processID=10560.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: a89d6d32-afb4-465d-b886-993c25337aca
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:150)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:115)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:45)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:637)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:272)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:82)
+	at base.CommonAPI.clickByCss(CommonAPI.java:190)
+	at moreoptions.Card.card(Card.java:28)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+... Removed 20 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace711175534", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace711175534'><pre>org.openqa.selenium.InvalidElementStateException: Element is not enabled
+Build info: version: &apos;3.4.0&apos;, revision: &apos;unknown&apos;, time: &apos;unknown&apos;
+System info: host: &apos;KANGSTA&apos;, ip: &apos;192.168.45.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_121&apos;
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\saadi\AppData\Local\Temp\rust_mozprofile.NOZBZD4H4Rwt, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.3, platformVersion=10.0, moz:processID=10560.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: a89d6d32-afb4-465d-b886-993c25337aca
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:150)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:115)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:45)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:637)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:272)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:82)
+	at base.CommonAPI.clickByCss(CommonAPI.java:190)
+	at moreoptions.Card.card(Card.java:28)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:39)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:414)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+</pre></div></td>
+<td>5</td>
+<td>moreoptions.Card@2cb4c3ab</td></tr>
+<tr>
+<td title='signin.SignIn.signingin()'><b>signingin</b><br>Test class: signin.SignIn<br/>
+<a href="#Output-1276166033" onClick='toggleBox("Output-1276166033", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1276166033" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1276166033">
+Epic: SignIn AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a><br/>
+Launch local browser Instance<br/>
+SignInPage: click On Sign In<br/>
+</div>
+</td>
+<td><div><pre>org.openqa.selenium.InvalidElementStateException: Element is not enabled
+Build info: version: &apos;3.4.0&apos;, revision: &apos;unknown&apos;, time: &apos;unknown&apos;
+System info: host: &apos;KANGSTA&apos;, ip: &apos;192.168.45.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_121&apos;
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\saadi\AppData\Local\Temp\rust_mozprofile.0syZY1nHygFq, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.3, platformVersion=10.0, moz:processID=13936.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 2eaba174-0ae1-4ad4-8e75-1c4b4d36047b
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:150)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:115)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:45)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:637)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:272)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:82)
+	at base.CommonAPI.clickByCss(CommonAPI.java:190)
+	at signin.SignIn.signingin(SignIn.java:25)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+... Removed 20 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1276166033", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1276166033'><pre>org.openqa.selenium.InvalidElementStateException: Element is not enabled
+Build info: version: &apos;3.4.0&apos;, revision: &apos;unknown&apos;, time: &apos;unknown&apos;
+System info: host: &apos;KANGSTA&apos;, ip: &apos;192.168.45.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_121&apos;
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\saadi\AppData\Local\Temp\rust_mozprofile.0syZY1nHygFq, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.3, platformVersion=10.0, moz:processID=13936.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 2eaba174-0ae1-4ad4-8e75-1c4b4d36047b
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:150)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:115)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:45)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:637)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:272)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:82)
+	at base.CommonAPI.clickByCss(CommonAPI.java:190)
+	at signin.SignIn.signingin(SignIn.java:25)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:39)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:414)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+</pre></div></td>
+<td>2</td>
+<td>signin.SignIn@5a61f5df</td></tr>
+</table><p>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='clickontabs.BlogTab.blog()'><b>blog</b><br>Test class: clickontabs.BlogTab<br/>
+<a href="#Output-2067900915" onClick='toggleBox("Output-2067900915", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-2067900915" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-2067900915">
+Epic: BlogTab AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a><br/>
+Launch local browser Instance<br/>
+ClickOnTabs: click On Blog Tab<br/>
+ClickOnTabs: see Blog Options<br/>
+</div>
+</td>
+<td></td>
+<td>2</td>
+<td>clickontabs.BlogTab@13c78c0b</td></tr>
+<tr>
+<td title='clickontabs.CardTab.card()'><b>card</b><br>Test class: clickontabs.CardTab<br/>
+<a href="#Output-2010975957" onClick='toggleBox("Output-2010975957", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-2010975957" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-2010975957">
+Epic: CardTab AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a><br/>
+Launch local browser Instance<br/>
+ClickOnTabs: click On Card Tab<br/>
+ClickOnTabs: see Card Options<br/>
+</div>
+</td>
+<td></td>
+<td>2</td>
+<td>clickontabs.CardTab@50f8360d</td></tr>
+<tr>
+<td title='moreoptions.Tea.chai()'><b>chai</b><br>Test class: moreoptions.Tea<br/>
+<a href="#Output-585141213" onClick='toggleBox("Output-585141213", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-585141213" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-585141213">
+Epic: ChaiTea AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a><br/>
+Launch local browser Instance<br/>
+Epic: TeaTab AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a><br/>
+Launch local browser Instance<br/>
+ClickOnTabs: click On Tea Tab<br/>
+ClickOnTabs: see Tea Options<br/>
+Chai: click On Chai Tea<br/>
+Chai: click On Maharaja Chai<br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>moreoptions.Tea@735b478</td></tr>
+<tr>
+<td title='clickontabs.CoffeeTab.coffee()'><b>coffee</b><br>Test class: clickontabs.CoffeeTab<br/>
+<a href="#Output-10460137" onClick='toggleBox("Output-10460137", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-10460137" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-10460137">
+Epic: CoffeeTab AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a><br/>
+Launch local browser Instance<br/>
+ClickOnTabs: click On Coffee Tab<br/>
+ClickOnTabs: see Coffee Options<br/>
+</div>
+</td>
+<td></td>
+<td>2</td>
+<td>clickontabs.CoffeeTab@3551a94</td></tr>
+<tr>
+<td title='clickontabs.CoffeeHouseTab.coffeeHouse()'><b>coffeeHouse</b><br>Test class: clickontabs.CoffeeHouseTab<br/>
+<a href="#Output-1059461955" onClick='toggleBox("Output-1059461955", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1059461955" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1059461955">
+Epic: CoffeeHouseTab AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a><br/>
+Launch local browser Instance<br/>
+ClickOnTabs: click On Coffee House Tab<br/>
+ClickOnTabs: see Coffe House Options<br/>
+</div>
+</td>
+<td></td>
+<td>2</td>
+<td>clickontabs.CoffeeHouseTab@9f70c54</td></tr>
+<tr>
+<td title='moreoptions.CoffeeHouse.coffeeHouse()'><b>coffeeHouse</b><br>Test class: moreoptions.CoffeeHouse<br/>
+<a href="#Output-1065947751" onClick='toggleBox("Output-1065947751", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1065947751" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1065947751">
+Epic: Metro AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a><br/>
+Launch local browser Instance<br/>
+Epic: CoffeeHouseTab AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a><br/>
+Launch local browser Instance<br/>
+ClickOnTabs: click On Coffee House Tab<br/>
+ClickOnTabs: see Coffe House Options<br/>
+Design: go To Store Design<br/>
+Design: click On Store Design<br/>
+Design: go To Design Location<br/>
+Design: click On Design Location<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>moreoptions.CoffeeHouse@234bef66</td></tr>
+<tr>
+<td title='findastore.FindAStore.findStorePage()'><b>findStorePage</b><br>Test class: findastore.FindAStore<br/>
+<a href="#Output-1539499952" onClick='toggleBox("Output-1539499952", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1539499952" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1539499952">
+Epic: FindAStore AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a><br/>
+Launch local browser Instance<br/>
+FindingStarbucks: go To Find Store<br/>
+FindingStarbucks: click On Find Store<br/>
+FindingStarbucks: type Zip Code<br/>
+</div>
+</td>
+<td></td>
+<td>2</td>
+<td>findastore.FindAStore@36f6e879</td></tr>
+<tr>
+<td title='moreoptions.Coffee.latte()'><b>latte</b><br>Test class: moreoptions.Coffee<br/>
+<a href="#Output-908627427" onClick='toggleBox("Output-908627427", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-908627427" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-908627427">
+Epic: Latte AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a><br/>
+Launch local browser Instance<br/>
+Epic: CoffeeTab AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a><br/>
+Launch local browser Instance<br/>
+ClickOnTabs: click On Coffee Tab<br/>
+ClickOnTabs: see Coffee Options<br/>
+Latte: go To Coffee Latte<br/>
+Latte: click On Coffee Latte<br/>
+Latte: go To Skinny Latte<br/>
+Latte: click On Skinny Latte<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>moreoptions.Coffee@531be3c5</td></tr>
+<tr>
+<td title='clickontabs.MenuTab.menu()'><b>menu</b><br>Test class: clickontabs.MenuTab<br/>
+<a href="#Output-694048012" onClick='toggleBox("Output-694048012", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-694048012" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-694048012">
+Epic: MenuTab AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a><br/>
+Launch local browser Instance<br/>
+ClickOnTabs: click On Menu Tab<br/>
+ClickOnTabs: see Menu Options<br/>
+</div>
+</td>
+<td></td>
+<td>2</td>
+<td>clickontabs.MenuTab@2c9f9fb0</td></tr>
+<tr>
+<td title='moreoptions.Menu.menu()'><b>menu</b><br>Test class: moreoptions.Menu<br/>
+<a href="#Output-1331690079" onClick='toggleBox("Output-1331690079", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1331690079" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1331690079">
+Epic: MenuTab AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a><br/>
+Launch local browser Instance<br/>
+ClickOnTabs: click On Menu Tab<br/>
+ClickOnTabs: see Menu Options<br/>
+Frapp: go To Frapp Blend<br/>
+Frapp: click On Frapp Blend<br/>
+Frapp: go To Smore Frapp<br/>
+Frapp: click On Smore Frapp<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>moreoptions.Menu@2096442d</td></tr>
+<tr>
+<td title='clickontabs.ShopTab.shop()'><b>shop</b><br>Test class: clickontabs.ShopTab<br/>
+<a href="#Output-997960296" onClick='toggleBox("Output-997960296", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-997960296" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-997960296">
+Epic: ShopTab AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a><br/>
+Launch local browser Instance<br/>
+ClickOnTabs: click On Shop Tab<br/>
+ClickOnTabs: see Shop Options<br/>
+</div>
+</td>
+<td></td>
+<td>2</td>
+<td>clickontabs.ShopTab@12843fce</td></tr>
+<tr>
+<td title='moreoptions.SocialImpact.social()'><b>social</b><br>Test class: moreoptions.SocialImpact<br/>
+<a href="#Output-1104546223" onClick='toggleBox("Output-1104546223", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1104546223" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1104546223">
+Epic: Metro AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a><br/>
+Launch local browser Instance<br/>
+Epic: SocialImpactTab AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a><br/>
+Launch local browser Instance<br/>
+ClickOnTabs: click On Social Impact Tab<br/>
+ClickOnTabs: see Social Impact Options<br/>
+MenuGoods: click On Menu Goodiess<br/>
+MenuGoods: click On Their Goal<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>moreoptions.SocialImpact@61dc03ce</td></tr>
+<tr>
+<td title='clickontabs.SocialImpactTab.socialImpact()'><b>socialImpact</b><br>Test class: clickontabs.SocialImpactTab<br/>
+<a href="#Output-1305452798" onClick='toggleBox("Output-1305452798", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1305452798" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1305452798">
+Epic: SocialImpactTab AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a><br/>
+Launch local browser Instance<br/>
+ClickOnTabs: click On Social Impact Tab<br/>
+ClickOnTabs: see Social Impact Options<br/>
+</div>
+</td>
+<td></td>
+<td>2</td>
+<td>clickontabs.SocialImpactTab@737996a0</td></tr>
+<tr>
+<td title='clickontabs.TeaTab.tea()'><b>tea</b><br>Test class: clickontabs.TeaTab<br/>
+<a href="#Output-235434057" onClick='toggleBox("Output-235434057", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-235434057" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-235434057">
+Epic: TeaTab AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a><br/>
+Launch local browser Instance<br/>
+ClickOnTabs: click On Tea Tab<br/>
+ClickOnTabs: see Tea Options<br/>
+</div>
+</td>
+<td></td>
+<td>2</td>
+<td>clickontabs.TeaTab@52af6cff</td></tr>
+</table><p>
+</body>
+</html>

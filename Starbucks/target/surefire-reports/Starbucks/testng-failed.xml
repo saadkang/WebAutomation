@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Starbucks]" parallel="tests">
+  <parameter name="useCloudEnv" value="false"/>
+  <parameter name="os" value="Windows"/>
+  <parameter name="os_version" value="10"/>
+  <parameter name="browserVersion" value="53.0"/>
+  <parameter name="browserName" value="firefox"/>
+  <parameter name="cloudEnvName" value="browserstack"/>
+  <parameter name="url" value="https://www.starbucks.com"/>
+  <test name="Starbucks Home(failed)" parallel="tests">
+    <classes>
+      <class name="signin.SignIn">
+        <methods>
+          <include name="afterEachTestMethod"/>
+          <include name="signingin"/>
+          <include name="generateReport"/>
+          <include name="extentSetup"/>
+          <include name="setUp"/>
+          <include name="startExtent"/>
+          <include name="cleanUp"/>
+        </methods>
+      </class> <!-- signin.SignIn -->
+      <class name="moreoptions.Card">
+        <methods>
+          <include name="afterEachTestMethod"/>
+          <include name="generateReport"/>
+          <include name="extentSetup"/>
+          <include name="setUp"/>
+          <include name="startExtent"/>
+          <include name="card"/>
+          <include name="cleanUp"/>
+        </methods>
+      </class> <!-- moreoptions.Card -->
+    </classes>
+  </test> <!-- Starbucks Home(failed) -->
+</suite> <!-- Failed suite [Starbucks] -->

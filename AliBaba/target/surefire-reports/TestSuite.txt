@@ -1,0 +1,34 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 35, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 616.003 sec <<< FAILURE! - in TestSuite
+homeApplianceCategories(homeappliance.HomeAppliance)  Time elapsed: 3.279 sec  <<< FAILURE!
+org.openqa.selenium.ElementNotInteractableException: 
+
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'KANGSTA', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\saadi\AppData\Local\Temp\rust_mozprofile.bN17pWIdAjJX, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.3, platformVersion=10.0, moz:processID=2548.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 41393b46-b176-4678-bdd7-82afc1f37450
+	at homeappliance.HomeAppliance.homeApplianceCategories(HomeAppliance.java:20)
+
+bagsCategories(bags.Bags)  Time elapsed: 3.168 sec  <<< FAILURE!
+org.openqa.selenium.ElementNotInteractableException: 
+
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'KANGSTA', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\saadi\AppData\Local\Temp\rust_mozprofile.RsVbrhWN4BeN, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.3, platformVersion=10.0, moz:processID=7392.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 77507bdc-9d89-4989-809e-0f8ba3dcfb58
+	at bags.Bags.bagsCategories(Bags.java:20)
+
+agricultureCategories(agriculture.Agriculture)  Time elapsed: 3.34 sec  <<< FAILURE!
+org.openqa.selenium.ElementNotInteractableException: 
+
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'KANGSTA', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\saadi\AppData\Local\Temp\rust_mozprofile.o9I67zgyvheK, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.3, platformVersion=10.0, moz:processID=8180.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: d97f0e9a-ae91-4b90-91f3-3fee1a0dfd20
+	at agriculture.Agriculture.agricultureCategories(Agriculture.java:20)
+
