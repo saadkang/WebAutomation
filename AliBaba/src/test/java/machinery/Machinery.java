@@ -15,8 +15,6 @@ public class Machinery extends CommonAPI{
     @Test
     public void machineryCategories() throws InterruptedException {
         ApplicationLog.epicLogger("Epic: Machinery AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>");
-        Categories categories = PageFactory.initElements(driver, Categories.class);
-        categories.categories();
         Thread.sleep(2000);
         MachineryPage machineryPage = PageFactory.initElements(driver, MachineryPage.class);
         machineryPage.machineryPageCategories();

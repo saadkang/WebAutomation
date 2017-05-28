@@ -10,9 +10,12 @@ import utility.reporting.TestLogger;
  */
 public class MachineryPage extends CommonAPI{
 
-    public void machineryPageCategories(){
+    public void machineryPageCategories() throws InterruptedException {
         TestLogger.log(getClass().getSimpleName() + ": " + converToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         HomePage homePage = PageFactory.initElements(driver, HomePage.class);
+        Thread.sleep(3000);
+        homePage.clickOnCategoriesTab();
+        Thread.sleep(3000);
         homePage.clickOnCategoriesMachineryTab();
     }
 }
