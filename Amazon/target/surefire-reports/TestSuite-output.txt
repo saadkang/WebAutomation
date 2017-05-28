@@ -1,35 +1,11 @@
 Extent Report directory: C:\Users\saadi\workspace\FromGitHub\Git-Saved-For-Later\WebAutomation\Amazon\target\surefire-reports\html
-May 25, 2017 3:50:00 PM com.relevantcodes.extentreports.ExtentReports loadConfig
+May 27, 2017 6:25:32 PM com.relevantcodes.extentreports.ExtentReports loadConfig
 WARNING: Unable to perform report configuration. The file C:\Users\saadi\workspace\FromGitHub\Git-Saved-For-Later\WebAutomation\Amazon\report-config.xml was not found.
-1495741802566	geckodriver	INFO	Listening on 127.0.0.1:30185
-1495741803913	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
-1495741804436	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
-JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
-1495741810171	Marionette	INFO	Listening on port 51608
+1495923933638	geckodriver	INFO	Listening on 127.0.0.1:1962
+1495923934481	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1495JavaScri9p2t3 9error3:5 471r	easdoduorncse.:m//garen/amgoedru	lEeRsR/OARd	dsotnaMratnuapg efra.ijlsemd,:  l[iEnxec eption1.6.5.7 :" CNoS_EmponentR RrOeRt_uNrOnTe_dI NfIaTiIALIZEDlure code: 0x80070057 (NS_ERROR_ILLEGAL_VALU: AddonManager is not initialized
+E) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+1495923940511	Marionette	INFO	Listening on port 57834
 JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
-May 25, 2017 3:50:11 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+May 27, 2017 6:25:41 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
-Epic: Metro EC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
-Launch local browser Instance
-SearchPage: get Data From Excel File And Search
-ItemsToBeSearched: get Data From Excel File
-SearchPage: search For :   Salmon
-SearchPage: clear Search Input
-SearchPage: search For :   Laptop
-SearchPage: clear Search Input
-SearchPage: search For :   Honey
-SearchPage: clear Search Input
-SearchPage: search For :   i Phone
-SearchPage: clear Search Input
-SearchPage: search For :   Books
-SearchPage: clear Search Input
-SearchPage: search For :   Selenium
-SearchPage: clear Search Input
-SearchPage: search For :   Lemon
-SearchPage: clear Search Input
-SearchPage: search For :   Tea
-SearchPage: clear Search Input
-SearchPage: search For :   Wine
-SearchPage: clear Search Input
-1495741851721	Marionette	INFO	New connections will no longer be accepted
-It has been called
