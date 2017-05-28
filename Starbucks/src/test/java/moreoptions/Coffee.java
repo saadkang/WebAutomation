@@ -20,6 +20,7 @@ public class Coffee extends CommonAPI{
         Thread.sleep(2000);
         Latte latte = PageFactory.initElements(driver, Latte.class);
         latte.goToCoffeeLatte();
+        Thread.sleep(2000);
         latte.goToSkinnyLatte();
     }
 }

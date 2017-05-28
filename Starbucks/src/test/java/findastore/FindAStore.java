@@ -18,5 +18,6 @@ public class FindAStore extends CommonAPI{
         findingStarbucks.goToFindStore();
         Thread.sleep(1000);
         findingStarbucks.typeZipCode();
+        Thread.sleep(2000);
     }
 }

@@ -5,13 +5,8 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/NYP/screenshots/headlineNews (05.14.2017-06:08AM).png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Starbucks/Extent-Report/ExtentReport.html" afterPath="$PROJECT_DIR$/Starbucks/Extent-Report/ExtentReport.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Starbucks/src/main/java/findingstore/FindingStarbucks.java" afterPath="$PROJECT_DIR$/Starbucks/src/main/java/findingstore/FindingStarbucks.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Starbucks/src/test/java/findastore/FindAStore.java" afterPath="$PROJECT_DIR$/Starbucks/src/test/java/findastore/FindAStore.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Starbucks/src/test/java/moreoptions/Coffee.java" afterPath="$PROJECT_DIR$/Starbucks/src/test/java/moreoptions/Coffee.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Starbucks/src/test/java/moreoptions/CoffeeHouse.java" afterPath="$PROJECT_DIR$/Starbucks/src/test/java/moreoptions/CoffeeHouse.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Starbucks/src/test/java/moreoptions/Menu.java" afterPath="$PROJECT_DIR$/Starbucks/src/test/java/moreoptions/Menu.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Starbucks/src/test/java/moreoptions/SocialImpact.java" afterPath="$PROJECT_DIR$/Starbucks/src/test/java/moreoptions/SocialImpact.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Starbucks/src/test/java/moreoptions/Tea.java" afterPath="$PROJECT_DIR$/Starbucks/src/test/java/moreoptions/Tea.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -41,18 +36,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Tea.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/moreoptions/Tea.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MenuTab.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/clickontabs/MenuTab.java">
+      <file leaf-file-name="BlogTab.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/clickontabs/BlogTab.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="149">
               <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
@@ -61,21 +46,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Menu.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/moreoptions/Menu.java">
+      <file leaf-file-name="FindAStore.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/findastore/FindAStore.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+            <state relative-caret-position="234">
+              <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CoffeeHouseTab.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/clickontabs/CoffeeHouseTab.java">
+      <file leaf-file-name="Coffee.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/moreoptions/Coffee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+            <state relative-caret-position="247">
+              <caret line="22" column="25" lean-forward="false" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -91,11 +76,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SocialImpactTab.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/clickontabs/SocialImpactTab.java">
+      <file leaf-file-name="Menu.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/moreoptions/Menu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+            <state relative-caret-position="265">
+              <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -111,31 +96,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CardTab.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/clickontabs/CardTab.java">
+      <file leaf-file-name="Tea.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/moreoptions/Tea.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+            <state relative-caret-position="281">
+              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BlogTab.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/clickontabs/BlogTab.java">
+      <file leaf-file-name="StarbucksTestRunner.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Starbucks/src/test/resources/StarbucksTestRunner.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ShopTab.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/clickontabs/ShopTab.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+            <state relative-caret-position="86">
+              <caret line="16" column="49" lean-forward="true" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -203,15 +178,15 @@
         <option value="$PROJECT_DIR$/AliBaba/src/test/java/transportation/Transportation.java" />
         <option value="$PROJECT_DIR$/Starbucks/src/main/java/clickontabs/ClickOnTabs.java" />
         <option value="$PROJECT_DIR$/Starbucks/src/test/java/clickontabs/BlogTab.java" />
-        <option value="$PROJECT_DIR$/Starbucks/src/test/java/findastore/FindAStore.java" />
         <option value="$PROJECT_DIR$/Starbucks/src/main/java/findingstore/FindingStarbucks.java" />
         <option value="$PROJECT_DIR$/Starbucks/src/test/resources/StarbucksTestRunner.xml" />
         <option value="$PROJECT_DIR$/Starbucks/src/test/java/clickontabs/CoffeeTab.java" />
-        <option value="$PROJECT_DIR$/Starbucks/src/test/java/moreoptions/Coffee.java" />
         <option value="$PROJECT_DIR$/Starbucks/src/test/java/moreoptions/Tea.java" />
         <option value="$PROJECT_DIR$/Starbucks/src/test/java/moreoptions/Menu.java" />
         <option value="$PROJECT_DIR$/Starbucks/src/test/java/moreoptions/CoffeeHouse.java" />
         <option value="$PROJECT_DIR$/Starbucks/src/test/java/moreoptions/SocialImpact.java" />
+        <option value="$PROJECT_DIR$/Starbucks/src/test/java/findastore/FindAStore.java" />
+        <option value="$PROJECT_DIR$/Starbucks/src/test/java/moreoptions/Coffee.java" />
       </list>
     </option>
   </component>
@@ -362,6 +337,10 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="moreoptions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -418,10 +397,6 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="clickontabs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -438,14 +413,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1083,7 +1050,7 @@
       <workItem from="1495562195883" duration="39133000" />
       <workItem from="1495751363513" duration="33989000" />
       <workItem from="1495907921510" duration="7145000" />
-      <workItem from="1495936087976" duration="13120000" />
+      <workItem from="1495936087976" duration="14298000" />
     </task>
     <task id="LOCAL-00001" summary="adding all the test to my shit">
       <created>1495249718294</created>
@@ -1260,13 +1227,17 @@
       <option name="project" value="LOCAL" />
       <updated>1495958435883</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Kang">
+      <created>1495961061466</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1495961061466</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__Users_saadi_workspace_FromGitHub_Automation_AliBaba_src_test_resources_AliBabaTestRunnerOnWindows_xml - 2017.05.28 at 03h 23m 45s.xml">
-      <configuration name="C:/Users/saadi/workspace/FromGitHub/Automation/AliBaba/src/test/resources/AliBabaTestRunnerOnWindows.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="C__Users_saadi_workspace_FromGitHub_Automation_AliBaba_src_test_resources_AliBabaTestRunnerOnWindows_xml - 2017.05.28 at 03h 25m 39s.xml">
       <configuration name="C:/Users/saadi/workspace/FromGitHub/Automation/AliBaba/src/test/resources/AliBabaTestRunnerOnWindows.xml" configurationId="TestNG" />
     </history-entry>
@@ -1294,9 +1265,12 @@
     <history-entry file="C__Users_saadi_workspace_FromGitHub_Automation_Starbucks_src_test_resources_StarbucksTestRunner_xml - 2017.05.28 at 04h 40m 53s.xml">
       <configuration name="C:/Users/saadi/workspace/FromGitHub/Automation/Starbucks/src/test/resources/StarbucksTestRunner.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="C__Users_saadi_workspace_FromGitHub_Automation_Starbucks_src_test_resources_StarbucksTestRunner_xml - 2017.05.28 at 05h 09m 39s.xml">
+      <configuration name="C:/Users/saadi/workspace/FromGitHub/Automation/Starbucks/src/test/resources/StarbucksTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="149977000" />
+    <option name="totallyTimeSpent" value="151155000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1693,34 +1667,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Starbucks/src/test/resources/StarbucksTestRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="29" column="18" lean-forward="true" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/findastore/FindAStore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/clickontabs/CoffeeTab.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="123">
           <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/moreoptions/Coffee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
           <folding />
         </state>
       </provider>
@@ -1733,26 +1683,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/moreoptions/Tea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/clickontabs/MenuTab.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
           <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/moreoptions/Menu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
           <folding />
         </state>
       </provider>
@@ -1765,14 +1699,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/moreoptions/CoffeeHouse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/clickontabs/SocialImpactTab.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
@@ -1781,15 +1707,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/moreoptions/SocialImpact.java">
+    <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/clickontabs/CardTab.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="22" column="25" lean-forward="false" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        <state relative-caret-position="149">
+          <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/clickontabs/CardTab.java">
+    <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/clickontabs/ShopTab.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
           <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
@@ -1805,10 +1731,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/clickontabs/ShopTab.java">
+    <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/findastore/FindAStore.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        <state relative-caret-position="234">
+          <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/moreoptions/Coffee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="22" column="25" lean-forward="false" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/moreoptions/CoffeeHouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/moreoptions/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/moreoptions/SocialImpact.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="22" column="25" lean-forward="false" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/moreoptions/Tea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Starbucks/src/test/resources/StarbucksTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="16" column="49" lean-forward="true" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
           <folding />
         </state>
       </provider>
