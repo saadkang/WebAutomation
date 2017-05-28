@@ -12,10 +12,11 @@ import utility.reporting.ApplicationLog;
 public class FindAStore extends CommonAPI{
 
     @Test
-    public void findStorePage(){
+    public void findStorePage() throws InterruptedException {
         ApplicationLog.epicLogger("Epic: FindAStore AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>");
         FindingStarbucks findingStarbucks = PageFactory.initElements(driver, FindingStarbucks.class);
         findingStarbucks.goToFindStore();
+        Thread.sleep(1000);
         findingStarbucks.typeZipCode();
     }
 }

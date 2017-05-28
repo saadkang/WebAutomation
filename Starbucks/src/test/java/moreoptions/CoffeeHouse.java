@@ -17,8 +17,10 @@ public class CoffeeHouse extends CommonAPI{
         ApplicationLog.epicLogger("Epic: Metro AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>");
         CoffeeHouseTab coffeeHouseTab = PageFactory.initElements(driver, CoffeeHouseTab.class);
         coffeeHouseTab.coffeeHouse();
+        Thread.sleep(2000);
         Design design = PageFactory.initElements(driver, Design.class);
         design.goToStoreDesign();
+        Thread.sleep(2000);
         design.goToDesignLocation();
     }
 }

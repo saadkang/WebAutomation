@@ -17,8 +17,10 @@ public class Tea extends CommonAPI{
         ApplicationLog.epicLogger("Epic: ChaiTea AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>");
         TeaTab teaTab = PageFactory.initElements(driver, TeaTab.class);
         teaTab.tea();
+        Thread.sleep(2000);
         Chai chai = PageFactory.initElements(driver, Chai.class);
         chai.clickOnChaiTea();
+        Thread.sleep(2000);
         chai.clickOnMaharajaChai();
 
     }

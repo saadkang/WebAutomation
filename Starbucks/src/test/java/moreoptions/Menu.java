@@ -15,8 +15,10 @@ public class Menu extends CommonAPI{
     public void menu() throws InterruptedException {
         MenuTab menuTab = PageFactory.initElements(driver, MenuTab.class);
         menuTab.menu();
+        Thread.sleep(2000);
         Frapp frapp = PageFactory.initElements(driver, Frapp.class);
         frapp.goToFrappBlend();
+        Thread.sleep(2000);
         frapp.goToSmoreFrapp();
     }
 }

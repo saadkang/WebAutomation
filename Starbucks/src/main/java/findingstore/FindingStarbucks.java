@@ -25,9 +25,10 @@ public class FindingStarbucks extends CommonAPI{
         TestLogger.log(getClass().getSimpleName() + ": " + converToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         clickOnFindStore();
     }
-    public void typeZipCode(){
+    public void typeZipCode() throws InterruptedException {
         TestLogger.log(getClass().getSimpleName() + ": " + converToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         typeByCss("input[name='place']", "27513");
+        Thread.sleep(1000);
         clickByCss(".button___vvJBH");
     }
 }

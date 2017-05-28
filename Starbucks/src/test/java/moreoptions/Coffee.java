@@ -17,6 +17,7 @@ public class Coffee extends CommonAPI{
         ApplicationLog.epicLogger("Epic: Latte AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>");
         CoffeeTab coffeeTab = PageFactory.initElements(driver, CoffeeTab.class);
         coffeeTab.coffee();
+        Thread.sleep(2000);
         Latte latte = PageFactory.initElements(driver, Latte.class);
         latte.goToCoffeeLatte();
         latte.goToSkinnyLatte();
