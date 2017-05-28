@@ -14,8 +14,8 @@
     <test name = "AliBaba Home">
         <classes>
             <class name="categories.Categories"/>
-            <class name="machinery.Machinery"/>
-            <class name="mechanicalparts.MechanicalParts"/>
+            <!--<class name="machinery.Machinery"/>-->
+            <!--<class name="mechanicalparts.MechanicalParts"/>-->
             <!--<class name="tools.Tools"/>-->
             <!--<class name="hardware.Hardware"/>-->
             <!--<class name="consumerelectronics.ConsumerElectronics"/>-->
