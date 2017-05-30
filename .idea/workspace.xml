@@ -2,10 +2,164 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88d8ee8a-8e16-4c3f-ab0c-1245ca465f2f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NYP/screenshots/headlineNews (05.14.2017-06:08AM).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/junitreports/TEST-accessories.Accessories.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/junitreports/TEST-agriculture.Agriculture.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/junitreports/TEST-apparel.Apparel.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/junitreports/TEST-auto.Auto.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/junitreports/TEST-bags.Bags.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/junitreports/TEST-beautyandpersonalcare.BeautyAndPersonalCare.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/junitreports/TEST-categories.Categories.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/junitreports/TEST-chemicals.Chemicals.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/junitreports/TEST-components.Components.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/junitreports/TEST-construction.Constructions.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/junitreports/TEST-consumerelectronics.ConsumerElectronics.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/junitreports/TEST-electricalequipment.ElectricalEquipment.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/junitreports/TEST-energy.Energy.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/junitreports/TEST-foodandbeverages.FoodAndBeverages.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/junitreports/TEST-furniture.Furniture.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/junitreports/TEST-gifts.Gifts.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/junitreports/TEST-hardware.Hardware.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/junitreports/TEST-health.Health.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/junitreports/TEST-homeandgarden.HomeAndGarden.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/junitreports/TEST-homeappliance.HomeAppliance.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/junitreports/TEST-lights.Lights.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/junitreports/TEST-mechanicalparts.MechanicalParts.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/junitreports/TEST-minerals.Minerals.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/junitreports/TEST-packagingandprinting.PackagingAndPrinting.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/junitreports/TEST-plastics.Plastics.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/junitreports/TEST-security.Security.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/junitreports/TEST-serviceequipment.ServiceEquipment.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/junitreports/TEST-shoesandaccessories.ShoesAndAccessories.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/junitreports/TEST-sports.Sports.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/junitreports/TEST-telecoms.Telecoms.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/junitreports/TEST-textile.Textile.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/junitreports/TEST-timepiece.Timepiece.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/junitreports/TEST-tools.Tools.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/junitreports/TEST-toys.Toys.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/junitreports/TEST-transportation.Transportation.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunnerOnMac.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon (0)/Amazon Home.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon (0)/Amazon Home.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon (0)/testng-failed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon/testng-failed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/junitreports/TEST-home.SearchItems.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/junitreports/TEST-searchitems.DropDownMenuSearch.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/junitreports/TEST-searchitems.SearchItems.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/junitreports/TEST-searchitems.SearchItemsWithDatabaseDataSource.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon (0)/Amazon Home.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon (0)/classes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon (0)/groups.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon (0)/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon (0)/main.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon (0)/methods-alphabetical.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon (0)/methods-not-run.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon (0)/methods.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon (0)/reporter-output.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon (0)/testng.xml.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon (0)/toc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-failed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/test-classes/AmazonTestRunnerOnMac.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Starbucks/target/surefire-reports/Starbucks/testng-failed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Starbucks/target/surefire-reports/TestSuite-output.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Starbucks/target/surefire-reports/junitreports/TEST-clickontabs.BlogTab.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Starbucks/target/surefire-reports/junitreports/TEST-clickontabs.CardTab.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Starbucks/target/surefire-reports/junitreports/TEST-clickontabs.CoffeeHouseTab.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Starbucks/target/surefire-reports/junitreports/TEST-clickontabs.CoffeeTab.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Starbucks/target/surefire-reports/junitreports/TEST-clickontabs.MenuTab.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Starbucks/target/surefire-reports/junitreports/TEST-clickontabs.ShopTab.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Starbucks/target/surefire-reports/junitreports/TEST-clickontabs.SocialImpactTab.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Starbucks/target/surefire-reports/junitreports/TEST-clickontabs.TeaTab.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Starbucks/target/surefire-reports/junitreports/TEST-findastore.FindAStore.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Starbucks/target/surefire-reports/junitreports/TEST-moreoptions.Card.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Starbucks/target/surefire-reports/junitreports/TEST-moreoptions.Coffee.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Starbucks/target/surefire-reports/junitreports/TEST-moreoptions.CoffeeHouse.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Starbucks/target/surefire-reports/junitreports/TEST-moreoptions.Menu.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Starbucks/target/surefire-reports/junitreports/TEST-moreoptions.SocialImpact.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Starbucks/target/surefire-reports/junitreports/TEST-moreoptions.Tea.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Starbucks/target/surefire-reports/junitreports/TEST-signin.SignIn.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Starbucks/target/surefire-reports/testng-failed.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/target/AliBaba-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/AliBaba/target/AliBaba-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/Amazon-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/Amazon/target/Amazon-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NYP/target/NYP-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/NYP/target/NYP-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Starbucks/target/Starbucks-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/Starbucks/target/Starbucks-1.0-SNAPSHOT.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/Extent-Report/ExtentReport.html" afterPath="$PROJECT_DIR$/AliBaba/Extent-Report/ExtentReport.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/pom.xml" afterPath="$PROJECT_DIR$/AliBaba/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/src/test/resources/AliBabaTestRunnerOnWindows.xml" afterPath="$PROJECT_DIR$/AliBaba/src/test/resources/AliBabaTestRunnerOnWindows.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/AliBaba/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/AliBaba/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/AliBaba/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/AliBaba/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/AliBaba/AliBaba Home.html" afterPath="$PROJECT_DIR$/AliBaba/target/surefire-reports/AliBaba/AliBaba Home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/AliBaba/AliBaba Home.xml" afterPath="$PROJECT_DIR$/AliBaba/target/surefire-reports/AliBaba/AliBaba Home.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/AliBaba/testng-failed.xml" afterPath="$PROJECT_DIR$/AliBaba/target/surefire-reports/AliBaba/testng-failed.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/TEST-TestSuite.xml" afterPath="$PROJECT_DIR$/AliBaba/target/surefire-reports/TEST-TestSuite.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/TestSuite-output.txt" afterPath="$PROJECT_DIR$/AliBaba/target/surefire-reports/TestSuite-output.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/TestSuite.txt" afterPath="$PROJECT_DIR$/AliBaba/target/surefire-reports/TestSuite.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/emailable-report.html" afterPath="$PROJECT_DIR$/AliBaba/target/surefire-reports/emailable-report.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/index.html" afterPath="$PROJECT_DIR$/AliBaba/target/surefire-reports/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/junitreports/TEST-machinery.Machinery.xml" afterPath="$PROJECT_DIR$/AliBaba/target/surefire-reports/junitreports/TEST-machinery.Machinery.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/old/AliBaba/classes.html" afterPath="$PROJECT_DIR$/AliBaba/target/surefire-reports/old/AliBaba/classes.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/old/AliBaba/methods-alphabetical.html" afterPath="$PROJECT_DIR$/AliBaba/target/surefire-reports/old/AliBaba/methods-alphabetical.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/old/AliBaba/methods-not-run.html" afterPath="$PROJECT_DIR$/AliBaba/target/surefire-reports/old/AliBaba/methods-not-run.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/old/AliBaba/methods.html" afterPath="$PROJECT_DIR$/AliBaba/target/surefire-reports/old/AliBaba/methods.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/old/AliBaba/reporter-output.html" afterPath="$PROJECT_DIR$/AliBaba/target/surefire-reports/old/AliBaba/reporter-output.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/old/AliBaba/testng.xml.html" afterPath="$PROJECT_DIR$/AliBaba/target/surefire-reports/old/AliBaba/testng.xml.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/old/AliBaba/toc.html" afterPath="$PROJECT_DIR$/AliBaba/target/surefire-reports/old/AliBaba/toc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/old/index.html" afterPath="$PROJECT_DIR$/AliBaba/target/surefire-reports/old/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/testng-failed.xml" afterPath="$PROJECT_DIR$/AliBaba/target/surefire-reports/testng-failed.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AliBaba/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/AliBaba/target/surefire-reports/testng-results.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/Extent-Report/ExtentReport.html" afterPath="$PROJECT_DIR$/Amazon/Extent-Report/ExtentReport.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/pom.xml" afterPath="$PROJECT_DIR$/Amazon/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/Amazon/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon/Amazon Home.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon/Amazon Home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon/Amazon Home.xml" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon/Amazon Home.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/TEST-TestSuite.xml" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/TEST-TestSuite.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/TestSuite-output.txt" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/TestSuite-output.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/TestSuite.txt" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/TestSuite.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/emailable-report.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/emailable-report.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/index.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/junitreports/TEST-home.TestAmazonHome.xml" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/junitreports/TEST-home.TestAmazonHome.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/classes.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/classes.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/methods-alphabetical.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/methods-alphabetical.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/methods.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/methods.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/reporter-output.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/reporter-output.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/testng.xml.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/testng.xml.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/toc.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/toc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/index.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-results.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/test-classes/AmazonTestRunnerOnWindows.xml" afterPath="$PROJECT_DIR$/Amazon/target/test-classes/AmazonTestRunnerOnWindows.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NYP/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/NYP/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NYP/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/NYP/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NYP/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/NYP/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NYP/target/test-classes/NYPTestRunner.xml" afterPath="$PROJECT_DIR$/NYP/target/test-classes/NYPTestRunner.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Starbucks/pom.xml" afterPath="$PROJECT_DIR$/Starbucks/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Starbucks/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/Starbucks/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Starbucks/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/Starbucks/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Starbucks/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/Starbucks/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Starbucks/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/Starbucks/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Starbucks/target/surefire-reports/Starbucks/Starbucks Home.html" afterPath="$PROJECT_DIR$/Starbucks/target/surefire-reports/Starbucks/Starbucks Home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Starbucks/target/surefire-reports/Starbucks/Starbucks Home.xml" afterPath="$PROJECT_DIR$/Starbucks/target/surefire-reports/Starbucks/Starbucks Home.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Starbucks/target/surefire-reports/TEST-TestSuite.xml" afterPath="$PROJECT_DIR$/Starbucks/target/surefire-reports/TEST-TestSuite.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Starbucks/target/surefire-reports/TestSuite.txt" afterPath="$PROJECT_DIR$/Starbucks/target/surefire-reports/TestSuite.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Starbucks/target/surefire-reports/emailable-report.html" afterPath="$PROJECT_DIR$/Starbucks/target/surefire-reports/emailable-report.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Starbucks/target/surefire-reports/index.html" afterPath="$PROJECT_DIR$/Starbucks/target/surefire-reports/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Starbucks/target/surefire-reports/old/Starbucks/classes.html" afterPath="$PROJECT_DIR$/Starbucks/target/surefire-reports/old/Starbucks/classes.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Starbucks/target/surefire-reports/old/Starbucks/methods-alphabetical.html" afterPath="$PROJECT_DIR$/Starbucks/target/surefire-reports/old/Starbucks/methods-alphabetical.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Starbucks/target/surefire-reports/old/Starbucks/methods-not-run.html" afterPath="$PROJECT_DIR$/Starbucks/target/surefire-reports/old/Starbucks/methods-not-run.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Starbucks/target/surefire-reports/old/Starbucks/methods.html" afterPath="$PROJECT_DIR$/Starbucks/target/surefire-reports/old/Starbucks/methods.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Starbucks/target/surefire-reports/old/Starbucks/reporter-output.html" afterPath="$PROJECT_DIR$/Starbucks/target/surefire-reports/old/Starbucks/reporter-output.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Starbucks/target/surefire-reports/old/Starbucks/testng.xml.html" afterPath="$PROJECT_DIR$/Starbucks/target/surefire-reports/old/Starbucks/testng.xml.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Starbucks/target/surefire-reports/old/Starbucks/toc.html" afterPath="$PROJECT_DIR$/Starbucks/target/surefire-reports/old/Starbucks/toc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Starbucks/target/surefire-reports/old/index.html" afterPath="$PROJECT_DIR$/Starbucks/target/surefire-reports/old/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Starbucks/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/Starbucks/target/surefire-reports/testng-results.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Starbucks/target/test-classes/StarbucksTestRunner.xml" afterPath="$PROJECT_DIR$/Starbucks/target/test-classes/StarbucksTestRunner.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -35,11 +189,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="AliBabaTestRunnerOnWindows.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AliBaba/src/test/resources/AliBabaTestRunnerOnWindows.xml">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="45" lean-forward="false" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+            <state relative-caret-position="255">
+              <caret line="15" column="34" lean-forward="false" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AliBaba/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="40" column="24" lean-forward="false" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="102" />
               <folding />
             </state>
           </provider>
@@ -48,8 +212,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="40" column="36" lean-forward="false" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+            <state relative-caret-position="334">
+              <caret line="40" column="67" lean-forward="false" selection-start-line="40" selection-start-column="67" selection-end-line="40" selection-end-column="67" />
               <folding />
             </state>
           </provider>
@@ -58,7 +222,17 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/NYP/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-111">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AmazonTestRunnerOnWindows.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Amazon/target/test-classes/AmazonTestRunnerOnWindows.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -75,55 +249,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Machinery.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AliBaba/src/test/java/machinery/Machinery.java">
+      <file leaf-file-name="AmazonTestRunnerOnWindows.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunnerOnWindows.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="19" column="45" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="45" />
+            <state relative-caret-position="232">
+              <caret line="16" column="27" lean-forward="false" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Invoker.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11-sources.jar!/org/testng/internal/Invoker.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="691" column="0" lean-forward="false" selection-start-line="691" selection-start-column="0" selection-end-line="691" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Categories.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AliBaba/src/test/java/categories/Categories.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="17" column="37" lean-forward="false" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MachineryPage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/machinery/MachineryPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="17" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HomePage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/homepage/HomePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="122" column="29" lean-forward="false" selection-start-line="122" selection-start-column="29" selection-end-line="122" selection-end-column="29" />
-              <folding>
-                <element signature="e#5885#5886#0" expanded="true" />
-                <element signature="e#5918#5919#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -153,7 +284,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/AliBaba/src/test/java/agriculture/Agriculture.java" />
         <option value="$PROJECT_DIR$/AliBaba/src/test/java/apparel/Apparel.java" />
         <option value="$PROJECT_DIR$/AliBaba/src/test/java/auto/Auto.java" />
         <option value="$PROJECT_DIR$/AliBaba/src/test/java/bags/Bags.java" />
@@ -202,8 +332,9 @@
         <option value="$PROJECT_DIR$/AliBaba/src/test/java/machinery/Machinery.java" />
         <option value="$PROJECT_DIR$/AliBaba/src/main/java/machinery/MachineryPage.java" />
         <option value="$PROJECT_DIR$/AliBaba/src/test/resources/AliBabaTestRunnerOnWindows.xml" />
-        <option value="$PROJECT_DIR$/Amazon/pom.xml" />
+        <option value="$PROJECT_DIR$/AliBaba/pom.xml" />
         <option value="$PROJECT_DIR$/Starbucks/pom.xml" />
+        <option value="$PROJECT_DIR$/Amazon/pom.xml" />
       </list>
     </option>
   </component>
@@ -228,18 +359,49 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
+          <option name="myItemId" value="Generic" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Generic" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
           <option name="myItemId" value="automation" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
       </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="automation" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
     </treeState>
-  </component>
-  <component name="MavenRunner">
-    <option name="mavenProperties">
-      <map>
-        <entry key="AmazonAppRunner" value="AmazonTestRunnerOnMac.xml" />
-      </map>
-    </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
@@ -289,6 +451,34 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutomation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutomation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Amazon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutomation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutomation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AliBaba" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
@@ -303,7 +493,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -334,35 +524,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/saadi/workspace/FromGitHub/Automation/AliBaba/src/test/resources/AliBabaTestRunnerOnWindows.xml">
-    <configuration default="false" name="C:/Users/PIIT_NYA/IdeaProjects/PntAutomation/Amazon/src/test/resources/AmazonTestRunnerOnWindows.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="Amazon" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunnerOnWindows.xml" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Maven.automation [test]">
     <configuration default="false" name="C:/Users/saadi/workspace/FromGitHub/Automation/Starbucks/src/test/resources/StarbucksTestRunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="Starbucks" />
@@ -478,6 +640,30 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="automation [test]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="test" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
       <method />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -890,19 +1076,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="TestNG.C:/Users/PIIT_NYA/IdeaProjects/PntAutomation/Amazon/src/test/resources/AmazonTestRunnerOnWindows.xml" />
-      <item index="1" class="java.lang.String" itemvalue="TestNG.C:/Users/saadi/workspace/FromGitHub/Automation/Starbucks/src/test/resources/StarbucksTestRunner.xml" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.ClickOnCoffeeTab.testingHover" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.C:/Users/saadi/workspace/FromGitHub/Automation/Starbucks10/src/test/resources/Startbucks1.0TestRunner.xml" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG.C:/Users/saadi/workspace/FromGitHub/Automation/AliBaba/src/test/resources/AliBabaTestRunnerOnWindows.xml" />
+      <item index="0" class="java.lang.String" itemvalue="TestNG.C:/Users/saadi/workspace/FromGitHub/Automation/Starbucks/src/test/resources/StarbucksTestRunner.xml" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG.ClickOnCoffeeTab.testingHover" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.C:/Users/saadi/workspace/FromGitHub/Automation/Starbucks10/src/test/resources/Startbucks1.0TestRunner.xml" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.C:/Users/saadi/workspace/FromGitHub/Automation/AliBaba/src/test/resources/AliBabaTestRunnerOnWindows.xml" />
+      <item index="4" class="java.lang.String" itemvalue="Maven.automation [test]" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.C:/Users/saadi/workspace/FromGitHub/Automation/AliBaba/src/test/resources/AliBabaTestRunnerOnWindows.xml" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.C:/Users/saadi/workspace/FromGitHub/Automation/Starbucks/src/test/resources/StarbucksTestRunner.xml" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.C:/Users/saadi/workspace/FromGitHub/Automation/Starbucks10/src/test/resources/Startbucks1.0TestRunner.xml" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.ClickOnCoffeeTab.testingHover" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.C:/Users/PIIT_NYA/IdeaProjects/PntAutomation/Amazon/src/test/resources/AmazonTestRunnerOnWindows.xml" />
+        <item index="0" class="java.lang.String" itemvalue="Maven.automation [test]" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.C:/Users/saadi/workspace/FromGitHub/Automation/AliBaba/src/test/resources/AliBabaTestRunnerOnWindows.xml" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.C:/Users/saadi/workspace/FromGitHub/Automation/Starbucks/src/test/resources/StarbucksTestRunner.xml" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.C:/Users/saadi/workspace/FromGitHub/Automation/Starbucks10/src/test/resources/Startbucks1.0TestRunner.xml" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.ClickOnCoffeeTab.testingHover" />
       </list>
     </recent_temporary>
   </component>
@@ -923,7 +1109,7 @@
       <workItem from="1495562195883" duration="39133000" />
       <workItem from="1495751363513" duration="33989000" />
       <workItem from="1495907921510" duration="7145000" />
-      <workItem from="1495936087976" duration="24321000" />
+      <workItem from="1495936087976" duration="30718000" />
     </task>
     <task id="LOCAL-00001" summary="adding all the test to my shit">
       <created>1495249718294</created>
@@ -1213,11 +1399,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="161178000" />
+    <option name="totallyTimeSpent" value="167575000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1227,14 +1412,14 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17349927" sideWeight="0.49577168" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2137628" sideWeight="0.49577168" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3548896" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3533123" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32649842" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23426062" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18374817" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1342,8 +1527,14 @@
           <properties />
           <option name="timeStamp" value="72" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java</url>
+          <line>112</line>
+          <properties />
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="73" />
+      <option name="time" value="75" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1352,62 +1543,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AliBaba/src/test/java/mechanicalparts/MechanicalParts.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="18" column="25" lean-forward="false" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AliBaba/src/test/java/minerals/Minerals.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AliBaba/src/test/java/plastics/Plastics.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="18" column="25" lean-forward="false" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AliBaba/src/test/java/security/Security.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="18" column="25" lean-forward="false" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AliBaba/src/test/java/serviceequipment/ServiceEquipment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="18" column="25" lean-forward="false" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AliBaba/src/test/java/shoesandaccessories/ShoesAndAccessories.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="18" column="25" lean-forward="false" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AliBaba/src/test/java/sports/Sports.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="18" column="25" lean-forward="false" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AliBaba/src/test/java/telecoms/Telecoms.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -1560,14 +1695,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AliBaba/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-98">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Starbucks/src/main/java/clickontabs/ClickOnTabs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1691">
@@ -1648,14 +1775,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunnerOnWindows.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="27" lean-forward="false" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/moreoptions/Coffee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -1668,14 +1787,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="105" column="65" lean-forward="false" selection-start-line="105" selection-start-column="65" selection-end-line="105" selection-end-column="65" />
           <folding />
         </state>
       </provider>
@@ -1709,8 +1820,8 @@
         <state relative-caret-position="106">
           <caret line="122" column="29" lean-forward="false" selection-start-line="122" selection-start-column="29" selection-end-line="122" selection-end-column="29" />
           <folding>
-            <element signature="e#5885#5886#0" expanded="true" />
-            <element signature="e#5918#5919#0" expanded="true" />
+            <element signature="e#5885#5886#0" expanded="false" />
+            <element signature="e#5918#5919#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1731,26 +1842,106 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AliBaba/src/test/resources/AliBabaTestRunnerOnWindows.xml">
+    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="45" lean-forward="false" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="40" column="36" lean-forward="false" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+        <state relative-caret-position="75">
+          <caret line="105" column="65" lean-forward="false" selection-start-line="105" selection-start-column="65" selection-end-line="105" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunnerOnWindows.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="16" column="27" lean-forward="false" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/target/test-classes/AmazonTestRunnerOnMac.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/test/resources/AliBabaTestRunnerOnWindows.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="47" lean-forward="false" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/test-output/junitreports/TEST-home.SearchItems.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AliBaba/src/main/java/accessories/AccessoriesPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/test-output/junitreports/TEST-home.TestAmazonHome.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/target/test-classes/AmazonTestRunnerOnWindows.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="34" lean-forward="false" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/NYP/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-111">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AliBaba/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="40" column="24" lean-forward="false" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="102" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="40" column="67" lean-forward="false" selection-start-line="40" selection-start-column="67" selection-end-line="40" selection-end-column="67" />
           <folding />
         </state>
       </provider>

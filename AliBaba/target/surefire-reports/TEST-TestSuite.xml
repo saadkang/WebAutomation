@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="616.003" tests="35" errors="0" skipped="0" failures="3">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="27.902" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="idea.version" value="2017.1.3"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
@@ -37,7 +37,6 @@
     <property name="user.home" value="C:\Users\saadi"/>
     <property name="user.timezone" value="America/New_York"/>
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
-    <property name="AmazonAppRunner" value="AmazonTestRunnerOnMac.xml"/>
     <property name="java.specification.version" value="1.8"/>
     <property name="file.encoding" value="UTF-8"/>
     <property name="user.name" value="saadi"/>
@@ -45,7 +44,7 @@
     <property name="java.vm.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_121\jre"/>
-    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2017.1.3 -DAmazonAppRunner=AmazonTestRunnerOnMac.xml test"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2017.1.3 test"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="en"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -62,134 +61,5 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="categories" classname="categories.Categories" time="3.301"/>
-  <testcase name="machineryCategories" classname="machinery.Machinery" time="4.618"/>
-  <testcase name="mechanicalPartsCategories" classname="mechanicalparts.MechanicalParts" time="4.533"/>
-  <testcase name="toolsCategories" classname="tools.Tools" time="4.668"/>
-  <testcase name="hardwareCategories" classname="hardware.Hardware" time="4.81"/>
-  <testcase name="consumerElectronicsCategories" classname="consumerelectronics.ConsumerElectronics" time="4.797"/>
-  <testcase name="homeApplianceCategories" classname="homeappliance.HomeAppliance" time="3.279">
-    <failure message="&#10;Build info: version: &apos;3.4.0&apos;, revision: &apos;unknown&apos;, time: &apos;unknown&apos;&#10;System info: host: &apos;KANGSTA&apos;, ip: &apos;192.168.45.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_121&apos;&#10;Driver info: org.openqa.selenium.firefox.FirefoxDriver&#10;Capabilities [{moz:profile=C:\Users\saadi\AppData\Local\Temp\rust_mozprofile.bN17pWIdAjJX, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.3, platformVersion=10.0, moz:processID=2548.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]&#10;Session ID: 41393b46-b176-4678-bdd7-82afc1f37450" type="org.openqa.selenium.ElementNotInteractableException">org.openqa.selenium.ElementNotInteractableException: 
-
-Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
-System info: host: 'KANGSTA', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities [{moz:profile=C:\Users\saadi\AppData\Local\Temp\rust_mozprofile.bN17pWIdAjJX, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.3, platformVersion=10.0, moz:processID=2548.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
-Session ID: 41393b46-b176-4678-bdd7-82afc1f37450
-	at homeappliance.HomeAppliance.homeApplianceCategories(HomeAppliance.java:20)
-</failure>
-    <system-out><![CDATA[It has been called
-Epic: HomeAppliance AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
-Launch local browser Instance
-Epic: Categories AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
-Launch local browser Instance
-HomePage: click On Categories Tab
-HomePage: see Categories Options
-HomeAppliancesPage: home Appliances Page Categories
-HomePage: click On Categories Home Appliances Tab
-HomePage: see Categories Home Appliances Options
-]]></system-out>
-    <system-err><![CDATA[1495942067627	Marionette	INFO	New connections will no longer be accepted
-1495942068539	geckodriver	INFO	Listening on 127.0.0.1:5805
-1495942069098	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
-1495942069497	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresultJavaScript error: resour: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUctils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
-e://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
-1495942073880	Marionette	INFO	Listening on port 54230
-JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
-May 27, 2017 11:27:54 PM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: W3C
-]]></system-err>
-  </testcase>
-  <testcase name="securityCategories" classname="security.Security" time="4.694"/>
-  <testcase name="autoCategories" classname="auto.Auto" time="4.55"/>
-  <testcase name="transportationCategories" classname="transportation.Transportation" time="4.434"/>
-  <testcase name="apparelCategories" classname="apparel.Apparel" time="4.491"/>
-  <testcase name="textileCategories" classname="textile.Textile" time="4.823"/>
-  <testcase name="timepieceCategories" classname="timepiece.Timepiece" time="4.412"/>
-  <testcase name="accessoriesCategories" classname="accessories.Accessories" time="4.445"/>
-  <testcase name="homeAndGardenCategories" classname="homeandgarden.HomeAndGarden" time="4.639"/>
-  <testcase name="constructionCategories" classname="construction.Constructions" time="4.62"/>
-  <testcase name="lightsCategories" classname="lights.Lights" time="4.543"/>
-  <testcase name="furnitureCategories" classname="furniture.Furniture" time="4.662"/>
-  <testcase name="beautyAndPersonalCareCategories" classname="beautyandpersonalcare.BeautyAndPersonalCare" time="4.764"/>
-  <testcase name="healthCategories" classname="health.Health" time="4.708"/>
-  <testcase name="serviceEquipmentCategories" classname="serviceequipment.ServiceEquipment" time="4.552"/>
-  <testcase name="electricalEquipmentCategories" classname="electricalequipment.ElectricalEquipment" time="4.824"/>
-  <testcase name="componentsCategories" classname="components.Components" time="4.431"/>
-  <testcase name="telecomsCategories" classname="telecoms.Telecoms" time="4.537"/>
-  <testcase name="sportsCategories" classname="sports.Sports" time="4.683"/>
-  <testcase name="giftsCategories" classname="gifts.Gifts" time="4.661"/>
-  <testcase name="toysCategories" classname="toys.Toys" time="4.528"/>
-  <testcase name="mineralsCategories" classname="minerals.Minerals" time="4.448"/>
-  <testcase name="chemicalsCategories" classname="chemicals.Chemicals" time="4.605"/>
-  <testcase name="plasticsCategories" classname="plastics.Plastics" time="4.732"/>
-  <testcase name="energyCategories" classname="energy.Energy" time="4.403"/>
-  <testcase name="bagsCategories" classname="bags.Bags" time="3.168">
-    <failure message="&#10;Build info: version: &apos;3.4.0&apos;, revision: &apos;unknown&apos;, time: &apos;unknown&apos;&#10;System info: host: &apos;KANGSTA&apos;, ip: &apos;192.168.45.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_121&apos;&#10;Driver info: org.openqa.selenium.firefox.FirefoxDriver&#10;Capabilities [{moz:profile=C:\Users\saadi\AppData\Local\Temp\rust_mozprofile.RsVbrhWN4BeN, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.3, platformVersion=10.0, moz:processID=7392.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]&#10;Session ID: 77507bdc-9d89-4989-809e-0f8ba3dcfb58" type="org.openqa.selenium.ElementNotInteractableException">org.openqa.selenium.ElementNotInteractableException: 
-
-Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
-System info: host: 'KANGSTA', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities [{moz:profile=C:\Users\saadi\AppData\Local\Temp\rust_mozprofile.RsVbrhWN4BeN, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.3, platformVersion=10.0, moz:processID=7392.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
-Session ID: 77507bdc-9d89-4989-809e-0f8ba3dcfb58
-	at bags.Bags.bagsCategories(Bags.java:20)
-</failure>
-    <system-out><![CDATA[It has been called
-Epic: Bags AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
-Launch local browser Instance
-Epic: Categories AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
-Launch local browser Instance
-HomePage: click On Categories Tab
-HomePage: see Categories Options
-BagsPage: bags Page Categories
-HomePage: click On Categories Bags Tab
-HomePage: see Categories Bags Options
-]]></system-out>
-    <system-err><![CDATA[1495942504549	Marionette	INFO	New connections will no longer be accepted
-1495942505503	geckodriver	INFO	Listening on 127.0.0.1:34699
-1495942506055	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
-1495942506376	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS framJavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_Ne :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
-OT_INITIALIZED: AddonManager is not initialized
-1495942510524	Marionette	INFO	Listening on port 56700
-JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
-May 27, 2017 11:35:11 PM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: W3C
-JavaScript error: https://messagebeach.alibaba.com/ajax/personTipsInfo.do?callback=jQuery183004375721993476478_1495942512999&_=1495942513313, line 3: TypeError: jQuery183004375721993476478_1495942512999 is not a function
-JavaScript error: https://messagebeach.alibaba.com/ajax/personRoleInfo.do?callback=jQuery183004375721993476478_1495942512997&_=1495942513293, line 3: TypeError: jQuery183004375721993476478_1495942512997 is not a function
-]]></system-err>
-  </testcase>
-  <testcase name="shoesAndAccessoriesCategories" classname="shoesandaccessories.ShoesAndAccessories" time="4.664"/>
-  <testcase name="foodAndBeveragesCategories" classname="foodandbeverages.FoodAndBeverages" time="4.709"/>
-  <testcase name="agricultureCategories" classname="agriculture.Agriculture" time="3.34">
-    <failure message="&#10;Build info: version: &apos;3.4.0&apos;, revision: &apos;unknown&apos;, time: &apos;unknown&apos;&#10;System info: host: &apos;KANGSTA&apos;, ip: &apos;192.168.45.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_121&apos;&#10;Driver info: org.openqa.selenium.firefox.FirefoxDriver&#10;Capabilities [{moz:profile=C:\Users\saadi\AppData\Local\Temp\rust_mozprofile.o9I67zgyvheK, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.3, platformVersion=10.0, moz:processID=8180.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]&#10;Session ID: d97f0e9a-ae91-4b90-91f3-3fee1a0dfd20" type="org.openqa.selenium.ElementNotInteractableException">org.openqa.selenium.ElementNotInteractableException: 
-
-Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
-System info: host: 'KANGSTA', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities [{moz:profile=C:\Users\saadi\AppData\Local\Temp\rust_mozprofile.o9I67zgyvheK, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.3, platformVersion=10.0, moz:processID=8180.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
-Session ID: d97f0e9a-ae91-4b90-91f3-3fee1a0dfd20
-	at agriculture.Agriculture.agricultureCategories(Agriculture.java:20)
-</failure>
-    <system-out><![CDATA[It has been called
-Epic: Agriculture AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
-Launch local browser Instance
-Epic: Categories AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
-Launch local browser Instance
-HomePage: click On Categories Tab
-HomePage: see Categories Options
-AgriculturePage: agriculture Page Categories
-HomePage: click On Categories Agriculture Tab
-HomePage: see Categories Agriculture Options
-]]></system-out>
-    <system-err><![CDATA[1495942555221	Marionette	INFO	New connections will no longer be accepted
-1495942556092	geckodriver	INFO	Listening on 127.0.0.1:43647
-1495942556665	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
-1495942557051	addons.manager	ERROR	staJavrtup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: aScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
-"0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
-1495942560885	Marionette	INFO	Listening on port 56991
-JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
-May 27, 2017 11:36:01 PM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: W3C
-]]></system-err>
-  </testcase>
+  <testcase name="machineryCategories" classname="machinery.Machinery" time="8.572"/>
 </testsuite>
