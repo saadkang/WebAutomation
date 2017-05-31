@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="AliBaba" />
         <module name="Amazon" />
+        <module name="FoodLion" />
         <module name="Generic" />
         <module name="NYP" />
         <module name="Starbucks" />
@@ -18,6 +19,7 @@
       <module name="Amazon" target="1.8" />
       <module name="BassPro" target="1.8" />
       <module name="eBay" target="1.8" />
+      <module name="FoodLion" target="1.8" />
       <module name="Generic" target="1.8" />
       <module name="greenturtle" target="1.8" />
       <module name="NYP" target="1.8" />

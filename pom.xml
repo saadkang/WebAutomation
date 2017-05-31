@@ -14,6 +14,7 @@
         <module>NYP</module>
         <module>AliBaba</module>
         <module>Starbucks</module>
+        <module>FoodLion</module>
     </modules>
 
     <dependencyManagement>
