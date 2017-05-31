@@ -37,7 +37,8 @@
                 <configuration>
                     <redirectTestOutputToFile>true</redirectTestOutputToFile>
                     <suiteXmlFiles>
-                        <suiteXmlFile>target/test-classes/AmazonTestRunnerOnWindows.xml</suiteXmlFile>
+                        <!--<suiteXmlFile>target/test-classes/AmazonTestRunnerOnWindows.xml</suiteXmlFile>-->
+                        <suiteXmlFile>src/test/resources/AmazonTestRunnerOnWindows.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>

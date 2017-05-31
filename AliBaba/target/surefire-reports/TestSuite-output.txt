@@ -1,0 +1,20 @@
+Extent Report directory: C:\Users\saadi\workspace\FromGitHub\Git-Saved-For-Later\WebAutomation\AliBaba\target\surefire-reports\html
+May 28, 2017 3:30:42 PM com.relevantcodes.extentreports.ExtentReports loadConfig
+WARNING: Unable to perform report configuration. The file C:\Users\saadi\workspace\FromGitHub\Git-Saved-For-Later\WebAutomation\AliBaba\report-config.xml was not found.
+1495999843892	geckodriver	INFO	Listening on 127.0.0.1:6917
+1495999844794	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1495999845476	addons.manager	ERROJRa	startup failed:vaScr i[pEtx ceerprtoiro:n resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not. .i.n "Coimtpioanleinzte dret
+urned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:671 < startup()@resource://gre/modules/AddonManager.jsm:834 < startup()@resource://gre/modules/AddonManager.jsm:3129 < observe()@resource://gre/components/addonManager.js:65
+1495999850764	Marionette	INFO	Listening on port 61182
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2570: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+May 28, 2017 3:30:51 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Epic: Machinery AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>
+Launch local browser Instance
+MachineryPage: machinery Page Categories
+HomePage: click On Categories Tab
+HomePage: see Categories Options
+HomePage: click On Categories Machinery Tab
+HomePage: see Categories Machinery Options
+1495999866428	Marionette	INFO	New connections will no longer be accepted
+It has been called

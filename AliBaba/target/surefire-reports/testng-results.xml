@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Extent Report directory: C:\Users\saadi\workspace\FromGitHub\Git-Saved-For-Later\WebAutomation\AliBaba\target\surefire-reports\html]]>
+    </line>
+    <line>
+      <![CDATA[Epic: Machinery AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>]]>
+    </line>
+    <line>
+      <![CDATA[Launch local browser Instance]]>
+    </line>
+    <line>
+      <![CDATA[MachineryPage: machinery Page Categories]]>
+    </line>
+    <line>
+      <![CDATA[HomePage: click On Categories Tab]]>
+    </line>
+    <line>
+      <![CDATA[HomePage: see Categories Options]]>
+    </line>
+    <line>
+      <![CDATA[HomePage: click On Categories Machinery Tab]]>
+    </line>
+    <line>
+      <![CDATA[HomePage: see Categories Machinery Options]]>
+    </line>
+  </reporter-output>
+  <suite name="AliBaba" duration-ms="25792" started-at="2017-05-28T19:30:42Z" finished-at="2017-05-28T19:31:08Z">
+    <groups>
+    </groups>
+    <test name="AliBaba Home" duration-ms="25792" started-at="2017-05-28T19:30:42Z" finished-at="2017-05-28T19:31:08Z">
+      <class name="machinery.Machinery">
+        <test-method status="PASS" signature="extentSetup(org.testng.ITestContext)[pri:0, instance:machinery.Machinery@327471b5]" name="extentSetup" is-config="true" duration-ms="490" started-at="2017-05-28T15:30:42Z" finished-at="2017-05-28T15:30:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@10b48321]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Extent Report directory: C:\Users\saadi\workspace\FromGitHub\Git-Saved-For-Later\WebAutomation\AliBaba\target\surefire-reports\html]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- extentSetup -->
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:machinery.Machinery@327471b5]" name="setUp" is-config="true" duration-ms="14433" started-at="2017-05-28T15:30:42Z" finished-at="2017-05-28T15:30:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[browserstack]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[53.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[https://www.alibaba.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:machinery.Machinery@327471b5]" name="startExtent" is-config="true" duration-ms="12" started-at="2017-05-28T15:30:57Z" finished-at="2017-05-28T15:30:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void machinery.Machinery.machineryCategories() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method status="PASS" signature="machineryCategories()[pri:0, instance:machinery.Machinery@327471b5]" name="machineryCategories" duration-ms="8571" started-at="2017-05-28T15:30:57Z" finished-at="2017-05-28T15:31:05Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Epic: Machinery AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>]]>
+            </line>
+            <line>
+              <![CDATA[Launch local browser Instance]]>
+            </line>
+            <line>
+              <![CDATA[MachineryPage: machinery Page Categories]]>
+            </line>
+            <line>
+              <![CDATA[HomePage: click On Categories Tab]]>
+            </line>
+            <line>
+              <![CDATA[HomePage: see Categories Options]]>
+            </line>
+            <line>
+              <![CDATA[HomePage: click On Categories Machinery Tab]]>
+            </line>
+            <line>
+              <![CDATA[HomePage: see Categories Machinery Options]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- machineryCategories -->
+        <test-method status="PASS" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:machinery.Machinery@327471b5]" name="afterEachTestMethod" is-config="true" duration-ms="2743" started-at="2017-05-28T15:31:05Z" finished-at="2017-05-28T15:31:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=machineryCategories status=SUCCESS method=Machinery.machineryCategories()[pri:0, instance:machinery.Machinery@327471b5] output=Epic: Machinery AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:machinery.Machinery@327471b5]" name="cleanUp" is-config="true" duration-ms="1" started-at="2017-05-28T15:31:08Z" finished-at="2017-05-28T15:31:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="generateReport()[pri:0, instance:machinery.Machinery@327471b5]" name="generateReport" is-config="true" duration-ms="216" started-at="2017-05-28T15:31:08Z" finished-at="2017-05-28T15:31:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReport -->
+      </class> <!-- machinery.Machinery -->
+    </test> <!-- AliBaba Home -->
+  </suite> <!-- AliBaba -->
+</testng-results>
