@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>FoodLion</artifactId>
+    <artifactId>TimeWarnerCable</artifactId>
 
     <dependencies>
         <dependency>

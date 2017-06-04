@@ -11,7 +11,9 @@
         <module name="FoodLion" />
         <module name="Generic" />
         <module name="NYP" />
+        <module name="Spectrum" />
         <module name="Starbucks" />
+        <module name="TimeWarnerCable" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -22,10 +24,13 @@
       <module name="FoodLion" target="1.8" />
       <module name="Generic" target="1.8" />
       <module name="greenturtle" target="1.8" />
+      <module name="JoAnn" target="1.8" />
       <module name="NYP" target="1.8" />
       <module name="PntAutomation" target="1.8" />
+      <module name="Spectrum" target="1.8" />
       <module name="Starbucks" target="1.8" />
       <module name="Starbucks10" target="1.8" />
+      <module name="TimeWarnerCable" target="1.8" />
       <module name="Upscalelearning" target="1.8" />
     </bytecodeTargetLevel>
   </component>

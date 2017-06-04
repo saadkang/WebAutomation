@@ -1,19 +1,20 @@
-package flyfishingreels;
+package account;
 
 import base.CommonAPI;
+import homepage.HomePage;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.Test;
 import utility.reporting.ApplicationLog;
 
 /**
- * Created by saadi on 5/31/2017.
+ * Created by saadi on 6/4/2017.
  */
-public class FlyFishingReels extends CommonAPI{
+public class Account extends CommonAPI{
 
     @Test
-    public void flyFishPage(){
+    public void account(){
         ApplicationLog.epicLogger("Epic: Metro AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>");
-        FlyFishingReelsPage flyFishingReelsPage = PageFactory.initElements(driver, FlyFishingReelsPage.class);
-        flyFishingReelsPage.flyReel();
+        HomePage homePage = PageFactory.initElements(driver, HomePage.class);
+        homePage.goToAccount();
     }
 }
