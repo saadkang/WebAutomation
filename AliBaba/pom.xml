@@ -37,7 +37,6 @@
                 <configuration>
                     <redirectTestOutputToFile>true</redirectTestOutputToFile>
                     <suiteXmlFiles>
-                        <!--<suiteXmlFile>target/test-classes/AliBabaTestRunnerOnWindows.xml</suiteXmlFile>-->
                         <suiteXmlFile>src/test/resources/AlibabaTestRunnerOnWindows.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>

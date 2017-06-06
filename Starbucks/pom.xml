@@ -37,7 +37,7 @@
                 <configuration>
                     <redirectTestOutputToFile>true</redirectTestOutputToFile>
                     <suiteXmlFiles>
-                        <suiteXmlFile>target/test-classes/StarbucksTestRunner.xml</suiteXmlFile>
+                        <suiteXmlFile>src/test/resources/StarbucksTestRunnerOnWindows.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
