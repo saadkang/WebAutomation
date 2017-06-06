@@ -13,7 +13,8 @@
 
     <test name = "Walmart Home">
         <classes>
-            <class name="departmentstab.Departments"/>
+            <!--<class name="departmentstab.Departments"/>-->
+            <class name="findastore.Store"/>
         </classes>
     </test>
 </suite>
