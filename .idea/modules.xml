@@ -7,8 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
       <module fileurl="file://$PROJECT_DIR$/NYP/NYP.iml" filepath="$PROJECT_DIR$/NYP/NYP.iml" />
       <module fileurl="file://$PROJECT_DIR$/PntAutomation.iml" filepath="$PROJECT_DIR$/PntAutomation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Spectrum/Spectrum.iml" filepath="$PROJECT_DIR$/Spectrum/Spectrum.iml" />
       <module fileurl="file://$PROJECT_DIR$/Starbucks/Starbucks.iml" filepath="$PROJECT_DIR$/Starbucks/Starbucks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Walmart/Walmart.iml" filepath="$PROJECT_DIR$/Walmart/Walmart.iml" />
     </modules>
   </component>
 </project>

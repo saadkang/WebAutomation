@@ -11,16 +11,18 @@
         <module name="FoodLion" />
         <module name="Generic" />
         <module name="NYP" />
-        <module name="Spectrum" />
         <module name="Starbucks" />
         <module name="TimeWarnerCable" />
+        <module name="Walmart" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="AliBaba" target="1.8" />
       <module name="Amazon" target="1.8" />
       <module name="BassPro" target="1.8" />
+      <module name="CoolHunting" target="1.8" />
       <module name="eBay" target="1.8" />
+      <module name="ECFMG" target="1.8" />
       <module name="FoodLion" target="1.8" />
       <module name="Generic" target="1.8" />
       <module name="greenturtle" target="1.8" />
@@ -32,6 +34,7 @@
       <module name="Starbucks10" target="1.8" />
       <module name="TimeWarnerCable" target="1.8" />
       <module name="Upscalelearning" target="1.8" />
+      <module name="Walmart" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

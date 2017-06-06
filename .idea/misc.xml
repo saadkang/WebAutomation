@@ -9,7 +9,10 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/BassPro/pom.xml" />
+        <option value="$PROJECT_DIR$/CoolHunting/pom.xml" />
+        <option value="$PROJECT_DIR$/ECFMG/pom.xml" />
         <option value="$PROJECT_DIR$/JoAnn/pom.xml" />
+        <option value="$PROJECT_DIR$/Spectrum/pom.xml" />
         <option value="$PROJECT_DIR$/Starbucks10/pom.xml" />
         <option value="$PROJECT_DIR$/Upscalelearning/pom.xml" />
         <option value="$PROJECT_DIR$/eBay/pom.xml" />
