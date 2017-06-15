@@ -15,6 +15,7 @@
         <module>AliBaba</module>
         <module>Starbucks</module>
         <module>Walmart</module>
+        <module>BestBuy</module>
     </modules>
 
     <dependencyManagement>

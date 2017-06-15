@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="AliBaba" />
         <module name="Amazon" />
+        <module name="BestBuy" />
         <module name="FoodLion" />
         <module name="Generic" />
         <module name="NYP" />
@@ -20,6 +21,7 @@
       <module name="AliBaba" target="1.8" />
       <module name="Amazon" target="1.8" />
       <module name="BassPro" target="1.8" />
+      <module name="BestBuy" target="1.8" />
       <module name="CoolHunting" target="1.8" />
       <module name="eBay" target="1.8" />
       <module name="ECFMG" target="1.8" />
