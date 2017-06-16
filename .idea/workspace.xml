@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88d8ee8a-8e16-4c3f-ab0c-1245ca465f2f" name="Default" comment="">
+    <list default="true" id="88d8ee8a-8e16-4c3f-ab0c-1245ca465f2f" name="Default" comment="Kang">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BestBuy/src/test/java/brand/Brand.java" afterPath="$PROJECT_DIR$/BestBuy/src/test/java/brand/Brand.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BestBuy/src/test/java/products/Products.java" afterPath="$PROJECT_DIR$/BestBuy/src/test/java/products/Products.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BestBuy/src/test/java/searchbar/SearchBar.java" afterPath="$PROJECT_DIR$/BestBuy/src/test/java/searchbar/SearchBar.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BestBuy/src/main/java/search/SearchBarr.java" afterPath="$PROJECT_DIR$/BestBuy/src/main/java/search/SearchBarr.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -86,7 +84,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Brand.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Brand.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BestBuy/src/test/java/brand/Brand.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
@@ -110,7 +108,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SearchBar.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SearchBar.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BestBuy/src/test/java/searchbar/SearchBar.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="239">
@@ -135,16 +133,16 @@
       <file leaf-file-name="SearchBarr.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BestBuy/src/main/java/search/SearchBarr.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="22" column="52" lean-forward="false" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
+            <state relative-caret-position="222">
+              <caret line="26" column="27" lean-forward="false" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#389#390#0" expanded="true" />
-                <element signature="e#421#422#0" expanded="true" />
-                <element signature="e#458#459#0" expanded="true" />
-                <element signature="e#496#497#0" expanded="true" />
-                <element signature="e#529#530#0" expanded="true" />
-                <element signature="e#591#592#0" expanded="true" />
+                <element signature="e#400#401#0" expanded="true" />
+                <element signature="e#435#436#0" expanded="true" />
+                <element signature="e#475#476#0" expanded="true" />
+                <element signature="e#516#517#0" expanded="true" />
+                <element signature="e#552#553#0" expanded="true" />
+                <element signature="e#589#590#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -171,7 +169,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Starbucks/src/main/java/clickontabs/ClickOnTabs.java" />
         <option value="$PROJECT_DIR$/Starbucks/src/test/java/clickontabs/BlogTab.java" />
         <option value="$PROJECT_DIR$/Starbucks/src/main/java/findingstore/FindingStarbucks.java" />
         <option value="$PROJECT_DIR$/Starbucks/src/test/java/clickontabs/CoffeeTab.java" />
@@ -222,6 +219,7 @@
         <option value="$PROJECT_DIR$/BestBuy/src/test/java/searchbar/SearchBar.java" />
         <option value="$PROJECT_DIR$/BestBuy/src/test/java/products/Products.java" />
         <option value="$PROJECT_DIR$/BestBuy/src/test/java/brand/Brand.java" />
+        <option value="$PROJECT_DIR$/BestBuy/src/main/java/search/SearchBarr.java" />
       </list>
     </option>
   </component>
@@ -1140,7 +1138,7 @@
       <workItem from="1496621059502" duration="611000" />
       <workItem from="1496721710046" duration="3734000" />
       <workItem from="1496757800092" duration="2528000" />
-      <workItem from="1497471379828" duration="12946000" />
+      <workItem from="1497471379828" duration="13250000" />
     </task>
     <task id="LOCAL-00001" summary="adding all the test to my shit">
       <created>1495249718294</created>
@@ -1450,7 +1448,14 @@
       <option name="project" value="LOCAL" />
       <updated>1497583470075</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Kang">
+      <created>1497583561248</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1497583561248</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1463,11 +1468,11 @@
     <history-entry file="C__Users_saadi_workspace_FromGitHub_Git-Saved-For-Later_WebAutomation_BestBuy_src_test_resources_BestBuyTestRunner_xml - 2017.06.15 at 23h 24m 16s.xml">
       <configuration name="C:/Users/saadi/workspace/FromGitHub/Git-Saved-For-Later/WebAutomation/BestBuy/src/test/resources/BestBuyTestRunner.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="C__Users_saadi_workspace_FromGitHub_Git-Saved-For-Later_WebAutomation_BestBuy_src_test_resources_BestBuyTestRunner_xml - 2017.06.15 at 23h 27m 21s.xml">
+      <configuration name="C:/Users/saadi/workspace/FromGitHub/Git-Saved-For-Later/WebAutomation/BestBuy/src/test/resources/BestBuyTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
     <history-entry file="C__Users_saadi_workspace_FromGitHub_Git-Saved-For-Later_WebAutomation_Starbucks_src_test_resources_StarbucksTestRunner_xml - 2017.06.14 at 20h 16m 43s.xml">
       <configuration name="C:/Users/saadi/workspace/FromGitHub/Git-Saved-For-Later/WebAutomation/Starbucks/src/test/resources/StarbucksTestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_saadi_workspace_FromGitHub_Git-Saved-For-Later_WebAutomation_Walmart_src_test_resources_WalmartTestRunner_xml - 2017.06.06 at 00h 44m 05s.xml">
-      <configuration name="C:/Users/saadi/workspace/FromGitHub/Git-Saved-For-Later/WebAutomation/Walmart/src/test/resources/WalmartTestRunner.xml" configurationId="TestNG" />
     </history-entry>
     <history-entry file="C__Users_saadi_workspace_FromGitHub_Git-Saved-For-Later_WebAutomation_Walmart_src_test_resources_WalmartTestRunner_xml - 2017.06.06 at 00h 45m 09s.xml">
       <configuration name="C:/Users/saadi/workspace/FromGitHub/Git-Saved-For-Later/WebAutomation/Walmart/src/test/resources/WalmartTestRunner.xml" configurationId="TestNG" />
@@ -1486,7 +1491,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="190711000" />
+    <option name="totallyTimeSpent" value="191015000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1872,37 +1877,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BestBuy/src/main/java/search/SearchBarr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="22" column="52" lean-forward="false" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#389#390#0" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
-            <element signature="e#458#459#0" expanded="true" />
-            <element signature="e#496#497#0" expanded="true" />
-            <element signature="e#529#530#0" expanded="true" />
-            <element signature="e#591#592#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BestBuy/src/test/resources/BestBuyTestRunner.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="57" lean-forward="true" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BestBuy/src/test/java/searchbar/SearchBar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1919,6 +1898,32 @@
     <entry file="file://$PROJECT_DIR$/BestBuy/src/test/java/brand/Brand.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
+          <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BestBuy/src/main/java/search/SearchBarr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="26" column="27" lean-forward="false" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+            <element signature="e#435#436#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+            <element signature="e#552#553#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BestBuy/src/test/java/searchbar/SearchBar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
           <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />

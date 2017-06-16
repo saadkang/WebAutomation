@@ -10,16 +10,20 @@ import org.openqa.selenium.support.How;
  */
 public class SearchBarr extends CommonAPI{
 
-    @FindBy(how = How.CSS, using = "#gh-search-input")
-    public static WebElement searchBar;
+    @FindBy(how = How.CSS, using = ".header-search-button")
+    public static WebElement searchButton;
 
-    public static WebElement getSearchBar() {
-        return searchBar;
+    public static WebElement getSearchButton() {
+        return searchButton;
     }
-    public void clickOnSearchBar() {
-        getSearchBar().click();
+    public void clickOnSearchButton() {
+        getSearchButton().click();
+    }
+    public void goToSearchButton(){
+        clickOnSearchButton();
     }
     public void goToSearchBar(){
-        typeByCssNEnter("#gh-search-input", "laptops");
+        typeByCss("#gh-search-input", "laptops");
+        goToSearchButton();
     }
 }
