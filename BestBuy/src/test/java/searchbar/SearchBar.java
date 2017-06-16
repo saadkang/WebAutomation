@@ -11,8 +11,9 @@ import search.SearchBarr;
 public class SearchBar extends CommonAPI{
 
     @Test
-    public void searchBarPage(){
+    public void searchBarPage() throws InterruptedException {
         SearchBarr searchBarr = PageFactory.initElements(driver, SearchBarr.class);
         searchBarr.goToSearchBar();
+        Thread.sleep(3000);
     }
 }

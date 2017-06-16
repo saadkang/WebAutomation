@@ -11,8 +11,9 @@ import org.testng.annotations.Test;
 public class Products extends CommonAPI{
 
     @Test
-    public void productPage(){
+    public void productPage() throws InterruptedException {
         HomePage homePage = PageFactory.initElements(driver, HomePage.class);
         homePage.goToProducts();
+        Thread.sleep(3000);
     }
 }

@@ -11,8 +11,9 @@ import org.testng.annotations.Test;
 public class Brand extends CommonAPI{
 
     @Test
-    public void brandPage(){
+    public void brandPage() throws InterruptedException {
         HomePage homePage = PageFactory.initElements(driver, HomePage.class);
         homePage.goToBrand();
+        Thread.sleep(3000);
     }
 }
