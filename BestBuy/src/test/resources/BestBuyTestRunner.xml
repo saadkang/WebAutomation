@@ -14,6 +14,7 @@
     <test name = "BestBuy Home">
         <classes>
             <class name="products.Products"/>
+            <class name="brand.Brand"/>
         </classes>
     </test>
 </suite>
