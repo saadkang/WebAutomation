@@ -15,6 +15,7 @@
         <classes>
             <class name="products.Products"/>
             <class name="brand.Brand"/>
+            <class name="searchbar.SearchBar"/>
         </classes>
     </test>
 </suite>

@@ -8,7 +8,7 @@ import org.openqa.selenium.support.How;
 /**
  * Created by saadi on 6/15/2017.
  */
-public class SearchBar extends CommonAPI{
+public class SearchBarr extends CommonAPI{
 
     @FindBy(how = How.CSS, using = "#gh-search-input")
     public static WebElement searchBar;
@@ -16,7 +16,10 @@ public class SearchBar extends CommonAPI{
     public static WebElement getSearchBar() {
         return searchBar;
     }
-    public void clickOnSearchBar(){
-        
+    public void clickOnSearchBar() {
+        getSearchBar().click();
+    }
+    public void goToSearchBar(){
+        typeByCssNEnter("#gh-search-input", "laptops");
     }
 }

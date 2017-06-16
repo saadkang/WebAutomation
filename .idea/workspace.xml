@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88d8ee8a-8e16-4c3f-ab0c-1245ca465f2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BestBuy/src/main/java/search/SearchBar.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BestBuy/src/test/java/brand/Brand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BestBuy/src/test/java/searchbar/SearchBar.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BestBuy/src/main/java/search/SearchBar.java" afterPath="$PROJECT_DIR$/BestBuy/src/main/java/search/SearchBarr.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BestBuy/src/main/java/homepage/HomePage.java" afterPath="$PROJECT_DIR$/BestBuy/src/main/java/homepage/HomePage.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BestBuy/src/test/resources/BestBuyTestRunner.xml" afterPath="$PROJECT_DIR$/BestBuy/src/test/resources/BestBuyTestRunner.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -111,25 +110,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BestBuyTestRunner.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SearchBar.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BestBuy/src/test/java/searchbar/SearchBar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BestBuyTestRunner.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BestBuy/src/test/resources/BestBuyTestRunner.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="59" lean-forward="true" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
+            <state relative-caret-position="102">
+              <caret line="6" column="57" lean-forward="true" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SearchBar.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BestBuy/src/main/java/search/SearchBar.java">
+      <file leaf-file-name="SearchBarr.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BestBuy/src/main/java/search/SearchBarr.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+            <state relative-caret-position="324">
+              <caret line="22" column="52" lean-forward="false" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#388#389#0" expanded="true" />
-                <element signature="e#420#421#0" expanded="true" />
+                <element signature="e#389#390#0" expanded="true" />
+                <element signature="e#421#422#0" expanded="true" />
+                <element signature="e#458#459#0" expanded="true" />
+                <element signature="e#496#497#0" expanded="true" />
+                <element signature="e#529#530#0" expanded="true" />
+                <element signature="e#591#592#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -156,7 +171,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/AliBaba/src/test/java/transportation/Transportation.java" />
         <option value="$PROJECT_DIR$/Starbucks/src/main/java/clickontabs/ClickOnTabs.java" />
         <option value="$PROJECT_DIR$/Starbucks/src/test/java/clickontabs/BlogTab.java" />
         <option value="$PROJECT_DIR$/Starbucks/src/main/java/findingstore/FindingStarbucks.java" />
@@ -205,8 +219,9 @@
         <option value="$PROJECT_DIR$/BestBuy/src/test/java/products/Products.java" />
         <option value="$PROJECT_DIR$/BestBuy/src/main/java/homepage/HomePage.java" />
         <option value="$PROJECT_DIR$/BestBuy/src/test/java/brand/Brand.java" />
-        <option value="$PROJECT_DIR$/BestBuy/src/test/resources/BestBuyTestRunner.xml" />
         <option value="$PROJECT_DIR$/BestBuy/src/main/java/search/SearchBar.java" />
+        <option value="$PROJECT_DIR$/BestBuy/src/test/java/searchbar/SearchBar.java" />
+        <option value="$PROJECT_DIR$/BestBuy/src/test/resources/BestBuyTestRunner.xml" />
       </list>
     </option>
   </component>
@@ -359,6 +374,36 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="searchbar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutomation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutomation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BestBuy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="products" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -412,6 +457,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="search" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1087,7 +1136,7 @@
       <workItem from="1496621059502" duration="611000" />
       <workItem from="1496721710046" duration="3734000" />
       <workItem from="1496757800092" duration="2528000" />
-      <workItem from="1497471379828" duration="12455000" />
+      <workItem from="1497471379828" duration="12853000" />
     </task>
     <task id="LOCAL-00001" summary="adding all the test to my shit">
       <created>1495249718294</created>
@@ -1383,7 +1432,14 @@
       <option name="project" value="LOCAL" />
       <updated>1497490134615</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Kang">
+      <created>1497583076965</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1497583076965</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1393,11 +1449,11 @@
     <history-entry file="C__Users_saadi_workspace_FromGitHub_Git-Saved-For-Later_WebAutomation_BestBuy_src_test_resources_BestBuyTestRunner_xml - 2017.06.15 at 23h 15m 16s.xml">
       <configuration name="C:/Users/saadi/workspace/FromGitHub/Git-Saved-For-Later/WebAutomation/BestBuy/src/test/resources/BestBuyTestRunner.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="C__Users_saadi_workspace_FromGitHub_Git-Saved-For-Later_WebAutomation_BestBuy_src_test_resources_BestBuyTestRunner_xml - 2017.06.15 at 23h 24m 16s.xml">
+      <configuration name="C:/Users/saadi/workspace/FromGitHub/Git-Saved-For-Later/WebAutomation/BestBuy/src/test/resources/BestBuyTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
     <history-entry file="C__Users_saadi_workspace_FromGitHub_Git-Saved-For-Later_WebAutomation_Starbucks_src_test_resources_StarbucksTestRunner_xml - 2017.06.14 at 20h 16m 43s.xml">
       <configuration name="C:/Users/saadi/workspace/FromGitHub/Git-Saved-For-Later/WebAutomation/Starbucks/src/test/resources/StarbucksTestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_saadi_workspace_FromGitHub_Git-Saved-For-Later_WebAutomation_Walmart_src_test_resources_WalmartTestRunner_xml - 2017.06.06 at 00h 36m 24s.xml">
-      <configuration name="C:/Users/saadi/workspace/FromGitHub/Git-Saved-For-Later/WebAutomation/Walmart/src/test/resources/WalmartTestRunner.xml" configurationId="TestNG" />
     </history-entry>
     <history-entry file="C__Users_saadi_workspace_FromGitHub_Git-Saved-For-Later_WebAutomation_Walmart_src_test_resources_WalmartTestRunner_xml - 2017.06.06 at 00h 44m 05s.xml">
       <configuration name="C:/Users/saadi/workspace/FromGitHub/Git-Saved-For-Later/WebAutomation/Walmart/src/test/resources/WalmartTestRunner.xml" configurationId="TestNG" />
@@ -1419,7 +1475,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="190220000" />
+    <option name="totallyTimeSpent" value="190618000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1558,13 +1614,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/NYP/src/test/resources/NYPTestRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Starbucks/src/test/java/clickontabs/CardTab.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -1790,16 +1839,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BestBuy/src/test/java/products/Products.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BestBuy/src/main/java/homepage/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="472">
@@ -1832,23 +1871,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BestBuy/src/test/resources/BestBuyTestRunner.xml">
+    <entry file="file://$PROJECT_DIR$/BestBuy/src/test/java/products/Products.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="59" lean-forward="true" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
-          <folding />
+        <state relative-caret-position="204">
+          <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BestBuy/src/main/java/search/SearchBar.java">
+    <entry file="file://$PROJECT_DIR$/BestBuy/src/main/java/search/SearchBarr.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        <state relative-caret-position="324">
+          <caret line="22" column="52" lean-forward="false" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BestBuy/src/test/java/searchbar/SearchBar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BestBuy/src/test/resources/BestBuyTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="57" lean-forward="true" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
+          <folding />
         </state>
       </provider>
     </entry>
