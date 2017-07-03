@@ -160,8 +160,8 @@ public class CommonAPI {
             driver = new InternetExplorerDriver();
         }
         return driver;
-    }
 
+    }
     public WebDriver getCloudDriver(String envName,String envUsername, String envAccessKey,String os, String os_version,String browserName,
                                     String browserVersion)throws IOException {
 
@@ -341,7 +341,7 @@ public class CommonAPI {
             FileUtils.copyFile(file, new File(System.getProperty("user.dir")+ "/screenshots/"+screenshotName+" "+df.format(date)+".png"));
             System.out.println("Screenshot captured");
         } catch (Exception e) {
-            System.out.println("Exception while taking screenshot "+e.getMessage());;
+            System.out.println("Exception while taking screenshot "+e.getMessage());
         }
 
     }
